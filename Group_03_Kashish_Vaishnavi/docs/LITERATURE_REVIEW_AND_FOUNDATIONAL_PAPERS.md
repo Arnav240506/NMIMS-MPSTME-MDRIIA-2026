@@ -46,7 +46,7 @@ Prospective real-world clinical trial comparing automated AED delivery vs ambula
 * Median time savings $\Delta t = 1\text{ min } 52\text{ s}$; arrival priority probability $P(t_{\text{robot}} < t_{\text{EMS}}) = 0.67$.
 
 #### Direct Applicability to MDRIIA_GROUP_03 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_03. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aed_navigation_controller.py` and the validation framework in `analytics/aed_delivery_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_03. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aed_navigation_controller.py` and the validation framework in `analytics/SIMULATED_aed_delivery_benchmark.csv`.
 
 ---
 
@@ -63,7 +63,7 @@ Authoritative epidemiological report on sudden cardiac arrest incidence, out-of-
 * Resuscitation decay rate $\frac{dS}{dt} = -k S(t)$, where $k \in [0.07, 0.10]\text{ min}^{-1}$ without bystander CPR.
 
 #### Direct Applicability to MDRIIA_GROUP_03 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_03. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aed_navigation_controller.py` and the validation framework in `analytics/aed_delivery_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_03. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aed_navigation_controller.py` and the validation framework in `analytics/SIMULATED_aed_delivery_benchmark.csv`.
 
 ---
 
@@ -80,7 +80,7 @@ Retrospective observational analysis of 216,787 emergency EMS incidents modeling
 * Urban delay distribution $P(t_{\text{EMS}} > 15\text{ min}) = 0.35$; queuing delay scaling $W_q = \frac{\lambda}{\mu(\mu - \lambda)}$.
 
 #### Direct Applicability to MDRIIA_GROUP_03 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_03. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aed_navigation_controller.py` and the validation framework in `analytics/aed_delivery_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_03. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aed_navigation_controller.py` and the validation framework in `analytics/SIMULATED_aed_delivery_benchmark.csv`.
 
 ---
 
@@ -97,7 +97,7 @@ Empirical observational study of autonomous delivery robots operating on public 
 * Comfort lateral separation $d_{\text{sep}} \ge 0.8\text{ m}$; slowing zone radius $r_{\text{slow}} = v_{\text{robot}} \tau_{\text{react}} + \frac{v^2}{2a_{\text{brake}}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_03 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_03. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aed_navigation_controller.py` and the validation framework in `analytics/aed_delivery_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_03. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aed_navigation_controller.py` and the validation framework in `analytics/SIMULATED_aed_delivery_benchmark.csv`.
 
 ---
 
@@ -114,7 +114,7 @@ Foundational multivariate mathematical model quantifying survival probability as
 * Survival model: $S(t_{\text{cpr}}, t_{\text{defib}}) = 0.67 - 0.023 t_{\text{cpr}} - 0.046 t_{\text{defib}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_03 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_03. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aed_navigation_controller.py` and the validation framework in `analytics/aed_delivery_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_03. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aed_navigation_controller.py` and the validation framework in `analytics/SIMULATED_aed_delivery_benchmark.csv`.
 
 ---
 
@@ -131,7 +131,7 @@ Analysis of survival outcomes as a function of shock response latency across var
 * Adjusted survival odds ratio $\text{OR} = \exp(-\beta \Delta t)$; defibrillation compliance ratio $\Psi = \frac{N_{<5\text{min}}}{N_{\text{total}}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_03 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_03. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aed_navigation_controller.py` and the validation framework in `analytics/aed_delivery_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_03. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aed_navigation_controller.py` and the validation framework in `analytics/SIMULATED_aed_delivery_benchmark.csv`.
 
 ---
 

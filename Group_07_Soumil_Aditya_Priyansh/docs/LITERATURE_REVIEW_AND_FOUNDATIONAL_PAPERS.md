@@ -46,7 +46,7 @@ End-to-end learning framework generating 6-DOF collision-free grasps for occlude
 * Grasp quality metric $Q(g, x) = P(\text{success} \mid g, x)$; collision avoidance constraint $\text{dist}(\mathcal{R}(q), \mathcal{O}_{\text{clutter}}) > d_{\text{margin}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_07 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_07. The algorithmic parameters and constraint formulations directly inform the controller design in `src/clutter_manipulator_controller.py` and the validation framework in `analytics/clutter_manipulation_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_07. The algorithmic parameters and constraint formulations directly inform the controller design in `src/clutter_manipulator_controller.py` and the validation framework in `analytics/SIMULATED_clutter_manipulation_benchmark.csv`.
 
 ---
 
@@ -63,7 +63,7 @@ Analytical contact mechanics and Ferrari-Canny grasp metrics comparing parallel-
 * Ferrari-Canny epsilon metric $\epsilon = \min_{w \in \partial \text{ConvexHull}(\mathcal{W})} \|w\|$; friction cone wrench resistance $w = [f^T, (r \times f)^T]^T$.
 
 #### Direct Applicability to MDRIIA_GROUP_07 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_07. The algorithmic parameters and constraint formulations directly inform the controller design in `src/clutter_manipulator_controller.py` and the validation framework in `analytics/clutter_manipulation_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_07. The algorithmic parameters and constraint formulations directly inform the controller design in `src/clutter_manipulator_controller.py` and the validation framework in `analytics/SIMULATED_clutter_manipulation_benchmark.csv`.
 
 ---
 
@@ -80,7 +80,7 @@ Non-prehensile push primitives that separate tightly packed objects in clutter b
 * Push trajectory vector $\mathbf{p}_{\text{push}} = \mathbf{p}_{\text{target}} + d \cdot \mathbf{n}_{\text{free}}$; separation gain $\Delta d_{\text{sep}} = \|x_i(t_1) - x_j(t_1)\| - \|x_i(t_0) - x_j(t_0)\|$.
 
 #### Direct Applicability to MDRIIA_GROUP_07 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_07. The algorithmic parameters and constraint formulations directly inform the controller design in `src/clutter_manipulator_controller.py` and the validation framework in `analytics/clutter_manipulation_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_07. The algorithmic parameters and constraint formulations directly inform the controller design in `src/clutter_manipulator_controller.py` and the validation framework in `analytics/SIMULATED_clutter_manipulation_benchmark.csv`.
 
 ---
 
@@ -97,7 +97,7 @@ Physics-based push-grasp planner predicting object trajectories during arm motio
 * Limit surface friction relationship $\mathbf{F}_t \in \partial \mathcal{L}(\mathbf{v}, \omega)$; quasi-static motion prediction $\mathbf{v}_o = J_c(q) \dot{q}$.
 
 #### Direct Applicability to MDRIIA_GROUP_07 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_07. The algorithmic parameters and constraint formulations directly inform the controller design in `src/clutter_manipulator_controller.py` and the validation framework in `analytics/clutter_manipulation_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_07. The algorithmic parameters and constraint formulations directly inform the controller design in `src/clutter_manipulator_controller.py` and the validation framework in `analytics/SIMULATED_clutter_manipulation_benchmark.csv`.
 
 ---
 
@@ -114,7 +114,7 @@ Clinical quantification of housekeeping turnaround intervals and cleaning consis
 * Turnaround interval $T_{\text{turn}} = T_{\text{discharge}} - T_{\text{admit}}$; hygienic cleaning compliance rate $\eta_{\text{hygiene}} = \frac{N_{\text{sanitized}}}{N_{\text{total surfaces}}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_07 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_07. The algorithmic parameters and constraint formulations directly inform the controller design in `src/clutter_manipulator_controller.py` and the validation framework in `analytics/clutter_manipulation_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_07. The algorithmic parameters and constraint formulations directly inform the controller design in `src/clutter_manipulator_controller.py` and the validation framework in `analytics/SIMULATED_clutter_manipulation_benchmark.csv`.
 
 ---
 
@@ -131,7 +131,7 @@ Reinforcement learning for coordinated push-and-grasp synergies in severe clutte
 * Synergy action-value function $Q(s, a_{\text{push}}, a_{\text{grasp}}) = \mathbb{E}[R \mid s, a]$; reward functional $R = r_{\text{grasp}} - \lambda_{\text{disturb}} \Delta x_{\text{clutter}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_07 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_07. The algorithmic parameters and constraint formulations directly inform the controller design in `src/clutter_manipulator_controller.py` and the validation framework in `analytics/clutter_manipulation_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_07. The algorithmic parameters and constraint formulations directly inform the controller design in `src/clutter_manipulator_controller.py` and the validation framework in `analytics/SIMULATED_clutter_manipulation_benchmark.csv`.
 
 ---
 

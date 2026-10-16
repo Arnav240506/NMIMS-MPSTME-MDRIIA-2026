@@ -46,7 +46,7 @@ Multi-objective posture optimization using Generalized Jacobian Matrix to minimi
 * Generalized Jacobian $J_g = J_m - J_b I_b^{-1} I_{bm}$; base reaction torque $\tau_b = \int \dot{H}_b dt$.
 
 #### Direct Applicability to MDRIIA_GROUP_04 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_04. The algorithmic parameters and constraint formulations directly inform the controller design in `src/debris_capture_controller.py` and the validation framework in `analytics/space_debris_capture_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_04. The algorithmic parameters and constraint formulations directly inform the controller design in `src/debris_capture_controller.py` and the validation framework in `analytics/SIMULATED_space_debris_capture_benchmark.csv`.
 
 ---
 
@@ -63,7 +63,7 @@ Trajectory optimization using non-uniform B-splines for free-floating manipulato
 * Momentum conservation $I_s \omega_0 + \sum I_i \omega_i = 0$; spline cost functional $J = \int_0^T \ddot{q}(t)^T W \ddot{q}(t) dt$.
 
 #### Direct Applicability to MDRIIA_GROUP_04 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_04. The algorithmic parameters and constraint formulations directly inform the controller design in `src/debris_capture_controller.py` and the validation framework in `analytics/space_debris_capture_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_04. The algorithmic parameters and constraint formulations directly inform the controller design in `src/debris_capture_controller.py` and the validation framework in `analytics/SIMULATED_space_debris_capture_benchmark.csv`.
 
 ---
 
@@ -80,7 +80,7 @@ Mathematical modeling of impulse transfer and post-impact attitude stabilization
 * Contact impulse equation $I_{\text{imp}} = \int_{t_c}^{t_c+\delta} F_c dt = \Delta(M\dot{x})$; Lyapunov detumbling law $u = -K_p e_q - K_d \omega$.
 
 #### Direct Applicability to MDRIIA_GROUP_04 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_04. The algorithmic parameters and constraint formulations directly inform the controller design in `src/debris_capture_controller.py` and the validation framework in `analytics/space_debris_capture_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_04. The algorithmic parameters and constraint formulations directly inform the controller design in `src/debris_capture_controller.py` and the validation framework in `analytics/SIMULATED_space_debris_capture_benchmark.csv`.
 
 ---
 
@@ -97,7 +97,7 @@ Multi-phase trajectory synchronization and progressive contact friction braking 
 * Spin velocity matching $\lim_{t \to t_c} (\omega_{\text{ee}} - \omega_{\text{target}}) = 0$; dissipation energy $E_{\text{diss}} = \int F_f v_{\text{rel}} dt$.
 
 #### Direct Applicability to MDRIIA_GROUP_04 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_04. The algorithmic parameters and constraint formulations directly inform the controller design in `src/debris_capture_controller.py` and the validation framework in `analytics/space_debris_capture_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_04. The algorithmic parameters and constraint formulations directly inform the controller design in `src/debris_capture_controller.py` and the validation framework in `analytics/SIMULATED_space_debris_capture_benchmark.csv`.
 
 ---
 
@@ -114,7 +114,7 @@ Nonlinear impedance-sliding mode controller guaranteeing bounded contact interac
 * Target impedance dynamic $M_d \ddot{e} + D_d \dot{e} + K_d e = F_{\text{ext}}$; sliding surface $S(t) = \dot{e} + \Lambda e$.
 
 #### Direct Applicability to MDRIIA_GROUP_04 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_04. The algorithmic parameters and constraint formulations directly inform the controller design in `src/debris_capture_controller.py` and the validation framework in `analytics/space_debris_capture_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_04. The algorithmic parameters and constraint formulations directly inform the controller design in `src/debris_capture_controller.py` and the validation framework in `analytics/SIMULATED_space_debris_capture_benchmark.csv`.
 
 ---
 
@@ -131,7 +131,7 @@ Comprehensive mathematical review of orbital state uncertainty propagation, rela
 * Clohessy-Wiltshire (CW) relative equations: $\ddot{x} - 2n\dot{y} - 3n^2x = f_x/m, \quad \ddot{y} + 2n\dot{x} = f_y/m, \quad \ddot{z} + n^2z = f_z/m$.
 
 #### Direct Applicability to MDRIIA_GROUP_04 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_04. The algorithmic parameters and constraint formulations directly inform the controller design in `src/debris_capture_controller.py` and the validation framework in `analytics/space_debris_capture_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_04. The algorithmic parameters and constraint formulations directly inform the controller design in `src/debris_capture_controller.py` and the validation framework in `analytics/SIMULATED_space_debris_capture_benchmark.csv`.
 
 ---
 

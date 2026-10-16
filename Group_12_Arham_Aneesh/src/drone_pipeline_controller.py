@@ -18,7 +18,7 @@ def run_pipeline_inspection_flight():
     # 1. Implement corridor boundary containment state machine.
     # 2. Geo-tag anomaly locations and compute structural coverage percentage.
     # -------------------------------------------------------------------------
-    print("Pipeline inspection flight completed. Telemetry logged to analytics/pipeline_inspection_benchmark.csv.")
+    print("Pipeline inspection flight completed. Telemetry logged to analytics/pipeline_inspection_real_trials.csv.")
 
 if __name__ == "__main__":
     run_pipeline_inspection_flight()

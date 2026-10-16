@@ -13,7 +13,7 @@
 * **Physics & Kinematics:** Google DeepMind MuJoCo multi-body dynamic physics simulation (`models/skyhydro_flood_uav.xml`).
 * **Autonomous Control:** Closed-loop Python control architecture with student implementation boundaries (`src/flood_relief_drop_sim.py`).
 * **Technoeconomic Evaluation:** Dimensionless CSBS operational economics and return on investment model (`analytics/disaster_relief_logistics.py`).
-* **Empirical Validation:** Reproducible benchmark trials and statistical hypothesis testing (`analytics/flood_relief_benchmark.csv`).
+* **Empirical Validation:** Reproducible benchmark trials and statistical hypothesis testing (`analytics/flood_relief_real_trials.csv`).
 
 ---
 
@@ -98,7 +98,7 @@ For the exhaustive literature analysis, mathematical derivations, and viva defen
     |-- .gitkeep
     |-- disaster_relief_logistics.py                                      <- CSBS dimensionless technoeconomic model
     |-- generate_paper_figures.py                      <- Standalone 300 DPI publication figure generator
-    `-- flood_relief_benchmark.csv                                    <- Empirical benchmark trial dataset
+    `-- SIMULATED_flood_relief_benchmark.csv                                    <- SIMULATED starter targets (np.random), NOT results
 ```
 
 ---
@@ -114,7 +114,7 @@ To ensure academic rigor and authentic student learning, this repository enforce
   * Dimensionless technoeconomic framework (`analytics/disaster_relief_logistics.py`).
 * **Student Technical Deliverables (Required for Evaluation):**
   * Implement and tune the control algorithm in `src/flood_relief_drop_sim.py` (filling all marked `# TODO [Student Roll / Name]` blocks).
-  * Run physics simulation trials to collect and expand empirical data in `analytics/flood_relief_benchmark.csv`.
+  * Run physics simulation trials to collect and expand empirical data in `analytics/flood_relief_real_trials.csv`.
   * Re-run `analytics/generate_paper_figures.py` to regenerate publication figures with live experimental telemetry.
   * Author the final 4-page IEEE conference paper in `docs/RESEARCH_PAPER_MANUSCRIPT_BLUEPRINT.md` and defend individual Git commits during the oral viva.
 

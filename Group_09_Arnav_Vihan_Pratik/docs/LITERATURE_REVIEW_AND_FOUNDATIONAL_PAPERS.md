@@ -46,7 +46,7 @@ Continuous 2.5D elevation mapping framework propagating robot pose covariance in
 * Terrain variance update $\sigma_h^2(x,y) = \sigma_{\text{meas}}^2 + J_p \Sigma_{\text{pose}} J_p^T$; traversability cost $c(x,y) = w_1 \nabla h + w_2 \sigma_h^2$.
 
 #### Direct Applicability to MDRIIA_GROUP_09 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_09. The algorithmic parameters and constraint formulations directly inform the controller design in `src/rough_terrain_recon_controller.py` and the validation framework in `analytics/ugv_traversability_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_09. The algorithmic parameters and constraint formulations directly inform the controller design in `src/rough_terrain_recon_controller.py` and the validation framework in `analytics/SIMULATED_ugv_traversability_benchmark.csv`.
 
 ---
 
@@ -63,7 +63,7 @@ Real-time stereo vision surface patch fitting evaluating terrain traversability 
 * Roughness metric $\rho = \sqrt{\frac{1}{N} \sum (z_i - \bar{z})^2}$; critical step threshold $h_{\text{step}} > 0.5 r_{\text{wheel}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_09 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_09. The algorithmic parameters and constraint formulations directly inform the controller design in `src/rough_terrain_recon_controller.py` and the validation framework in `analytics/ugv_traversability_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_09. The algorithmic parameters and constraint formulations directly inform the controller design in `src/rough_terrain_recon_controller.py` and the validation framework in `analytics/SIMULATED_ugv_traversability_benchmark.csv`.
 
 ---
 
@@ -80,7 +80,7 @@ Architecture for high-speed autonomous off-road navigation combining model predi
 * Predictive trajectory roll-out $\dot{x} = f(x, u)$; collision hazard metric $H(u) = \max_{t \in [0, T]} \text{Cost}(p(t))$.
 
 #### Direct Applicability to MDRIIA_GROUP_09 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_09. The algorithmic parameters and constraint formulations directly inform the controller design in `src/rough_terrain_recon_controller.py` and the validation framework in `analytics/ugv_traversability_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_09. The algorithmic parameters and constraint formulations directly inform the controller design in `src/rough_terrain_recon_controller.py` and the validation framework in `analytics/SIMULATED_ugv_traversability_benchmark.csv`.
 
 ---
 
@@ -97,7 +97,7 @@ Empirical evaluation of operator cognitive workload, situation awareness, and te
 * Workload index $W_{\text{NASA}} = \sum w_i S_i$; task completion time penalty $T_{\text{teleop}} = T_{\text{auto}} (1 + \alpha \tau_{\text{latency}})^2$.
 
 #### Direct Applicability to MDRIIA_GROUP_09 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_09. The algorithmic parameters and constraint formulations directly inform the controller design in `src/rough_terrain_recon_controller.py` and the validation framework in `analytics/ugv_traversability_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_09. The algorithmic parameters and constraint formulations directly inform the controller design in `src/rough_terrain_recon_controller.py` and the validation framework in `analytics/SIMULATED_ugv_traversability_benchmark.csv`.
 
 ---
 
@@ -114,7 +114,7 @@ Field analysis of rescue robots deployed at Ground Zero, detailing communication
 * Failure rate $\lambda_{\text{fail}} = \frac{N_{\text{disorientation}}}{T_{\text{mission}}}$; mean time between interventions (MTBI).
 
 #### Direct Applicability to MDRIIA_GROUP_09 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_09. The algorithmic parameters and constraint formulations directly inform the controller design in `src/rough_terrain_recon_controller.py` and the validation framework in `analytics/ugv_traversability_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_09. The algorithmic parameters and constraint formulations directly inform the controller design in `src/rough_terrain_recon_controller.py` and the validation framework in `analytics/SIMULATED_ugv_traversability_benchmark.csv`.
 
 ---
 
@@ -131,7 +131,7 @@ Routing and area coverage algorithms in disaster operations balancing sensor cov
 * Inspection coverage utility $U_{\text{cov}} = \sum_{i \in V} R_i (1 - e^{-\beta t_i})$; communication latency bound $\tau_{\text{delay}} \le \tau_{\max}$.
 
 #### Direct Applicability to MDRIIA_GROUP_09 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_09. The algorithmic parameters and constraint formulations directly inform the controller design in `src/rough_terrain_recon_controller.py` and the validation framework in `analytics/ugv_traversability_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_09. The algorithmic parameters and constraint formulations directly inform the controller design in `src/rough_terrain_recon_controller.py` and the validation framework in `analytics/SIMULATED_ugv_traversability_benchmark.csv`.
 
 ---
 

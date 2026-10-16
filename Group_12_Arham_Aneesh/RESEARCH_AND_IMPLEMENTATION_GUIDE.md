@@ -11,5 +11,5 @@ This research develops an autonomous multirotor UAV platform simulated in Google
 ### 2. Implementation Workflow
 1. Verify environment using `python src/test_env.py`.
 2. Implement corridor guidance in `src/drone_pipeline_controller.py`.
-3. Run Monte Carlo simulation trials and verify metrics in `analytics/pipeline_inspection_benchmark.csv`.
+3. Run Monte Carlo simulation trials and verify metrics in `analytics/SIMULATED_pipeline_inspection_benchmark.csv`.
 4. Render 300 DPI figures using `python analytics/generate_paper_figures.py`.

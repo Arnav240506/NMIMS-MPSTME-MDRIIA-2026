@@ -13,7 +13,7 @@
 * **Physics & Kinematics:** Google DeepMind MuJoCo multi-body dynamic physics simulation (`models/solar_defect_amr.xml`).
 * **Autonomous Control:** Closed-loop Python control architecture with student implementation boundaries (`src/solar_defect_detector.py`).
 * **Technoeconomic Evaluation:** Dimensionless CSBS operational economics and return on investment model (`analytics/solar_pv_roi.py`).
-* **Empirical Validation:** Reproducible benchmark trials and statistical hypothesis testing (`analytics/solar_inspection_benchmark.csv`).
+* **Empirical Validation:** Reproducible benchmark trials and statistical hypothesis testing (`analytics/solar_inspection_real_trials.csv`).
 
 ---
 
@@ -84,7 +84,7 @@ The research project is theoretically anchored on six foundational peer-reviewed
 |   `-- solar_defect_detector.py                       <- Autonomous control loop (# TODO student boundaries)
 `-- analytics/
     |-- solar_pv_roi.py                                <- CSBS dimensionless technoeconomic model
-    `-- solar_inspection_benchmark.csv                 <- Empirical benchmark trial dataset
+    `-- SIMULATED_solar_inspection_benchmark.csv                 <- SIMULATED starter targets (np.random), NOT results
 ```
 
 ---
@@ -98,7 +98,7 @@ The research project is theoretically anchored on six foundational peer-reviewed
   * Dimensionless technoeconomic framework (`analytics/solar_pv_roi.py`).
 * **Student Technical Deliverables (Required for Evaluation):**
   * Implement and tune the inspection and defect detection algorithm in `src/solar_defect_detector.py`.
-  * Run physics simulation trials to collect empirical data in `analytics/solar_inspection_benchmark.csv`.
+  * Run physics simulation trials to collect empirical data in `analytics/solar_inspection_real_trials.csv`.
   * Author the final 4-page IEEE conference paper in `docs/RESEARCH_PAPER_MANUSCRIPT_BLUEPRINT.md` and defend individual Git commits during the oral viva.
 
 ---

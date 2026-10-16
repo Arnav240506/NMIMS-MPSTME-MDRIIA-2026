@@ -15,7 +15,7 @@ def run_inspection_mission():
     # 2. Integrate thermal radiance delta thresholding: Delta T >= 15.0 deg C.
     # 3. Geo-reference hotspot coordinates relative to array corridor origin.
     # -------------------------------------------------------------------------
-    print("Mission completed. Telemetry logged to analytics/solar_inspection_benchmark.csv.")
+    print("Mission completed. Telemetry logged to analytics/solar_inspection_real_trials.csv.")
 
 if __name__ == "__main__":
     run_inspection_mission()

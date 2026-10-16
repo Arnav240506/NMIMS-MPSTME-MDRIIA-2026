@@ -46,7 +46,7 @@ Mathematical formulation of vehicle routing problems for multirotor drone delive
 * Power consumption model $P(m) = (m_{\text{drone}} + m_{\text{pay}})^{3/2} \sqrt{\frac{g^3}{2 \rho A n_r}} + P_{\text{avionics}}$; energy constraint $\sum P(m_i) t_i \le E_{\text{batt}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_08 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_08. The algorithmic parameters and constraint formulations directly inform the controller design in `src/flood_relief_drop_sim.py` and the validation framework in `analytics/flood_relief_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_08. The algorithmic parameters and constraint formulations directly inform the controller design in `src/flood_relief_drop_sim.py` and the validation framework in `analytics/SIMULATED_flood_relief_benchmark.csv`.
 
 ---
 
@@ -63,7 +63,7 @@ Continuous approximation modeling of decentralized drone fleet deployment for hu
 * Fleet demand coverage $D(x,y) = \int \int \rho_{\text{victim}}(x,y) dx dy$; optimal launch facility density $n^* = \sqrt{\frac{c_f \rho_d}{2 c_t}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_08 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_08. The algorithmic parameters and constraint formulations directly inform the controller design in `src/flood_relief_drop_sim.py` and the validation framework in `analytics/flood_relief_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_08. The algorithmic parameters and constraint formulations directly inform the controller design in `src/flood_relief_drop_sim.py` and the validation framework in `analytics/SIMULATED_flood_relief_benchmark.csv`.
 
 ---
 
@@ -80,7 +80,7 @@ Nonlinear trajectory tracking and active payload swing attenuation for quadrotor
 * Cable swing dynamics $\ddot{\alpha} + \frac{g}{L} \sin\alpha = -\frac{\ddot{x}_{\text{uav}}}{L} \cos\alpha$; anti-swing control input $u_{\text{cmd}} = u_{\text{nom}} + K_s \dot{\alpha}$.
 
 #### Direct Applicability to MDRIIA_GROUP_08 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_08. The algorithmic parameters and constraint formulations directly inform the controller design in `src/flood_relief_drop_sim.py` and the validation framework in `analytics/flood_relief_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_08. The algorithmic parameters and constraint formulations directly inform the controller design in `src/flood_relief_drop_sim.py` and the validation framework in `analytics/SIMULATED_flood_relief_benchmark.csv`.
 
 ---
 
@@ -97,7 +97,7 @@ Visual servoing framework utilizing downward camera perception to localize landi
 * Visual error vector $\mathbf{e}_v = \mathbf{p}_{\text{target}} - \mathbf{p}_{\text{cam}}$; visual servoing control law $\mathbf{v}_{\text{cmd}} = -\lambda L_e^+ \mathbf{e}_v$.
 
 #### Direct Applicability to MDRIIA_GROUP_08 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_08. The algorithmic parameters and constraint formulations directly inform the controller design in `src/flood_relief_drop_sim.py` and the validation framework in `analytics/flood_relief_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_08. The algorithmic parameters and constraint formulations directly inform the controller design in `src/flood_relief_drop_sim.py` and the validation framework in `analytics/SIMULATED_flood_relief_benchmark.csv`.
 
 ---
 
@@ -114,7 +114,7 @@ Contact impedance and interaction control for unmanned aerial vehicles physicall
 * Coupled mass matrix $\begin{bmatrix} M_{uu} & M_{up} \\ M_{pu} & M_{pp} \end{bmatrix} \begin{bmatrix} \ddot{q}_u \\ \ddot{q}_p \end{bmatrix} + C(q, \dot{q}) = \begin{bmatrix} \tau_u \\ 0 \end{bmatrix}$; payload release impulse dissipation.
 
 #### Direct Applicability to MDRIIA_GROUP_08 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_08. The algorithmic parameters and constraint formulations directly inform the controller design in `src/flood_relief_drop_sim.py` and the validation framework in `analytics/flood_relief_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_08. The algorithmic parameters and constraint formulations directly inform the controller design in `src/flood_relief_drop_sim.py` and the validation framework in `analytics/SIMULATED_flood_relief_benchmark.csv`.
 
 ---
 
@@ -131,7 +131,7 @@ Spatial analysis of isolated victim clusters and road submergence during catastr
 * Isolation index $\Omega = \frac{T_{\text{submerged}}}{T_{\text{clear}}}$; relief urgency priority metric $U_i = w_1 \frac{N_{\text{victims}}}{A_i} + w_2 \Omega_i$.
 
 #### Direct Applicability to MDRIIA_GROUP_08 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_08. The algorithmic parameters and constraint formulations directly inform the controller design in `src/flood_relief_drop_sim.py` and the validation framework in `analytics/flood_relief_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_08. The algorithmic parameters and constraint formulations directly inform the controller design in `src/flood_relief_drop_sim.py` and the validation framework in `analytics/SIMULATED_flood_relief_benchmark.csv`.
 
 ---
 

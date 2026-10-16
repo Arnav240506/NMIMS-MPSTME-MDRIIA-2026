@@ -91,5 +91,5 @@ To complete the project, the student team must commit the following:
 
 1. **`models/aed_delivery_amr.xml`:** Completed 4-wheel independent suspension chassis, curb obstacle, and payload compartment.
 2. **`src/aed_navigation_controller.py`:** Working implementation of `# TODO` blocks for path following, curb traversal, and telemetry logging.
-3. **`analytics/aed_delivery_benchmark.csv`:** Real simulation telemetry dataset generated from at least 80 experimental runs.
+3. **`analytics/aed_delivery_real_trials.csv`:** Your real simulation telemetry (N >= 30 runs per condition) written by your controller. The starter file SIMULATED_solar_cleaning_benchmark.csv holds generated targets, not results.
 4. **`docs/RESEARCH_PAPER_MANUSCRIPT_BLUEPRINT.md`:** Completed 4-page conference manuscript with all sections drafted and student findings recorded.

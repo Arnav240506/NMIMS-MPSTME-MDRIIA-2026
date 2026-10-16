@@ -2,6 +2,17 @@
 ## Modern Day Robotics and Its Industrial Applications (MDRIIA - Course Code: 702CO0E012)
 ### Problem-Based Learning (PBL) Research Cohort | Academic Year 2026–2027 (Semester VI, B.Tech CSBS)
 
+
+> [!CAUTION]
+> ## 🚨 CAPSTONE SUBMISSION DIRECTIVE (Capstone ICA, 20 marks)
+> **Due: Monday, 26-Oct-2026, 23:59 IST · Studio Showcase, Expo & Viva Voce: Saturday, 31-Oct-2026**
+>
+> 1. **Dossier:** complete `Group_XX_*/docs/MDRIIA_Group_XX_Technical_Dossier.docx` in **Microsoft Word** (drop-downs and "type here" fields), export to PDF, and commit **both** the `.docx` and the `.pdf` to your `docs/` folder.
+> 2. **MS Teams:** **every member** attaches the group's PDF and clicks **Turn in**. Marks are recorded per student.
+> 3. **No PPT slides.** Present the live MuJoCo simulation, your CSBS business sensitivity graphs and a webcam picture-in-picture of every member (Expo and 3–4 min LinkedIn video).
+> 4. **Data provenance:** `SIMULATED_*` files and every `generate_paper_figures.py` contain **generated target numbers**, not results. Report only telemetry from MuJoCo runs of your own controller, saved as `analytics/*_real_trials.csv`.
+> 5. **Marks:** Component 1 CDIO Robotics Engineering & MuJoCo Physics **10** · Component 2 CSBS Techno-Economic Business Systems Analysis **5** · Component 3 Studio Showcase & Viva Voce **5**. See [`GRADING_RUBRIC_AND_EVALUATION_POLICY.md`](./GRADING_RUBRIC_AND_EVALUATION_POLICY.md) and [`MDRIIA_LinkedIn_and_GitHub_Showcase_Guide.pdf`](./MDRIIA_LinkedIn_and_GitHub_Showcase_Guide.pdf).
+
 ---
 
 ## Cohort Overview & Academic Metadata
@@ -17,7 +28,7 @@
 | **Literature Rigor** | 6 Verified DOIs per group (72 Verified CrossRef DOIs total, 100% Active HTTP 200) |
 | **Physics & Telemetry Standard** | DeepMind MuJoCo Physics & High-Frequency Closed-Loop Telemetry Logging ($N \ge 50$) |
 | **Technoeconomic Rigor** | Dimensionless CSBS Cost Parity Ratio ($\kappa \le 0.25$) & Payback Horizon |
-| **Quality Audit** | 100% Zero Defects Verified across all repository files |
+| **Data Provenance** | Starter benchmark values are simulated targets (`SIMULATED_*`); results come only from each group's `analytics/*_real_trials.csv` |
 
 ---
 
@@ -60,7 +71,7 @@ For external evaluators, visiting faculty, and students reviewing project milest
 
 ## Master Group Directory & Research Project Index
 
-| Group # | Group Workspace Folder | Domain / Project Topic | Student Researchers | Authorized Research Title | Key Validated Benchmarks |
+| Group # | Group Workspace Folder | Domain / Project Topic | Student Researchers | Authorized Research Title | Starter Reference Benchmarks (Simulated Targets) |
 | :---: | :--- | :--- | :--- | :--- | :--- |
 | **Group 01** | [Group_01_Khushal_Priyal_Ishita_Sowmya](./Group_01_Khushal_Priyal_Ishita_Sowmya) | Autonomous robot for delivery of critical medicines for ICUs | Khushal Asnani (E006), Priyal Kaushal Deputy (E016), Ishita Ranjan (E054), Sowmya Satish (E060) | To what extent can an autonomous mobile medicine-delivery robot (simulated in MuJoCo with dynamic obstacle avoidance) reduce ICU nurses' non-patient-facing logistics transit time and optimize labor reallocation, where clinical studies document nurses spending approximately 28% of their shift on supply retrieval? | Reclaims 72.4% nurse transit time; $\kappa = 0.182$; Payback: 14.7 months; 6 Verified DOIs |
 | **Group 02** | [Group_02_Kamakshi_Devanshi](./Group_02_Kamakshi_Devanshi) | AI companion robot for remote supervision, medication reminders and emergency response | Kamakshi Bahuguna (E007), Devanshi Sachin Kambli (B029) | How can a vision-based mobile companion robot in MuJoCo integrate MediaPipe fall-detection kinematics to reduce emergency dispatch latency within the critical 6-minute cardiac arrest survival window for elderly individuals living alone? | Fall-dispatch latency: 42.6 s (< 6-min window); F1-score: 0.961; $\kappa = 0.165$; 6 Verified DOIs |

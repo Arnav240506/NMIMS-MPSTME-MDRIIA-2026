@@ -46,7 +46,7 @@ Empirical accelerometer vibration analysis of crystalline silicon photovoltaic m
 * Vibration acceleration power spectral density $S_{aa}(f) = \lim_{T\to\infty} \frac{1}{T} |A(f)|^2$; micro-crack fatigue stress $\sigma_a \le \sigma_{\text{allow}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_06 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_06. The algorithmic parameters and constraint formulations directly inform the controller design in `src/crawler_cleaning_controller.py` and the validation framework in `analytics/solar_cleaning_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_06. The algorithmic parameters and constraint formulations directly inform the controller design in `src/crawler_cleaning_controller.py` and the validation framework in `analytics/SIMULATED_solar_cleaning_benchmark.csv`.
 
 ---
 
@@ -63,7 +63,7 @@ Quantitative analysis of particulate deposition rates, optical transmittance deg
 * Soiling ratio $\text{SR}(t) = \frac{P_{\text{soiled}}(t)}{P_{\text{clean}}(t)} = 1 - \beta_{\text{soil}} t$; optical transmittance loss $\tau(\lambda) = \exp(-\kappa_{\text{ext}} m_{\text{dust}})$.
 
 #### Direct Applicability to MDRIIA_GROUP_06 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_06. The algorithmic parameters and constraint formulations directly inform the controller design in `src/crawler_cleaning_controller.py` and the validation framework in `analytics/solar_cleaning_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_06. The algorithmic parameters and constraint formulations directly inform the controller design in `src/crawler_cleaning_controller.py` and the validation framework in `analytics/SIMULATED_solar_cleaning_benchmark.csv`.
 
 ---
 
@@ -80,7 +80,7 @@ Evaluation of partial shading losses and bypass diode activation caused by clean
 * String current under partial shading $I_{\text{string}} = \min_j(I_{\text{cell}, j})$; mismatch power loss $\Delta P_{\text{shade}} = \sum (V_m - V_{\text{bypass}}) I_L$.
 
 #### Direct Applicability to MDRIIA_GROUP_06 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_06. The algorithmic parameters and constraint formulations directly inform the controller design in `src/crawler_cleaning_controller.py` and the validation framework in `analytics/solar_cleaning_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_06. The algorithmic parameters and constraint formulations directly inform the controller design in `src/crawler_cleaning_controller.py` and the validation framework in `analytics/SIMULATED_solar_cleaning_benchmark.csv`.
 
 ---
 
@@ -97,7 +97,7 @@ Design of waterless dust removal mechanisms evaluating brush rotational velocity
 * Dust removal efficiency $\eta_{\text{clean}} = \frac{m_{\text{initial}} - m_{\text{residual}}}{m_{\text{initial}}} \times 100\%$; brush torque $\tau_{\text{brush}} = \mu_b F_N r_b$.
 
 #### Direct Applicability to MDRIIA_GROUP_06 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_06. The algorithmic parameters and constraint formulations directly inform the controller design in `src/crawler_cleaning_controller.py` and the validation framework in `analytics/solar_cleaning_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_06. The algorithmic parameters and constraint formulations directly inform the controller design in `src/crawler_cleaning_controller.py` and the validation framework in `analytics/SIMULATED_solar_cleaning_benchmark.csv`.
 
 ---
 
@@ -114,7 +114,7 @@ Stochastic optimization framework balancing robotic maintenance costs against cu
 * Net economic benefit $\Pi = \int_0^T \left( P_{\text{gen}}(t) \cdot \text{Tariff}(t) \right) dt - \sum_{k=1}^K C_{\text{clean}}^{(k)}$; optimal period $T^* = \sqrt{\frac{2 C_{\text{clean}}}{\beta_{\text{loss}} P_0}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_06 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_06. The algorithmic parameters and constraint formulations directly inform the controller design in `src/crawler_cleaning_controller.py` and the validation framework in `analytics/solar_cleaning_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_06. The algorithmic parameters and constraint formulations directly inform the controller design in `src/crawler_cleaning_controller.py` and the validation framework in `analytics/SIMULATED_solar_cleaning_benchmark.csv`.
 
 ---
 
@@ -131,7 +131,7 @@ Thermodynamic modeling of morning dew condensation, cementation of dust crusts, 
 * Adhesion shear stress $\tau_{\text{shear}} = \frac{F_{\text{adhesion}}}{A_{\text{contact}}} = \gamma_{\text{surface}} (1 + \cos\theta_{\text{contact}})$; crust breaking torque bound.
 
 #### Direct Applicability to MDRIIA_GROUP_06 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_06. The algorithmic parameters and constraint formulations directly inform the controller design in `src/crawler_cleaning_controller.py` and the validation framework in `analytics/solar_cleaning_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_06. The algorithmic parameters and constraint formulations directly inform the controller design in `src/crawler_cleaning_controller.py` and the validation framework in `analytics/SIMULATED_solar_cleaning_benchmark.csv`.
 
 ---
 

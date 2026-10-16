@@ -13,7 +13,7 @@
 * **Physics & Kinematics:** Google DeepMind MuJoCo multi-body dynamic physics simulation (`models/pipeline_surveillance_drone.xml`).
 * **Autonomous Control:** Closed-loop Python control architecture with student implementation boundaries (`src/drone_pipeline_controller.py`).
 * **Technoeconomic Evaluation:** Dimensionless CSBS operational economics and return on investment model (`analytics/pipeline_monitoring_roi.py`).
-* **Empirical Validation:** Reproducible benchmark trials and statistical hypothesis testing (`analytics/pipeline_inspection_benchmark.csv`).
+* **Empirical Validation:** Reproducible benchmark trials and statistical hypothesis testing (`analytics/pipeline_inspection_real_trials.csv`).
 
 ---
 
@@ -87,7 +87,7 @@ The research project is theoretically anchored on six foundational peer-reviewed
 `-- analytics/
     |-- pipeline_monitoring_roi.py                     <- CSBS dimensionless technoeconomic model
     |-- generate_paper_figures.py                      <- 300 DPI publication figure generator
-    `-- pipeline_inspection_benchmark.csv              <- Empirical benchmark trial dataset
+    `-- SIMULATED_pipeline_inspection_benchmark.csv              <- SIMULATED starter targets (np.random), NOT results
 ```
 
 ---
@@ -101,7 +101,7 @@ The research project is theoretically anchored on six foundational peer-reviewed
   * Dimensionless technoeconomic framework (`analytics/pipeline_monitoring_roi.py`).
 * **Student Technical Deliverables (Required for Evaluation):**
   * Implement and tune the aerial corridor navigation and pipeline inspection algorithm in `src/drone_pipeline_controller.py`.
-  * Run physics simulation trials to collect empirical data in `analytics/pipeline_inspection_benchmark.csv`.
+  * Run physics simulation trials to collect empirical data in `analytics/pipeline_inspection_real_trials.csv`.
   * Author the final 4-page IEEE conference paper in `docs/RESEARCH_PAPER_MANUSCRIPT_BLUEPRINT.md` and defend individual Git commits during the oral viva.
 
 ---

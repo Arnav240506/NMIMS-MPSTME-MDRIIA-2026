@@ -46,7 +46,7 @@ Empirical navigation benchmarking of hospital AMRs across dynamic clinic corrido
 * Path curvature $\kappa(s) = \frac{x'y'' - y'x'}{(x'^2 + y'^2)^{3/2}}$; obstacle clearance penalty $C(d) = \exp(-\alpha(d - d_{\text{safe}}))$.
 
 #### Direct Applicability to MDRIIA_GROUP_01 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_01. The algorithmic parameters and constraint formulations directly inform the controller design in `src/icu_amr_controller.py` and the validation framework in `analytics/icu_medicine_delivery_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_01. The algorithmic parameters and constraint formulations directly inform the controller design in `src/icu_amr_controller.py` and the validation framework in `analytics/SIMULATED_icu_medicine_delivery_benchmark.csv`.
 
 ---
 
@@ -63,7 +63,7 @@ Formulation of multi-trip AMR fleet dispatch with hard clinical delivery time wi
 * $\min \sum_{k \in K} \sum_{(i,j) \in A} c_{ij} x_{ijk}$ subject to $a_i \le t_{ik} \le b_i$ and SoC constraints $E_k(t) \ge E_{\min}$.
 
 #### Direct Applicability to MDRIIA_GROUP_01 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_01. The algorithmic parameters and constraint formulations directly inform the controller design in `src/icu_amr_controller.py` and the validation framework in `analytics/icu_medicine_delivery_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_01. The algorithmic parameters and constraint formulations directly inform the controller design in `src/icu_amr_controller.py` and the validation framework in `analytics/SIMULATED_icu_medicine_delivery_benchmark.csv`.
 
 ---
 
@@ -80,7 +80,7 @@ Optimal acceleration-deceleration ramping profiles designed to attenuate free-su
 * Slosh angle dynamics $\ddot{\theta} + \frac{g}{L}\theta = -\frac{\ddot{x}}{L}\cos\theta$; maximum acceleration threshold $a_{\max} < g \tan(\theta_{\text{spill}})$.
 
 #### Direct Applicability to MDRIIA_GROUP_01 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_01. The algorithmic parameters and constraint formulations directly inform the controller design in `src/icu_amr_controller.py` and the validation framework in `analytics/icu_medicine_delivery_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_01. The algorithmic parameters and constraint formulations directly inform the controller design in `src/icu_amr_controller.py` and the validation framework in `analytics/SIMULATED_icu_medicine_delivery_benchmark.csv`.
 
 ---
 
@@ -97,7 +97,7 @@ Quantitative observational time-and-motion study categorizing nursing hours into
 * Transit fraction $\Phi_{\text{transit}} = \frac{T_{\text{logistics}}}{T_{\text{shift}}} \approx 0.289$; recoverable clinical hours $H_{\text{rec}} = N_{\text{nurses}} \times H_{\text{shift}} \times \Phi_{\text{transit}} \times \eta_{\text{realloc}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_01 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_01. The algorithmic parameters and constraint formulations directly inform the controller design in `src/icu_amr_controller.py` and the validation framework in `analytics/icu_medicine_delivery_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_01. The algorithmic parameters and constraint formulations directly inform the controller design in `src/icu_amr_controller.py` and the validation framework in `analytics/SIMULATED_icu_medicine_delivery_benchmark.csv`.
 
 ---
 
@@ -114,7 +114,7 @@ Foundational local reactive obstacle avoidance calculating admissible velocity s
 * $G(v, \omega) = \sigma(\alpha \cdot \text{heading}(v,\omega) + \beta \cdot \text{dist}(v,\omega) + \gamma \cdot \text{velocity}(v,\omega))$; $V_d = \{v, \omega \mid v \in [v_c - \dot{v}\Delta t, v_c + \dot{v}\Delta t]\}$.
 
 #### Direct Applicability to MDRIIA_GROUP_01 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_01. The algorithmic parameters and constraint formulations directly inform the controller design in `src/icu_amr_controller.py` and the validation framework in `analytics/icu_medicine_delivery_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_01. The algorithmic parameters and constraint formulations directly inform the controller design in `src/icu_amr_controller.py` and the validation framework in `analytics/SIMULATED_icu_medicine_delivery_benchmark.csv`.
 
 ---
 
@@ -131,7 +131,7 @@ Predictive risk-aware trajectory optimization using velocity obstacles and risk 
 * Collision risk metric $R(p, v) = \int_0^T \mathcal{N}(p(t) \mid p_{\text{ped}}(t), \Sigma) dt$; velocity obstacle formulation $VO = \{v \mid \exists t > 0: p + vt \in B_{\text{obs}}\}$.
 
 #### Direct Applicability to MDRIIA_GROUP_01 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_01. The algorithmic parameters and constraint formulations directly inform the controller design in `src/icu_amr_controller.py` and the validation framework in `analytics/icu_medicine_delivery_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_01. The algorithmic parameters and constraint formulations directly inform the controller design in `src/icu_amr_controller.py` and the validation framework in `analytics/SIMULATED_icu_medicine_delivery_benchmark.csv`.
 
 ---
 

@@ -46,7 +46,7 @@ Formulation of perimeter defense using control barrier functions and set-invaria
 * Control Barrier Function $h(x) \ge 0$; barrier invariance condition $\dot{h}(x, u) + \alpha(h(x)) \ge 0$; minimum inter-agent distance constraint.
 
 #### Direct Applicability to MDRIIA_GROUP_05 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_05. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aerial_patrol_swarm.py` and the validation framework in `analytics/campus_patrol_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_05. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aerial_patrol_swarm.py` and the validation framework in `analytics/SIMULATED_campus_patrol_benchmark.csv`.
 
 ---
 
@@ -63,7 +63,7 @@ Comprehensive survey on networked UAV swarms evaluating communication latency, c
 * Network consensus equation $\dot{x}_i = -\sum_{j \in N_i} a_{ij} (x_i - x_j)$; packet delay threshold $\tau_{\text{comm}} < \tau_{\text{crit}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_05 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_05. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aerial_patrol_swarm.py` and the validation framework in `analytics/campus_patrol_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_05. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aerial_patrol_swarm.py` and the validation framework in `analytics/SIMULATED_campus_patrol_benchmark.csv`.
 
 ---
 
@@ -80,7 +80,7 @@ Dynamic task scheduling for multi-UAV reconnaissance using improved self-organiz
 * Task allocation utility $U = \sum_{i} (w_1 T_i^{\text{resp}} + w_2 E_i^{\text{batt}})$; winner-take-all node assignment $\arg\min_j \|x_i - w_j\|$.
 
 #### Direct Applicability to MDRIIA_GROUP_05 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_05. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aerial_patrol_swarm.py` and the validation framework in `analytics/campus_patrol_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_05. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aerial_patrol_swarm.py` and the validation framework in `analytics/SIMULATED_campus_patrol_benchmark.csv`.
 
 ---
 
@@ -97,7 +97,7 @@ Systematic review of 2D/3D coverage path planning algorithms (cellular decomposi
 * Coverage time $T_{\text{cov}} = \frac{A}{w_{\text{FOV}} v} + N_{\text{turns}} t_{\text{turn}}$; track pitch $s = 2 h \tan(\theta_{\text{FOV}}/2) (1 - \text{overlap})$.
 
 #### Direct Applicability to MDRIIA_GROUP_05 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_05. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aerial_patrol_swarm.py` and the validation framework in `analytics/campus_patrol_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_05. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aerial_patrol_swarm.py` and the validation framework in `analytics/SIMULATED_campus_patrol_benchmark.csv`.
 
 ---
 
@@ -114,7 +114,7 @@ Benchmarking low-altitude aerial object detection under viewpoint variation, sha
 * Mean Average Precision $\text{mAP} = \frac{1}{N} \sum_{i=1}^N \text{AP}_i$; intersection over union $\text{IoU} = \frac{\text{Area}(B_p \cap B_g)}{\text{Area}(B_p \cup B_g)}$.
 
 #### Direct Applicability to MDRIIA_GROUP_05 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_05. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aerial_patrol_swarm.py` and the validation framework in `analytics/campus_patrol_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_05. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aerial_patrol_swarm.py` and the validation framework in `analytics/SIMULATED_campus_patrol_benchmark.csv`.
 
 ---
 
@@ -131,7 +131,7 @@ Game-theoretic mathematical formulation of perimeter patrol minimizing the proba
 * Maximum patrol time lag $T_{\text{lag}} = \max_{i} (t_{k+1}^{(i)} - t_k^{(i)})$; penetration probability $P_{\text{pen}} = \max(0, 1 - \frac{t_{\text{pen}}}{T_{\text{lag}}})$.
 
 #### Direct Applicability to MDRIIA_GROUP_05 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_05. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aerial_patrol_swarm.py` and the validation framework in `analytics/campus_patrol_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_05. The algorithmic parameters and constraint formulations directly inform the controller design in `src/aerial_patrol_swarm.py` and the validation framework in `analytics/SIMULATED_campus_patrol_benchmark.csv`.
 
 ---
 

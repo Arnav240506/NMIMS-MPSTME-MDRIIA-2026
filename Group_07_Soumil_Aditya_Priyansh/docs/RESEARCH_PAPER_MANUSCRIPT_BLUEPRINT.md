@@ -57,7 +57,7 @@ The model eliminates currency-dependent distortions by normalizing parameters to
 ---
 
 ## V. Experimental Evaluation and Results
-Simulations were conducted across $N = 50$ randomized trials (`analytics/clutter_manipulation_benchmark.csv`). Telemetry figures were generated at 300 DPI resolution (`analytics/generate_paper_figures.py`):
+Simulations were conducted across $N = 50$ randomized trials (`analytics/SIMULATED_clutter_manipulation_benchmark.csv`). Telemetry figures were generated at 300 DPI resolution (`analytics/generate_paper_figures.py`):
 * **Figure 1:** System architecture and physical kinematics (`docs/figures/figure1_system_architecture.png`).
 * **Figure 2:** Simulation kinematics and tracking error telemetry (`docs/figures/figure2_kinematic_telemetry.png`).
 * **Figure 3:** Comparative benchmark analysis against baseline workflows (`docs/figures/figure3_comparative_performance.png`).

@@ -13,7 +13,7 @@
 * **Physics & Kinematics:** Google DeepMind MuJoCo multi-body dynamic physics simulation (`models/elderly_companion_base.xml`).
 * **Autonomous Control:** Closed-loop Python control architecture with student implementation boundaries (`src/fall_detection_kinematics.py`).
 * **Technoeconomic Evaluation:** Dimensionless CSBS operational economics and return on investment model (`analytics/geriatric_care_economics.py`).
-* **Empirical Validation:** Reproducible benchmark trials and statistical hypothesis testing (`analytics/fall_triage_benchmark.csv`).
+* **Empirical Validation:** Reproducible benchmark trials and statistical hypothesis testing (`analytics/fall_triage_real_trials.csv`).
 
 ---
 
@@ -96,7 +96,7 @@ For the exhaustive literature analysis, mathematical derivations, and viva defen
     |-- .gitkeep
     |-- geriatric_care_economics.py                                      <- CSBS dimensionless technoeconomic model
     |-- generate_paper_figures.py                      <- Standalone 300 DPI publication figure generator
-    `-- fall_triage_benchmark.csv                                    <- Empirical benchmark trial dataset
+    `-- SIMULATED_fall_triage_benchmark.csv                                    <- SIMULATED starter targets (np.random), NOT results
 ```
 
 ---
@@ -112,7 +112,7 @@ To ensure academic rigor and authentic student learning, this repository enforce
   * Dimensionless technoeconomic framework (`analytics/geriatric_care_economics.py`).
 * **Student Technical Deliverables (Required for Evaluation):**
   * Implement and tune the control algorithm in `src/fall_detection_kinematics.py` (filling all marked `# TODO [Student Roll / Name]` blocks).
-  * Run physics simulation trials to collect and expand empirical data in `analytics/fall_triage_benchmark.csv`.
+  * Run physics simulation trials to collect and expand empirical data in `analytics/fall_triage_real_trials.csv`.
   * Re-run `analytics/generate_paper_figures.py` to regenerate publication figures with live experimental telemetry.
   * Author the final 4-page IEEE conference paper in `docs/RESEARCH_PAPER_MANUSCRIPT_BLUEPRINT.md` and defend individual Git commits during the oral viva.
 

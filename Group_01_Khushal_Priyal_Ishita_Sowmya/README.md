@@ -13,7 +13,7 @@
 * **Physics & Kinematics:** Google DeepMind MuJoCo multi-body dynamic physics simulation (`models/icu_medicine_amr.xml`).
 * **Autonomous Control:** Closed-loop Python control architecture with student implementation boundaries (`src/icu_amr_controller.py`).
 * **Technoeconomic Evaluation:** Dimensionless CSBS operational economics and return on investment model (`analytics/icu_labor_roi.py`).
-* **Empirical Validation:** Reproducible benchmark trials and statistical hypothesis testing (`analytics/icu_medicine_delivery_benchmark.csv`).
+* **Empirical Validation:** Reproducible benchmark trials and statistical hypothesis testing (`analytics/icu_medicine_delivery_real_trials.csv`).
 
 ---
 
@@ -98,7 +98,7 @@ For the exhaustive literature analysis, mathematical derivations, and viva defen
     |-- .gitkeep
     |-- icu_labor_roi.py                                      <- CSBS dimensionless technoeconomic model
     |-- generate_paper_figures.py                      <- Standalone 300 DPI publication figure generator
-    `-- icu_medicine_delivery_benchmark.csv                                    <- Empirical benchmark trial dataset
+    `-- SIMULATED_icu_medicine_delivery_benchmark.csv                                    <- SIMULATED starter targets (np.random), NOT results
 ```
 
 ---
@@ -114,7 +114,7 @@ To ensure academic rigor and authentic student learning, this repository enforce
   * Dimensionless technoeconomic framework (`analytics/icu_labor_roi.py`).
 * **Student Technical Deliverables (Required for Evaluation):**
   * Implement and tune the control algorithm in `src/icu_amr_controller.py` (filling all marked `# TODO [Student Roll / Name]` blocks).
-  * Run physics simulation trials to collect and expand empirical data in `analytics/icu_medicine_delivery_benchmark.csv`.
+  * Run physics simulation trials to collect and expand empirical data in `analytics/icu_medicine_delivery_real_trials.csv`.
   * Re-run `analytics/generate_paper_figures.py` to regenerate publication figures with live experimental telemetry.
   * Author the final 4-page IEEE conference paper in `docs/RESEARCH_PAPER_MANUSCRIPT_BLUEPRINT.md` and defend individual Git commits during the oral viva.
 

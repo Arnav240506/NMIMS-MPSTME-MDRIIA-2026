@@ -46,7 +46,7 @@ Design and experimental validation of a handheld piezoelectric 6-DOF Stewart pla
 * Tremor attenuation ratio $\Gamma = 20 \log_{10}\left(\frac{\sigma_{\text{unfiltered}}}{\sigma_{\text{filtered}}}\right)$; closed-loop tip position error $e(t) < 15\ \mu\text{m}$.
 
 #### Direct Applicability to MDRIIA_GROUP_10 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_10. The algorithmic parameters and constraint formulations directly inform the controller design in `src/surgical_tremor_controller.py` and the validation framework in `analytics/surgical_precision_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_10. The algorithmic parameters and constraint formulations directly inform the controller design in `src/surgical_tremor_controller.py` and the validation framework in `analytics/SIMULATED_surgical_precision_benchmark.csv`.
 
 ---
 
@@ -63,7 +63,7 @@ Authoritative review of surgical robotics architectures, safety systems, kinemat
 * Safety boundary virtual fixture $F_{\text{fixture}} = -K_v (x - x_{\text{boundary}})$; cooperative admittance control $\dot{x}_d = K_f F_{\text{surgeon}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_10 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_10. The algorithmic parameters and constraint formulations directly inform the controller design in `src/surgical_tremor_controller.py` and the validation framework in `analytics/surgical_precision_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_10. The algorithmic parameters and constraint formulations directly inform the controller design in `src/surgical_tremor_controller.py` and the validation framework in `analytics/SIMULATED_surgical_precision_benchmark.csv`.
 
 ---
 
@@ -80,7 +80,7 @@ Mathematical derivation of Damped Least Squares (DLS) Jacobian inverse for redun
 * Damped pseudo-inverse $J^* = J^T (J J^T + \lambda^2 I)^{-1}$; damping factor $\lambda^2 = \lambda_0^2 \left(1 - \frac{\sigma_{\min}}{\epsilon}\right)$ for $\sigma_{\min} < \epsilon$.
 
 #### Direct Applicability to MDRIIA_GROUP_10 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_10. The algorithmic parameters and constraint formulations directly inform the controller design in `src/surgical_tremor_controller.py` and the validation framework in `analytics/surgical_precision_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_10. The algorithmic parameters and constraint formulations directly inform the controller design in `src/surgical_tremor_controller.py` and the validation framework in `analytics/SIMULATED_surgical_precision_benchmark.csv`.
 
 ---
 
@@ -97,7 +97,7 @@ Weighted-Frequency Fourier Linear Combiner (WFLC) algorithm for real-time tracki
 * Tremor signal model $x_k = \sum_{i=1}^M \left[ w_{i} \sin(i \omega_0 k) + v_{i} \cos(i \omega_0 k) \right]$; adaptive weight update $w_{k+1} = w_k + 2 \mu e_k x_k$.
 
 #### Direct Applicability to MDRIIA_GROUP_10 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_10. The algorithmic parameters and constraint formulations directly inform the controller design in `src/surgical_tremor_controller.py` and the validation framework in `analytics/surgical_precision_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_10. The algorithmic parameters and constraint formulations directly inform the controller design in `src/surgical_tremor_controller.py` and the validation framework in `analytics/SIMULATED_surgical_precision_benchmark.csv`.
 
 ---
 
@@ -114,7 +114,7 @@ Comprehensive health services research evaluating operating room costs per minut
 * OR cost rate $C_{\text{OR}} = \text{BaseRate} \times T_{\text{duration}}$; revision complication cost burden $\Delta C_{\text{rev}} = P_{\text{error}} \times C_{\text{revision}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_10 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_10. The algorithmic parameters and constraint formulations directly inform the controller design in `src/surgical_tremor_controller.py` and the validation framework in `analytics/surgical_precision_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_10. The algorithmic parameters and constraint formulations directly inform the controller design in `src/surgical_tremor_controller.py` and the validation framework in `analytics/SIMULATED_surgical_precision_benchmark.csv`.
 
 ---
 
@@ -131,7 +131,7 @@ Active feedback and feedforward tremor cancellation using inertial measurement u
 * Transfer function $H(s) = \frac{s^2 + 2\zeta_n \omega_n s + \omega_n^2}{s^2 + 2\zeta_d \omega_d s + \omega_d^2}$; root-mean-square amplitude reduction $\Delta RMS = 1 - \frac{RMS_{\text{out}}}{RMS_{\text{in}}}$.
 
 #### Direct Applicability to MDRIIA_GROUP_10 Implementation
-This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_10. The algorithmic parameters and constraint formulations directly inform the controller design in `src/surgical_tremor_controller.py` and the validation framework in `analytics/surgical_precision_benchmark.csv`.
+This publication establishes the empirical and theoretical benchmark for MDRIIA_GROUP_10. The algorithmic parameters and constraint formulations directly inform the controller design in `src/surgical_tremor_controller.py` and the validation framework in `analytics/SIMULATED_surgical_precision_benchmark.csv`.
 
 ---
 
