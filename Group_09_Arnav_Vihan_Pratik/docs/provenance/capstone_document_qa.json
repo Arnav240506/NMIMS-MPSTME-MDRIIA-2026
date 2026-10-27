@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "checked_utc": "2026-10-26T23:37:18.728226+00:00",
+  "documents": [
+    {
+      "path": "docs/MDRIIA_Group_09_Technical_Dossier.pdf",
+      "sha256": "34aa1567cde530ce8972e98d917323f871a3ba71aa4874a3ceba6f60b1071a78",
+      "pages": 4
+    },
+    {
+      "path": "docs/MDRIIA_Group_09_Technical_Dossier.docx",
+      "sha256": "b6811796dab2c63d10e17b3cc205ebb4dccb55d3ce9cc36befc56ef089189ffa",
+      "pages": null
+    },
+    {
+      "path": "docs/M20_Complete_Step_by_Step_Run_Guide.pdf",
+      "sha256": "4790ddd4f7e6c4e554b2b490d5b1c5c4e74b594281f134a8a26cb7b67ecacbe0",
+      "pages": 10
+    },
+    {
+      "path": "docs/M20_Complete_Step_by_Step_Run_Guide.docx",
+      "sha256": "1f4abb542eede4949e8840d5856bb191dcb7f21ac869dd0a1d4b572d4832397a",
+      "pages": null
+    },
+    {
+      "path": "docs/M20_Extended_Technical_Report.pdf",
+      "sha256": "c4017044f4e43cb56752b200fe3267ce0bb54fffbbf67ccf0b634ce6bba046fc",
+      "pages": 6
+    },
+    {
+      "path": "docs/M20_Extended_Technical_Report.docx",
+      "sha256": "e251a46ea7133d5fc9b61abf307e39e9b0bf43e8b5c0d1bbde4fd567ffd942d7",
+      "pages": null
+    },
+    {
+      "path": "docs/paper/Group09_HazardousTerrain_IEEE.pdf",
+      "sha256": "868ad848a85aadf8fa6446eaae8319b3be249c32ced8acbf952246ba58f528c3",
+      "pages": 4
+    }
+  ],
+  "all_PDF_pages_visually_reviewed": true,
+  "controls_preserved": 212,
+  "technical_fields_completed": 146,
+  "personal_controls_unchanged": 66,
+  "existing_unverified_target_updated": "C:\\Users\\ZAID\\OneDrive\\Documents\\ChatGPT\\MDRIIA\\M20_Rectified_Completion\\recovered_originals\\UNVERIFIED_INPUT_Technical_Dossier.docx",
+  "deadline_extension_not_added": true,
+  "visual_findings": "No clipping or blank spill pages. Complete nine-line code excerpt; complete escaped-percent abstract. Figures and tables readable."
+}

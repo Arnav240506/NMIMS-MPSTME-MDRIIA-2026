@@ -1,0 +1,32 @@
+[
+  {
+    "time_s": 0.0,
+    "kind": "decision",
+    "reason": "wakeup"
+  },
+  {
+    "time_s": 0.002,
+    "kind": "phase",
+    "phase": "WAKEUP",
+    "xyz_m": [
+      2.1113110872069938e-08,
+      -0.009553056468257368,
+      0.39409055172505036
+    ]
+  },
+  {
+    "time_s": 2.419999999999955,
+    "kind": "decision",
+    "reason": "delayed_reactive"
+  },
+  {
+    "time_s": 2.421999999999955,
+    "kind": "phase",
+    "phase": "DELAYED_REACTIVE",
+    "xyz_m": [
+      -0.0005895415436619744,
+      -0.009578313192917473,
+      0.525309539509015
+    ]
+  }
+]

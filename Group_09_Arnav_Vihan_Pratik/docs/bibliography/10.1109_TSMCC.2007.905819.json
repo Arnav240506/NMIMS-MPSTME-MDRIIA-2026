@@ -1,0 +1,1137 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2026-10-24T17:17:31Z",
+      "timestamp": 1792862251832,
+      "version": "4.5.0"
+    },
+    "reference-count": 151,
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2007-11-01T00:00:00Z",
+          "timestamp": 1193875200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "IEEE Trans. Syst., Man, Cybern. C"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1109/tsmcc.2007.905819",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          10,
+          23
+        ]
+      ],
+      "date-time": "2007-10-23T14:30:05Z",
+      "timestamp": 1193149805000
+    },
+    "page": "1231-1245",
+    "source": "Crossref",
+    "is-referenced-by-count": 553,
+    "title": [
+      "Human Performance Issues and User Interface Design for Teleoperated Robots"
+    ],
+    "prefix": "10.1109",
+    "volume": "37",
+    "author": [
+      {
+        "given": "Jessie Y. C.",
+        "family": "Chen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ellen C.",
+        "family": "Haas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael J.",
+        "family": "Barnes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref39",
+        "first-page": "121",
+        "article-title": "Mitigating the loss of navigational awareness while flying with GPS and moving map displays under VFR",
+        "volume": "6",
+        "author": "casner",
+        "year": "2006",
+        "journal-title": "J Appl Aviation Stud"
+      },
+      {
+        "key": "ref38",
+        "year": "2006",
+        "journal-title": "Human factors design guidelines for advanced traveler information systems (ATIS) and commercial vehicle operations (CVO)"
+      },
+      {
+        "key": "ref33",
+        "first-page": "153",
+        "article-title": "The effect of GPS and moving map displays on navigational awareness while flying under VFR",
+        "volume": "5",
+        "author": "casner",
+        "year": "2005",
+        "journal-title": "J Appl Aviation Stud"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1177/001872089103300107",
+        "article-title": "The design of electronic map displays",
+        "volume": "33",
+        "author": "aretz",
+        "year": "1991",
+        "journal-title": "Hum Factors"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.21236/ADA395211",
+        "author": "smyth",
+        "year": "2001",
+        "journal-title": "Indirect vision driving with fixed flat panel displays for near-unity wide and extended fields of camera view"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154193120504900348"
+      },
+      {
+        "key": "ref37",
+        "first-page": "10",
+        "article-title": "Cognitive reference systems and their role in designing spatial information displays",
+        "volume": "16",
+        "author": "werner",
+        "year": "2002",
+        "journal-title": "KI"
+      },
+      {
+        "key": "ref36",
+        "author": "wang",
+        "year": "2004",
+        "journal-title": "Human navigation performance using 6 DOF dynamic viewpoint tethering in virtual environments"
+      },
+      {
+        "key": "ref35",
+        "first-page": "39",
+        "article-title": "Demonstration of a moving-map system for improved precise lane navigation of amphibious vehicles and landing craft",
+        "author": "lohrenz",
+        "year": "2004",
+        "journal-title": "Sea Technol"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/VR.1999.756944"
+      },
+      {
+        "key": "ref28",
+        "article-title": "Examining alternative display configurations for an indirect vision driving interface",
+        "author": "smyth",
+        "year": "0",
+        "journal-title": "unpublished"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154193120104501812"
+      },
+      {
+        "key": "ref29",
+        "author": "scribner",
+        "year": "1998",
+        "journal-title": "The effect of stereoscopic and wide field of view conditions on teleoperator performance"
+      },
+      {
+        "key": "ref20",
+        "first-page": "391",
+        "article-title": "Effect of streaming video quality of service on spatial comprehension in a reconnaissance task",
+        "author": "darken",
+        "year": "2001",
+        "journal-title": "Proc 23rd Army Sci Conf"
+      },
+      {
+        "key": "ref22",
+        "author": "carlson",
+        "year": "2004",
+        "journal-title": "How UGVs physically fail in the field"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TSMCC.2004.826267"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1518/001872098779591340"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.21236/ADA436771",
+        "author": "thomas",
+        "year": "2000",
+        "journal-title": "Effects of display frames of reference on spatial judgments and change detection"
+      },
+      {
+        "key": "ref101",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.21236/ADA373714",
+        "author": "cowings",
+        "year": "1999",
+        "journal-title": "Effects of command and control vehicle (C2 V) operational environment on soldier health and performance"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/369742a0"
+      },
+      {
+        "key": "ref100",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IROS.2004.1389842"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/0014013032000121624"
+      },
+      {
+        "key": "ref50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03214339"
+      },
+      {
+        "key": "ref51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154193120605000401"
+      },
+      {
+        "key": "ref150",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IRDS.2002.1043935"
+      },
+      {
+        "key": "ref151",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/11558651_26"
+      },
+      {
+        "key": "ref146",
+        "first-page": "205",
+        "article-title": "An architecture for automatic gesture analysis",
+        "author": "adrizzone",
+        "year": "2000",
+        "journal-title": "Proc Working Conf Advanced Visual Interfaces"
+      },
+      {
+        "key": "ref147",
+        "first-page": "179b",
+        "article-title": "Eighty challenges facing speech input/output technologies",
+        "author": "zue",
+        "year": "2004",
+        "journal-title": "Proc From Sound Sense 50 Years Discovery Speech Commun"
+      },
+      {
+        "key": "ref148",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/67449.67495"
+      },
+      {
+        "key": "ref149",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1027933.1027950"
+      },
+      {
+        "key": "ref59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.1991.169826"
+      },
+      {
+        "key": "ref58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.2003.1243856"
+      },
+      {
+        "key": "ref57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/105474698565640"
+      },
+      {
+        "key": "ref56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154193129503902006"
+      },
+      {
+        "key": "ref55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.2003.1243929"
+      },
+      {
+        "key": "ref54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0020-7373(84)80043-7"
+      },
+      {
+        "key": "ref53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154193120104500415"
+      },
+      {
+        "key": "ref52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/S15327108IJAP1003_03"
+      },
+      {
+        "key": "ref40",
+        "author": "heath-pastore",
+        "year": "1994",
+        "journal-title": "Improved operator awareness of teleoperated land vehicle attitude SPAWAR"
+      },
+      {
+        "key": "ref4",
+        "author": "johnston",
+        "year": "2002",
+        "journal-title": "Training for the operation of semi-autonomous systems&#x2014;Interim report"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1011208212722"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.2003.1244503"
+      },
+      {
+        "key": "ref5",
+        "article-title": "PdaDriver: A handheld system for remote driving",
+        "author": "fong",
+        "year": "2003",
+        "journal-title": "IEEE Proc Int Conf Advanced Robot"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1011295826834"
+      },
+      {
+        "key": "ref49",
+        "article-title": "Metrics for evaluating human-robot interactions",
+        "author": "olsen",
+        "year": "2003",
+        "journal-title": "Per MIS"
+      },
+      {
+        "key": "ref7",
+        "author": "kamsickas",
+        "year": "2003",
+        "journal-title": "Future combat systems (FCS) concept and technology development (CTD) phase&#x2014;Unmanned combat demonstration&#x2014;Final report"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "2809",
+        "DOI": "10.1109/ICSMC.2004.1400758",
+        "article-title": "Objective data analysis for a PDA-based human&#x2013;robot interface",
+        "volume": "3",
+        "author": "keskinpala",
+        "year": "2004",
+        "journal-title": "Proc 2004 IEEE Int Conf Syst Man Cybern"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1121241.1121256"
+      },
+      {
+        "key": "ref45",
+        "article-title": "Robotics CTA",
+        "author": "shoemaker",
+        "year": "0",
+        "journal-title": "2004 Collaborative Technol Alliances Conf"
+      },
+      {
+        "key": "ref48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TSMCA.2005.850602"
+      },
+      {
+        "key": "ref47",
+        "author": "rastogi",
+        "year": "1996",
+        "journal-title": "Design of an Interface for Teleoperation in Unstructured Environments using Augmented Reality Displays"
+      },
+      {
+        "key": "ref42",
+        "first-page": "587",
+        "article-title": "Issues in mobile robotics: The unmanned ground vehicle program teleoperated vehicle (TOV)",
+        "volume": "1388",
+        "author": "aviles",
+        "year": "1991",
+        "journal-title": "Proc SPIE (Mobile Robots V)"
+      },
+      {
+        "key": "ref41",
+        "first-page": "182",
+        "article-title": "Experience and results in teleoperation of land vehicles",
+        "author": "mcgovern",
+        "year": "1991",
+        "journal-title": "Pictorial Communication in Virtual and Real Environments"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154193120404802312"
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.2003.1244598"
+      },
+      {
+        "key": "ref127",
+        "author": "rosenberg",
+        "year": "1994",
+        "journal-title": "Virtual fixtures Perceptual overlays enhance operator performance in telepresence tasks"
+      },
+      {
+        "key": "ref126",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0278364905057059"
+      },
+      {
+        "key": "ref125",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtcvs.2004.05.029"
+      },
+      {
+        "key": "ref124",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1019926620096"
+      },
+      {
+        "key": "ref73",
+        "first-page": "38",
+        "article-title": "Evaluation of the effects of frame rate variation on VR task performance",
+        "author": "watson",
+        "year": "0",
+        "journal-title": "Proc 1997 Virtual Reality Ann Int l Symp"
+      },
+      {
+        "key": "ref72",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.21236/ADA449963",
+        "author": "thropp",
+        "year": "2006",
+        "journal-title": "Effects of slow frame rates on human performance"
+      },
+      {
+        "key": "ref129",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1213/01.ANE.0000184121.03150.62"
+      },
+      {
+        "key": "ref71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08995600802115904"
+      },
+      {
+        "key": "ref128",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1518/001872005774859971"
+      },
+      {
+        "key": "ref70",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1177/001872089403600109",
+        "article-title": "Teleoperator performance with varying force and visual feedback",
+        "volume": "36",
+        "author": "massimino",
+        "year": "1994",
+        "journal-title": "Hum Factors"
+      },
+      {
+        "key": "ref76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1479-3601(05)07011-6"
+      },
+      {
+        "key": "ref130",
+        "article-title": "Sensory substitution of force feedback for the human-machine interface in space teleoperation",
+        "author": "massimino",
+        "year": "1992",
+        "journal-title": "43rd Congr Int Astronaut FEd World Space Congress Paper IAF/iAA-92&#x2013;0246"
+      },
+      {
+        "key": "ref77",
+        "first-page": "49",
+        "article-title": "Developer oriented visualization of a robot program: An augmented reality approach",
+        "author": "collett",
+        "year": "0",
+        "journal-title": "Proc 2006 Hum &#x2013;Robot Interact Conf"
+      },
+      {
+        "key": "ref74",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1162/pres.1996.5.1.95",
+        "article-title": "Effect of frame rate and force feedback on virtual object manipulation",
+        "volume": "5",
+        "author": "richard",
+        "year": "1996",
+        "journal-title": "Presence Teleop Virtual Environ"
+      },
+      {
+        "key": "ref75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.2004.1400783"
+      },
+      {
+        "key": "ref133",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-540-48113-3_5"
+      },
+      {
+        "key": "ref134",
+        "doi-asserted-by": "crossref",
+        "first-page": "309",
+        "DOI": "10.1162/pres.1994.3.4.309",
+        "article-title": "An operator interface for teleprogramming employing synthetic fixtures",
+        "volume": "3",
+        "author": "sayers",
+        "year": "1994",
+        "journal-title": "Presence Teleop Virtual Environ"
+      },
+      {
+        "key": "ref131",
+        "first-page": "3187",
+        "article-title": "The design of multimodal human&#x2013;machine interface for teleoperation",
+        "volume": "5",
+        "author": "chou",
+        "year": "2001",
+        "journal-title": "Proc 2001 IEEE Int Conf Syst Man Cybern"
+      },
+      {
+        "key": "ref78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/HICSS.2003.1174285"
+      },
+      {
+        "key": "ref132",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JPROC.2003.809203"
+      },
+      {
+        "key": "ref79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1121241.1121259"
+      },
+      {
+        "key": "ref136",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154193120304700123"
+      },
+      {
+        "key": "ref135",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TSMCA.2005.850604"
+      },
+      {
+        "key": "ref138",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1010-7940(99)00282-1"
+      },
+      {
+        "key": "ref137",
+        "author": "downs",
+        "year": "1998",
+        "journal-title": "Integrated Remote Neurosurgical System"
+      },
+      {
+        "key": "ref60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0055392"
+      },
+      {
+        "key": "ref139",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ROBOT.1998.680632"
+      },
+      {
+        "key": "ref62",
+        "article-title": "Stereovision system for shipboard cranes",
+        "author": "green",
+        "year": "2003",
+        "journal-title": "Proc Interservice/Industry Train Simul Edu Conf"
+      },
+      {
+        "key": "ref61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/VRAIS.1993.380802"
+      },
+      {
+        "key": "ref63",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1117/12.157043",
+        "article-title": "Defense teleoperation and stereoscopic video",
+        "volume": "1915",
+        "author": "drascic",
+        "year": "1993",
+        "journal-title": "Proc SPIE"
+      },
+      {
+        "key": "ref64",
+        "doi-asserted-by": "crossref",
+        "first-page": "169",
+        "DOI": "10.1117/12.608151",
+        "article-title": "Perception of terrain drop-offs as a function of L-R viewpoint separation in stereoscopic video",
+        "volume": "5800",
+        "author": "merritt",
+        "year": "2005",
+        "journal-title": "Proc SPIE"
+      },
+      {
+        "key": "ref140",
+        "doi-asserted-by": "crossref",
+        "first-page": "623",
+        "DOI": "10.1145/985692.985771",
+        "article-title": "Telepresence control of the NASA/DARPA robonaut on a mobility platform",
+        "author": "goza",
+        "year": "2004",
+        "journal-title": "Proc SIGCHI Conf Hum Factors Comput Syst"
+      },
+      {
+        "key": "ref65",
+        "author": "vaughan",
+        "year": "2006"
+      },
+      {
+        "key": "ref141",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSMC.2003.1244386"
+      },
+      {
+        "key": "ref66",
+        "article-title": "The effect of bandwidth on operator control of an unmanned ground vehicle",
+        "author": "french",
+        "year": "2003",
+        "journal-title": "Proc Interservice/Industry Train Simul Edu Conf"
+      },
+      {
+        "key": "ref142",
+        "first-page": "1560",
+        "article-title": "Visual gesture recognition for human&#x2013;machine interface of robot teleoperation",
+        "author": "hu",
+        "year": "0",
+        "journal-title": "Proc 2003 IEEE/RSJ Int Conf Intell Robot Syst"
+      },
+      {
+        "key": "ref67",
+        "first-page": "493",
+        "article-title": "Spatial orientation, wayfinding, and representation",
+        "author": "darken",
+        "year": "2002",
+        "journal-title": "Handbook of Virtual Environment Technology"
+      },
+      {
+        "key": "ref143",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ROBOT.2003.1241626"
+      },
+      {
+        "key": "ref68",
+        "author": "sheridan",
+        "year": "1992",
+        "journal-title": "Telerobotics Automation and Human Supervisory Control"
+      },
+      {
+        "key": "ref144",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/AFGR.1996.557244"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TSMCB.2003.811794"
+      },
+      {
+        "key": "ref69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1518/001872098779591287"
+      },
+      {
+        "key": "ref145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ROBOT.1999.773987"
+      },
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/AERO.2004.1367625"
+      },
+      {
+        "key": "ref109",
+        "doi-asserted-by": "crossref",
+        "first-page": "2144",
+        "DOI": "10.1177/154193120204602609",
+        "article-title": "Utility of a tactile display for cueing faults",
+        "author": "calhoun",
+        "year": "2002",
+        "journal-title": "Proceedings of the 46th Annual Meeting of the Human Factors and Ergonomics Society"
+      },
+      {
+        "key": "ref95",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1518/001872098779591386"
+      },
+      {
+        "key": "ref108",
+        "first-page": "65",
+        "article-title": "Multimodal interaction modeling",
+        "author": "popescu",
+        "year": "2002",
+        "journal-title": "Handbook of Virtual Environments"
+      },
+      {
+        "key": "ref94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154193120004400505"
+      },
+      {
+        "key": "ref107",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10447319609526138"
+      },
+      {
+        "key": "ref93",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.21236/ADA295861",
+        "author": "kolasinski",
+        "year": "1995",
+        "journal-title": "Simulator sickness in virtual environments"
+      },
+      {
+        "key": "ref106",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/105474602760204282"
+      },
+      {
+        "key": "ref92",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/105474698565767"
+      },
+      {
+        "key": "ref105",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154193120504900347"
+      },
+      {
+        "key": "ref91",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1121241.1121277"
+      },
+      {
+        "key": "ref104",
+        "article-title": "Soldier performance issues in C2 &#x2018;On the move'. presented at 10th Int. Command Control Res. Technol. Symp.",
+        "author": "hill",
+        "year": "2005"
+      },
+      {
+        "key": "ref90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/VR.1999.756954"
+      },
+      {
+        "key": "ref103",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.21236/ADA346416",
+        "author": "schipani",
+        "year": "1998",
+        "journal-title": "Quantification of cognitive process degradation while mobile attributable to the environmental stressors endurance vibration and noise"
+      },
+      {
+        "key": "ref102",
+        "article-title": "Soldier performance in the enclosed compartment of a moving vehicle",
+        "author": "hill",
+        "year": "2004",
+        "journal-title": "NATO Appl Veh Technol Panel Symp Habitability Combat Transp Veh Noise Vibration Motion Paper RTO-MP-AVT-110"
+      },
+      {
+        "key": "ref111",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/105474602317473231"
+      },
+      {
+        "key": "ref112",
+        "first-page": "1226",
+        "article-title": "A study on audio feedback system for the operation of Engineering Test Satellite VII&#x2014;Effects on telemetry monitor",
+        "author": "nagai",
+        "year": "2000",
+        "journal-title": "Proc Int Symp Space Technol Sci"
+      },
+      {
+        "key": "ref110",
+        "first-page": "65",
+        "article-title": "Virtual auditory displays",
+        "author": "shilling",
+        "year": "2002",
+        "journal-title": "Handbook of Virtual Environments"
+      },
+      {
+        "key": "ref98",
+        "first-page": "959",
+        "article-title": "Virtual environment-assisted teleoperation",
+        "author": "kheddar",
+        "year": "2002",
+        "journal-title": "Handbook of Virtual Environment Technology"
+      },
+      {
+        "key": "ref99",
+        "author": "deng",
+        "year": "2003",
+        "journal-title": "Predictive display system for tele-manipulation using image-based modeling and rendering"
+      },
+      {
+        "key": "ref96",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.21236/ADA286183",
+        "author": "witmer",
+        "year": "1994",
+        "journal-title": "Measuring Immersion in Virtual Environments"
+      },
+      {
+        "key": "ref97",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/cpb.1999.2.349"
+      },
+      {
+        "key": "ref10",
+        "author": "malcolm",
+        "year": "2003",
+        "journal-title": "Teleoperation control for a heavy-duty tracked vehicle"
+      },
+      {
+        "key": "ref11",
+        "article-title": "Human robot teams as soldier augmentation in future battlefields: An overview",
+        "volume": "11",
+        "author": "barnes",
+        "year": "2005",
+        "journal-title": "Proc 11th Int Conf Hum &#x2013;Comput Interact"
+      },
+      {
+        "key": "ref12",
+        "article-title": "An evaluation of operator workload during partially-autonomous vehicle operations",
+        "author": "schipani",
+        "year": "2003",
+        "journal-title": "Proc PERMIS"
+      },
+      {
+        "key": "ref13",
+        "first-page": "420",
+        "article-title": "Adaptive automation for military robotic systems",
+        "author": "barnes",
+        "year": "2006",
+        "journal-title": "Uninhabited Military Vehicles Human Factor Issues in Augmenting the Force"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1121241.1121249"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TIE.2003.814768"
+      },
+      {
+        "key": "ref118",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154193120404800130"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TSMCC.2004.826272"
+      },
+      {
+        "key": "ref82",
+        "first-page": "488",
+        "article-title": "Lag as a determinant of human performance in interactive systems",
+        "author": "mackenzie",
+        "year": "1993",
+        "journal-title": "Proc SIGCHI Conf Hum Factors Comput Syst"
+      },
+      {
+        "key": "ref117",
+        "first-page": "571",
+        "article-title": "A tactile display for international space station (ISS) extravehicular activity (EVA)",
+        "volume": "71",
+        "author": "rochlis",
+        "year": "2000",
+        "journal-title": "Aviation Space Environ Med"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/154193120204600309"
+      },
+      {
+        "key": "ref81",
+        "article-title": "Attentional tunneling and task management",
+        "author": "wickens",
+        "year": "2005",
+        "journal-title": "Tech Rep AHFD-05-23/NASA-05-10"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TSMCA.2005.850601"
+      },
+      {
+        "key": "ref84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ROBOT.2002.1013668"
+      },
+      {
+        "key": "ref119",
+        "first-page": "172",
+        "article-title": "Teleoperated nano scale object manipulation",
+        "author": "sitti",
+        "year": "1999",
+        "journal-title": "Recent Advances on Mechatronics"
+      },
+      {
+        "key": "ref19",
+        "author": "drascic",
+        "year": "1991",
+        "journal-title": "An investigation of monoscopic and stereoscopic video for teleoperation"
+      },
+      {
+        "key": "ref83",
+        "doi-asserted-by": "crossref",
+        "first-page": "2632",
+        "DOI": "10.1177/154193120404802306",
+        "article-title": "Generalizability of latency detection in a variety of virtual environments",
+        "author": "ellis",
+        "year": "2004",
+        "journal-title": "Proc Annual Meeting of Human Factors and Ergonomics Society"
+      },
+      {
+        "key": "ref114",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/156855303764018468"
+      },
+      {
+        "key": "ref113",
+        "first-page": "61",
+        "article-title": "Spatial auditory display concepts supporting situation awareness for operators of unmanned aerial vehicles",
+        "volume": "1",
+        "author": "simpson",
+        "year": "2004",
+        "journal-title": "Human Performance Situation Awareness and Automation Current Research and Trends"
+      },
+      {
+        "key": "ref116",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03212124"
+      },
+      {
+        "key": "ref80",
+        "first-page": "303",
+        "volume": "39",
+        "author": "tufano",
+        "year": "1997",
+        "journal-title": "Automotive HUDs The overlooked safety issues Hum Factors"
+      },
+      {
+        "key": "ref115",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ISWC.2001.962082"
+      },
+      {
+        "key": "ref120",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0263574704000852"
+      },
+      {
+        "key": "ref89",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/159161.155359"
+      },
+      {
+        "key": "ref121",
+        "author": "aleotti",
+        "year": "2002",
+        "journal-title": "A multi- modal user interface for remote object exploration in teleoperation systems"
+      },
+      {
+        "key": "ref122",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/105474603321640923"
+      },
+      {
+        "key": "ref123",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICAR.1997.620154"
+      },
+      {
+        "key": "ref85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/THFE.1963.231283"
+      },
+      {
+        "key": "ref86",
+        "author": "sheridan",
+        "year": "2002",
+        "journal-title": "Humans and Automation System Design and Research Issues"
+      },
+      {
+        "key": "ref87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0023868"
+      },
+      {
+        "key": "ref88",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1177/001872088803000207",
+        "article-title": "Effects of visual display and motion system delays on operator performance and uneasiness in a driving simulator",
+        "volume": "30",
+        "author": "frank",
+        "year": "1988",
+        "journal-title": "Hum Factors"
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Systems, Man and Cybernetics, Part C (Applications and Reviews)"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx5/5326/4343957/04343985.pdf?arnumber=4343985",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          29
+        ]
+      ],
+      "date-time": "2021-11-29T15:54:25Z",
+      "timestamp": 1638201265000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://ieeexplore.ieee.org/document/4343985/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          11
+        ]
+      ]
+    },
+    "references-count": 151,
+    "journal-issue": {
+      "issue": "6"
+    },
+    "URL": "https://doi.org/10.1109/tsmcc.2007.905819",
+    "relation": {},
+    "ISSN": [
+      "1094-6977"
+    ],
+    "issn-type": [
+      {
+        "value": "1094-6977",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          11
+        ]
+      ]
+    }
+  }
+}

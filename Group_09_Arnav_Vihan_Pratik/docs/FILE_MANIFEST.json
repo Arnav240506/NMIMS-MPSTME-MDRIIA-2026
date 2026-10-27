@@ -1,0 +1,4294 @@
+{
+  "created_utc": "2026-10-26T23:41:13.323786+00:00",
+  "kind": "github",
+  "scope": "Portable group folder; final 60-trial 500 Hz evidence. Included historical evidence remains separate.",
+  "manifest_excludes_itself": true,
+  "file_count": 857,
+  "files": [
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/.gitignore",
+      "bytes": 166,
+      "sha256": "14527442f7402564dea93d08d04fbc8267d4c1b63b2614242f69137d7e5b3e70"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/analyze_benchmark.py",
+      "bytes": 5630,
+      "sha256": "97e89c591c621d86330dcef80fb5ddd0bd1002a076037e094c84f0c1c1d6d33d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/analyze_capstone.py",
+      "bytes": 7249,
+      "sha256": "1f98b500de33065b3f63afc1391bc4391e019b53890d49716548675e97cf08fc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/analyze_course.py",
+      "bytes": 11106,
+      "sha256": "4f0d71ebb115def3769a643da104e21fb72cfa64923136b1c8d976113e072a15"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/build_capstone_dossier.py",
+      "bytes": 23599,
+      "sha256": "b81caf75e6eebe1fbcab2932b747127a03d1fe035d276e5ab3fcf61e72481ced"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/build_capstone_paper.py",
+      "bytes": 11251,
+      "sha256": "04f7621ac45c9a360af62cfb7e87f206d29a97b7c0cd36bda1e89a396d65c420"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/build_capstone_support.py",
+      "bytes": 38183,
+      "sha256": "ab478137641372aa123aaff26786e944155cddec02b2b1deacc12ec5d813593a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/build_documentation.py",
+      "bytes": 41977,
+      "sha256": "19174efb1ddd3726a2d435bceb5cc0f9656aba172e4b8a4e79f733dd9f737647"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/build_dossier_evidence.py",
+      "bytes": 9987,
+      "sha256": "564a8165b349d75e92d32bf33618c4b54354abc2e0cc3b1c5dca3dd99817aeab"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/build_paper.py",
+      "bytes": 23214,
+      "sha256": "e0e9a13ad830526e2710504ba4363206eb8b8961d7fc846ca69fab9171fb78a3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/build_technical_dossier.py",
+      "bytes": 58551,
+      "sha256": "4a114b722ec551ce189b4cca41ec5470115eecde21d32cccca42f3620a607a51"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/business_dashboard.py",
+      "bytes": 4365,
+      "sha256": "56b0a44d83142c99fcb78d3962acf04417a26aaa48d6015e8ee02c894be98b26"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/00_31000_baseline/001_real_trials.csv",
+      "bytes": 10225470,
+      "sha256": "6857cc064f9e042cf21a78741ced8da63292d06ed664e3d54c6461b005518bdd"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/00_31000_baseline/002_real_trials.csv",
+      "bytes": 10201558,
+      "sha256": "ffcdfbaeaa49c392810dd08a9fdb26e14547373d208a94445a43721faeabc16b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/00_31000_baseline/003_real_trials.csv",
+      "bytes": 10192968,
+      "sha256": "7c483ea6cf59d82943e694ca30e794fc7085c3a9a1f7dd66f206691a7dde5407"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/00_31000_baseline/004_real_trials.csv",
+      "bytes": 10204905,
+      "sha256": "fef2f4e132f99840c909171cc575829eec1991164fb483cab1cd86bc85972f8d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/00_31000_baseline/005_real_trials.csv",
+      "bytes": 5100778,
+      "sha256": "25e702d8595afc8e34d3fe5ffc84d3a6ef0ad77385d643f1c905c799b4a0ed80"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/00_31000_baseline/events.json",
+      "bytes": 585,
+      "sha256": "7c43f4a9e1d527924790b0a8dc16d802f47da45fd6f7d753ae07edce9ceb428f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/00_31000_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/00_31000_baseline/scene.xml",
+      "bytes": 43339,
+      "sha256": "e23dc97031488022452f71d65af09351c54c03d12a66ce88c2d50dc18321ad69"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/00_31000_baseline/summary.json",
+      "bytes": 4646,
+      "sha256": "c964becf88b8f343fbe3ae654905973c6e8a1a5a6b6f833126065d46041b0517"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/00_31000_baseline/telemetry.csv",
+      "bytes": 5572820,
+      "sha256": "7c197acf68097317df0c61240e139ca9b613d5065963678bbe1d052031a2ff59"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/00_31000_baseline/telemetry_schema.json",
+      "bytes": 3168,
+      "sha256": "f13a593794bac808e1f66f4f11e76ac9f9e657bb783619b19cda0366aa011220"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/01_32000_shared/001_real_trials.csv",
+      "bytes": 10103951,
+      "sha256": "9741a08ce4b93672ddf6656680c83357bb911e17126b7c4a76485f477af576cb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/01_32000_shared/002_real_trials.csv",
+      "bytes": 10105446,
+      "sha256": "a7e7f82a6ab04e837636c7438b6a7c1466d3df5a4f5dff3731c71cf55bb1feb6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/01_32000_shared/003_real_trials.csv",
+      "bytes": 9730713,
+      "sha256": "9832eb70ac9a2ecb48ba8ea06d6531d68dbc95731ec360134f6a19356f0ef31b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/01_32000_shared/events.json",
+      "bytes": 8336,
+      "sha256": "d142f4ff875b4ed17ed62c2d2a0d49db3cec6fe415a4cc6fca9488c48990d207"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/01_32000_shared/plans.json",
+      "bytes": 1130067,
+      "sha256": "c47cfc616225db924375f4452725e72268d83b620aebf388b20b24de64a5500a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/01_32000_shared/scene.xml",
+      "bytes": 43345,
+      "sha256": "d5922cedde1c59725a7fec2ced5d09d83fb6c17a9d9ebac10b26dc95f573b0a4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/01_32000_shared/summary.json",
+      "bytes": 5596,
+      "sha256": "d2c73cb441291f0bca7cf38916107f3017c327be32eab2fc63e1e08646c1b843"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/01_32000_shared/telemetry.csv",
+      "bytes": 3729047,
+      "sha256": "7af1913873fa8722dfe5cf760d9842a206810d00b395da91b1e810b90949c695"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/01_32000_shared/telemetry_schema.json",
+      "bytes": 2839,
+      "sha256": "a68194d6dfc45d070bf15a8507411e075b2ec6b5da162b72f06803e2ff311236"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/02_31001_baseline/001_real_trials.csv",
+      "bytes": 10223608,
+      "sha256": "5ec80c798e82525bfd55aa0917ab1a92d9f939a7c7ba4d4774a3d2e620ba6908"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/02_31001_baseline/002_real_trials.csv",
+      "bytes": 10188029,
+      "sha256": "d5f7b8f30152db91b4ffd6ebd62d3c8882b0ecf7a5f091140dec4d6af44faea6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/02_31001_baseline/003_real_trials.csv",
+      "bytes": 10201996,
+      "sha256": "a47f9021004c0a19d4760c248e26a2611f09110a4e809d9b989085bc446873d7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/02_31001_baseline/004_real_trials.csv",
+      "bytes": 10193294,
+      "sha256": "07dd7cd8bdd6547ede3424f6e19e54dee3381e86931c7ca8378040c3f7315fa9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/02_31001_baseline/005_real_trials.csv",
+      "bytes": 5135288,
+      "sha256": "35370e7169d277848f4a6d9e604c7cc65a01d2d22ebcc7685d22e4ce478ba73e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/02_31001_baseline/events.json",
+      "bytes": 586,
+      "sha256": "a1ffd465cd26907ee7c3a6af66af587df4d0b66703bef99f370808766bcf2e82"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/02_31001_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/02_31001_baseline/scene.xml",
+      "bytes": 50707,
+      "sha256": "9d42e746e9cb6987561389c7d0392b915a8c5eafdbdb1bfe383c8e656cfb36e9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/02_31001_baseline/summary.json",
+      "bytes": 5837,
+      "sha256": "52d5daebd6a3801af34b221f48399c3c7b671abdbb442bc37da4c90d4e7dbc8e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/02_31001_baseline/telemetry.csv",
+      "bytes": 5624869,
+      "sha256": "9ac09f79bd566979c6ee57cb354131c4562a85b414ecf5cea262dbde51849703"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/02_31001_baseline/telemetry_schema.json",
+      "bytes": 3169,
+      "sha256": "b1c9abc880c612999101a822ad0eda0dce5ef025d5633618dc94747761c3cbdf"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/03_32001_shared/001_real_trials.csv",
+      "bytes": 10101216,
+      "sha256": "f33126489287a2d1c81bf3ceb44d5e8d2af78713e8b06a842f97f58dd0e4caeb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/03_32001_shared/002_real_trials.csv",
+      "bytes": 10128860,
+      "sha256": "7d7fc6a23e5a547e1574042286ccb43d6ff129e072733add67633db9062297c5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/03_32001_shared/003_real_trials.csv",
+      "bytes": 8938116,
+      "sha256": "4e794d16abb6a7a61ce1f52820957d676d3af4eca3e68c346935fbc2a889ce83"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/03_32001_shared/events.json",
+      "bytes": 8041,
+      "sha256": "71053a7ddb677aa6e2117273050d62ca82655d7a7fcee0568f10e8b6e89c5a9b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/03_32001_shared/plans.json",
+      "bytes": 1144687,
+      "sha256": "bf2727aa2bc7ecdc24630c6babb2d05aa9680312d10c6e798e9c74b6d2575bea"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/03_32001_shared/scene.xml",
+      "bytes": 50697,
+      "sha256": "0ef3d58ccc2f163779ea37620ebc781cfbd6242a0a07fcde580a9ef16004acba"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/03_32001_shared/summary.json",
+      "bytes": 6704,
+      "sha256": "08ee919842630d4b2b3d717f4a6f954aa09b52040f516d36da813f9e0d467acc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/03_32001_shared/telemetry.csv",
+      "bytes": 3627340,
+      "sha256": "5ee53055bd216f8826567a93a075790a627ec439e571bac31c407366ea9a96cd"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/03_32001_shared/telemetry_schema.json",
+      "bytes": 2841,
+      "sha256": "3672f7eea68e58d1780e05e215d98ed457105084bdca371029ac5735cf08df9c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/04_31002_baseline/001_real_trials.csv",
+      "bytes": 10272034,
+      "sha256": "b2894cb7fc9f116e1ea163e577a94f5800ed38f51c29784332cd4a85e28557af"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/04_31002_baseline/002_real_trials.csv",
+      "bytes": 10263749,
+      "sha256": "3b14fedae7c0d24f4f9c8533e2a3aa17c4ee00c0e61024071950c1ffecaaa967"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/04_31002_baseline/003_real_trials.csv",
+      "bytes": 10273139,
+      "sha256": "500542d6a8882cca4ff54548af61f75a3a122463d2c0e7f5ebeecb4b343ee484"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/04_31002_baseline/004_real_trials.csv",
+      "bytes": 10282701,
+      "sha256": "5d9a7bd3383c529bd1b36754537ece512c9a5ea95f111e76e56b2aae9db52e31"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/04_31002_baseline/005_real_trials.csv",
+      "bytes": 5141139,
+      "sha256": "f53259f8ff249cfc2304756f7b970c2368a8e2d2c1b2ed609034d57b57b5e015"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/04_31002_baseline/events.json",
+      "bytes": 585,
+      "sha256": "84788ed801460a0a3fcb7d51bd3cdbe73132f320949b60606463eab018eebfa1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/04_31002_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/04_31002_baseline/scene.xml",
+      "bytes": 50705,
+      "sha256": "bf6b80c2bc0a8d6caa043e8d36c6211dfc2d7c33ba03d385093f59fccfa2bd1a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/04_31002_baseline/summary.json",
+      "bytes": 5830,
+      "sha256": "1ad24644600d5eccec80ffb61fea8e2a6b1fb95fb1693f5bc5a1a3abadf82cc5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/04_31002_baseline/telemetry.csv",
+      "bytes": 5850501,
+      "sha256": "4809042da244e6afb2d2e97ae39719aa87013e12faf18d9cb8938d405efebf9d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/04_31002_baseline/telemetry_schema.json",
+      "bytes": 3168,
+      "sha256": "80a510c876d713c3089e0b2adb8545f0bcbb1e152da9e33eb93586b3da12a4cb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/05_32002_shared/001_real_trials.csv",
+      "bytes": 10108771,
+      "sha256": "df52d642be058fe2874e44fddcd933ca9ce2545af006ca34cf9573a535b5d3d0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/05_32002_shared/002_real_trials.csv",
+      "bytes": 10125563,
+      "sha256": "8622aedc2719e89757be04cf74603f53421f7326d8ad773f04c55c7ebacb68d7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/05_32002_shared/003_real_trials.csv",
+      "bytes": 9780978,
+      "sha256": "f6e0cd5a319a78d9004299c4af10b36ad650c32347af87020d627b71a78c573d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/05_32002_shared/events.json",
+      "bytes": 8335,
+      "sha256": "62ec0abb6435d8986a9582df281838098d81b4940dccd08ac9805f3cff7ae4f4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/05_32002_shared/plans.json",
+      "bytes": 1180289,
+      "sha256": "6ce6b7a7cc6029974606f040f1d442b8e4919b2eeba1e15ac6a0696fa90154b1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/05_32002_shared/scene.xml",
+      "bytes": 50693,
+      "sha256": "252bd266fa61130725d22db0cea4febd4e1a78509951525667b525f7e30c3551"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/05_32002_shared/summary.json",
+      "bytes": 6702,
+      "sha256": "6b29328011cd8e708d54a0ff9cf3ae4a52f887fc60fa68435168f84058266410"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/05_32002_shared/telemetry.csv",
+      "bytes": 3736508,
+      "sha256": "f5a6c1b6e4443739179657a8565adfb72d558888a97292b2cdf2f7c7f964f66a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/05_32002_shared/telemetry_schema.json",
+      "bytes": 2840,
+      "sha256": "7ee727ab34131a40faaa9be93bdf51fd4e7642361db78e3d208649f4404e7fbb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/06_31003_baseline/001_real_trials.csv",
+      "bytes": 10300216,
+      "sha256": "baf10da83eed783e90119746e4eb65f063852a383461fac7e2f4ec45e9db3430"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/06_31003_baseline/002_real_trials.csv",
+      "bytes": 10238533,
+      "sha256": "57b96d230b32a955007399dc6b03069b90a226c475d0eee446245e6a844f29bb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/06_31003_baseline/003_real_trials.csv",
+      "bytes": 10249362,
+      "sha256": "7b1c43086402961291675782803b6fd5d354bc1a4332054042e3147c51746865"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/06_31003_baseline/004_real_trials.csv",
+      "bytes": 10258510,
+      "sha256": "1f938532cf1497b6b61559ce2b29e296398ae765a224dd7969f5f8347032292e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/06_31003_baseline/005_real_trials.csv",
+      "bytes": 5129552,
+      "sha256": "d4a800eeb8996c0240ea56f3eeec001aeb13185d460101887d7af8199f73895c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/06_31003_baseline/events.json",
+      "bytes": 588,
+      "sha256": "343c8104bb1bc02025335c6c0a5fb43d7bfbebed2a21654656fb22a06dec084e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/06_31003_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/06_31003_baseline/scene.xml",
+      "bytes": 43345,
+      "sha256": "b57843d9af3592438ea190449d6ead78db5932ce3c09ea6f3d3504c2a506dd42"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/06_31003_baseline/summary.json",
+      "bytes": 4724,
+      "sha256": "9643657bfa61999c2fc4e992fde3a21a0ff61c18d9999056eaa59f017e4a821c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/06_31003_baseline/telemetry.csv",
+      "bytes": 5840850,
+      "sha256": "384974d5f343f93bd4bb70541013ac410c2447bed365913cf8b560a48f542da8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/06_31003_baseline/telemetry_schema.json",
+      "bytes": 3171,
+      "sha256": "4f73be0b0539af077c1f96ed32494ddc43a1be6ec2efb2c285a3eea7c6f7d965"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/07_32003_shared/001_real_trials.csv",
+      "bytes": 10090269,
+      "sha256": "b41353cd9c0c03a379055d87c1f3fb3472c76c1dcf6bdbacfd3905012a3e95a6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/07_32003_shared/002_real_trials.csv",
+      "bytes": 10133287,
+      "sha256": "39dff964a9310ac6f4fe710028ff5d1c3f5d6428b6bc5e1e86fff3b6320edec0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/07_32003_shared/003_real_trials.csv",
+      "bytes": 10037380,
+      "sha256": "53e392f6218c9420632e9f340e53e26a491039cd5a2f76e612960157782a4ace"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/07_32003_shared/004_real_trials.csv",
+      "bytes": 29012,
+      "sha256": "a4b73003b19f20c43978fcc40ccbd15d6fcc12742c5e7e2a895bacc42e21fdda"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/07_32003_shared/events.json",
+      "bytes": 8543,
+      "sha256": "28ea624270a0e4c8c4d0dcd9ac2b591ae6d1e646b94c24aa2c604af974ae1676"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/07_32003_shared/plans.json",
+      "bytes": 1170714,
+      "sha256": "22530d44eaf991531ffe56141fc61ddbd49dfd7115bfb5b8b99ef0f13c7fcb83"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/07_32003_shared/scene.xml",
+      "bytes": 43344,
+      "sha256": "1169476c85cc4f81a5228a0d82e735923a78f0d113f3e1eba85559679a6a5e4b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/07_32003_shared/summary.json",
+      "bytes": 5597,
+      "sha256": "4d0f3a13937377a4c92d6d726d365fcc089819009e13cf195097adcbb10a7bfe"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/07_32003_shared/telemetry.csv",
+      "bytes": 3768728,
+      "sha256": "7e703026156539f72d7cd0e5e07401f56ace6acdc71ede3253ddf4d702bad681"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/07_32003_shared/telemetry_schema.json",
+      "bytes": 2999,
+      "sha256": "38eaf9f8328ae583fadfa386816d93c8b3804b4c59b3a9b92467ec26808f03bc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/08_31004_baseline/001_real_trials.csv",
+      "bytes": 10293878,
+      "sha256": "a2b7573fa3055d676945b3fe5711184d8b7829abc07c31e2892c0edbeeb42831"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/08_31004_baseline/002_real_trials.csv",
+      "bytes": 10332241,
+      "sha256": "8e32e1a1a833a06bebe91808086f8d93f86e7c7a590184963224b1f88810fcc3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/08_31004_baseline/003_real_trials.csv",
+      "bytes": 10258656,
+      "sha256": "2f63cadda74782133c17defaa19ed158275fc215228323467bafd7627558afab"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/08_31004_baseline/004_real_trials.csv",
+      "bytes": 10263005,
+      "sha256": "a1aafc9e362b030a42e436a73f8d6b4b050c2a27f78792cde0b49921b23ce310"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/08_31004_baseline/005_real_trials.csv",
+      "bytes": 5132234,
+      "sha256": "97d31601c70ab39882d04fec6ea109ce80bda3fbb97d0d8f1b2611565e0edd76"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/08_31004_baseline/events.json",
+      "bytes": 587,
+      "sha256": "9b871b72b1732745938bc89126749a3c0fa0eaedc7c98b6efee8ff9ac3e55047"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/08_31004_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/08_31004_baseline/scene.xml",
+      "bytes": 50685,
+      "sha256": "89634ca2ca2cdf64fe3cbd8b147701210cafadafcef1823fba7942a4d1826a24"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/08_31004_baseline/summary.json",
+      "bytes": 5839,
+      "sha256": "c05dc9567da799ec777b9c8e288b5dd57663aeb8d25cd45f12712dcfb0ac3064"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/08_31004_baseline/telemetry.csv",
+      "bytes": 5775260,
+      "sha256": "f1957737a424e862dfe03c138102c10d1185de40b28c50b67209c5a08f54e87d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/08_31004_baseline/telemetry_schema.json",
+      "bytes": 3172,
+      "sha256": "799a8779196d3346dfbc062a8d4a2b4fbcfc46e34f5edae10048c6d4ff8ee4ef"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/09_32004_shared/001_real_trials.csv",
+      "bytes": 10097930,
+      "sha256": "94e0dc4f5eda6b0f74f7d246e5989436abc6da27e02a8278157db1b65cb35191"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/09_32004_shared/002_real_trials.csv",
+      "bytes": 10129248,
+      "sha256": "9ed64629f5ee7a28a1bb539d02335be4ba737738627313938ac164b6c3339c55"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/09_32004_shared/003_real_trials.csv",
+      "bytes": 10022687,
+      "sha256": "09b537bbc5e8ec13dae1257b67378cdaaab3603f69d0da3454d198ae5ccc8035"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/09_32004_shared/004_real_trials.csv",
+      "bytes": 45716,
+      "sha256": "8d896c1f1361460a563128fdb9b33aec09eca2db0774e7bf9e2814d3defc2404"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/09_32004_shared/events.json",
+      "bytes": 8340,
+      "sha256": "3aed236c9252619232b23ad47bc18cd367a2b14daad2d137f1065db726262df7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/09_32004_shared/plans.json",
+      "bytes": 1174249,
+      "sha256": "41560d4b9bc240ad9464d5e1544e6776632662de54796724b2edc9c2255be90f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/09_32004_shared/scene.xml",
+      "bytes": 50668,
+      "sha256": "bf41bf66ba9604c5bc9ea171691c53ad8a4c3c31bda10997d7d83d198f0a98ed"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/09_32004_shared/summary.json",
+      "bytes": 6707,
+      "sha256": "58f475cb6196d24f770fb4e9e3fb27219790383080ed29ee193d6bc1855e5ef5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/09_32004_shared/telemetry.csv",
+      "bytes": 3769885,
+      "sha256": "24fd829b5eea474791f0a54b8af7e9026446dd19a6e4d78b5a4cf5659e4f9dcc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/09_32004_shared/telemetry_schema.json",
+      "bytes": 3002,
+      "sha256": "ac1c2217b85598f6e3b102ce68fd79efc398a9a5ecae2fa065d1479b2c1f07be"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/10_31005_baseline/001_real_trials.csv",
+      "bytes": 10221123,
+      "sha256": "c47f7443dec952c5e8ecb007fdde2c1164be8306ca667dd149d3d05f037d1864"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/10_31005_baseline/002_real_trials.csv",
+      "bytes": 10244444,
+      "sha256": "17d21f584f2daca2efd481f930f5144b1daa5e9389eb893340a10e22d255c8b8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/10_31005_baseline/003_real_trials.csv",
+      "bytes": 10252787,
+      "sha256": "37808475786a308e9e8b705928c71c1cf830feea729b8ef38b178fad383ecfae"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/10_31005_baseline/004_real_trials.csv",
+      "bytes": 10261474,
+      "sha256": "1085897b391b4ad8be91e5ac0fa16decbd73fc58b83e10d91b6c0fad32d3ed09"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/10_31005_baseline/005_real_trials.csv",
+      "bytes": 5130952,
+      "sha256": "4c8da368598f0abcb0cc9a38f69f23793dca18706ee26b8704a994875082b1b6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/10_31005_baseline/events.json",
+      "bytes": 585,
+      "sha256": "1a420f8599119be00a344fd6af2243a06c806e836a172cba016ee9b4b2c96094"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/10_31005_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/10_31005_baseline/scene.xml",
+      "bytes": 50690,
+      "sha256": "94e01c137a93344d8b5504d211414cc4b32a846e8f21991e025ee60b2050e34f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/10_31005_baseline/summary.json",
+      "bytes": 5842,
+      "sha256": "703c701b6c3b07492fc17080ca05bafffa1fe8cac998244ad7d6723fe267469c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/10_31005_baseline/telemetry.csv",
+      "bytes": 5779676,
+      "sha256": "051bddbb0673d69f69b2442d8e01f6336042e2894c9c22b8aa0e2d8a2d1a8165"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/10_31005_baseline/telemetry_schema.json",
+      "bytes": 3169,
+      "sha256": "1a142d751ac5caf8421e6b81a0a7da7d4756a48ce499974fc4579252780c4a05"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/11_32005_shared/001_real_trials.csv",
+      "bytes": 10111940,
+      "sha256": "b64c86b114effd56c17528126a1a260c6cda1111b2afe4389740d5fb07448045"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/11_32005_shared/002_real_trials.csv",
+      "bytes": 10143126,
+      "sha256": "04a3264f8c7c20183353da3fb2747b691c77f7648e021664b45d8345e84df75f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/11_32005_shared/003_real_trials.csv",
+      "bytes": 10023800,
+      "sha256": "4ec95b1bf8cdee3604b6749c06f04809d897929e1cebae9a78221d5042e0bb02"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/11_32005_shared/004_real_trials.csv",
+      "bytes": 418735,
+      "sha256": "996adc76c446dd3753c3f1ed7f80a42ba9ff826242d289d5c0a24f6a6f5c48d7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/11_32005_shared/events.json",
+      "bytes": 8543,
+      "sha256": "76cd32ce79a4b623557ee72483456be4851ea6f3fcdfcd0971e5975268958758"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/11_32005_shared/plans.json",
+      "bytes": 1175863,
+      "sha256": "2336ea173627d766347f69880a912115103be05af8310c23cb8b8ec3ae9d76f1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/11_32005_shared/scene.xml",
+      "bytes": 50691,
+      "sha256": "49ace40a1b0f1cd99d923c044bab7e19553373d2612f8eb24c04033d39e07fd0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/11_32005_shared/summary.json",
+      "bytes": 6708,
+      "sha256": "f61d57437472548fdfe071a2ca5322d5e3178cc979ce91e0e5bd5a476b32faad"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/11_32005_shared/telemetry.csv",
+      "bytes": 3818882,
+      "sha256": "d18749f1ad2dd7b34aa9afa3517c32ac7904a34ac9c149294ced02afc1b49b29"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/11_32005_shared/telemetry_schema.json",
+      "bytes": 3001,
+      "sha256": "9ea45482c6182d4aced8ef76072ebb00e811a539d76c8fb92bc2dc1e82f49353"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/12_31006_baseline/001_real_trials.csv",
+      "bytes": 10222047,
+      "sha256": "ac982e6abeb3f41ff8cbd3909c6a3a5023dc1fdaca4f33c4a22c701e48951e27"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/12_31006_baseline/002_real_trials.csv",
+      "bytes": 10182745,
+      "sha256": "87a8be684de9fb2e41595546b5e0339af65a8608e4906883cbf490965ce757f7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/12_31006_baseline/003_real_trials.csv",
+      "bytes": 10191624,
+      "sha256": "4272d1db2c467a57504111b58961470f98f85d6e72127b4282fb604527f7cf78"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/12_31006_baseline/004_real_trials.csv",
+      "bytes": 10202101,
+      "sha256": "b741ff244f04ad47699b5b84318c36c61244da72d869b1a966a4df4aaae65a1d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/12_31006_baseline/005_real_trials.csv",
+      "bytes": 5100276,
+      "sha256": "3602c2445e4102b52121ca0a4903505031ed50efa5fe92aca0e19f5f50a23720"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/12_31006_baseline/events.json",
+      "bytes": 587,
+      "sha256": "6aaf0fbb321cc92fe29b96c403202a540609fee7be2c3cf2e50bf7e89a250428"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/12_31006_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/12_31006_baseline/scene.xml",
+      "bytes": 43343,
+      "sha256": "08edf330be90c3b43d828dfdfe281ff5cb223758f2ed4eeeabbfa81edeb1065e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/12_31006_baseline/summary.json",
+      "bytes": 4641,
+      "sha256": "dd84be096e74fb2194abd1d805544993d6e0ee6018cbf88bff4e0cd61552c6db"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/12_31006_baseline/telemetry.csv",
+      "bytes": 5573344,
+      "sha256": "df6df698f04bdde232c0e778072522b9899fa4145955f7f2d778b74c1aca4017"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/12_31006_baseline/telemetry_schema.json",
+      "bytes": 3166,
+      "sha256": "2a4d7a9cf70172ea237bc487640deed5d229ffed8591144761abe6b3bfa6886f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/13_32006_shared/001_real_trials.csv",
+      "bytes": 10095954,
+      "sha256": "ec085e6db863e9bb312897a64de14ac7068c068ba466440f15568bd44a7bdde5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/13_32006_shared/002_real_trials.csv",
+      "bytes": 10122644,
+      "sha256": "c09f25633ccb9008c8d5c65769a05cab4741da638761e95c79daa69f9e11965a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/13_32006_shared/003_real_trials.csv",
+      "bytes": 10032095,
+      "sha256": "8c92a4315ae028d79b82d3f5c5c082494d2be4bb12820f58798ed85cb458227b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/13_32006_shared/004_real_trials.csv",
+      "bytes": 530666,
+      "sha256": "dbd9f0ca09f7cdfa944c0b992df60f34f57e5e44c84b44acdcf43facdcc1133c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/13_32006_shared/events.json",
+      "bytes": 8327,
+      "sha256": "cb98a0ad308d369cb973bec9df4fe06577e7f5fe4e648ef1494b4b7f2101defc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/13_32006_shared/plans.json",
+      "bytes": 1192255,
+      "sha256": "2a2a76739226d279473183498859e14bea82270e624fa6bff05520601577d75f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/13_32006_shared/scene.xml",
+      "bytes": 43344,
+      "sha256": "00ecc8b5e1db6aac3214f63895da4af56cdd54cc423cd3f6834c2ea6f1b782a6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/13_32006_shared/summary.json",
+      "bytes": 5594,
+      "sha256": "7588c332a694d12e8ee43cdfb9ab4bd5f3fbcf8957a98bfda7843cb08d5990f5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/13_32006_shared/telemetry.csv",
+      "bytes": 3830448,
+      "sha256": "caa0b60df881565a086234f9d85fa52305c55806b690e3ff4c3ad3274ab080aa"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/13_32006_shared/telemetry_schema.json",
+      "bytes": 3001,
+      "sha256": "f48aef04b5dcb39bfb69afcb763914531daa2fa466ff321c28d08e2293d82391"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/14_31007_baseline/001_real_trials.csv",
+      "bytes": 10219523,
+      "sha256": "7f50c5391e5f19bb35a19faa3901bd54fd5183b48903a149c420b54bb707a3de"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/14_31007_baseline/002_real_trials.csv",
+      "bytes": 10177166,
+      "sha256": "b7bdc33477872210f5accadf89ff2ffb39144d734fc0766cd05d3b7dac83f267"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/14_31007_baseline/003_real_trials.csv",
+      "bytes": 10182728,
+      "sha256": "cfd0c7d4d0201c729dfc677a5411505faa93c1cb3bf04e91f4c6086f8d0462ec"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/14_31007_baseline/004_real_trials.csv",
+      "bytes": 10193654,
+      "sha256": "06d91f2cdf73538fa2ba8ba9f4e2f307f884f0581b127f323028b8985f2578c4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/14_31007_baseline/005_real_trials.csv",
+      "bytes": 5095338,
+      "sha256": "67cac10c89f2f59bf548798f77050a53b467c5c02cb4975e8274d8fd57aae426"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/14_31007_baseline/events.json",
+      "bytes": 585,
+      "sha256": "3192039b5484478113c4ee39e55e008de77c020f04b5a9d2b17dd6b2610994be"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/14_31007_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/14_31007_baseline/scene.xml",
+      "bytes": 50696,
+      "sha256": "a6bc4b8ae634fc00b789eeaa1087a74940c93ee6fe8a91b0e5dcd93c2af24415"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/14_31007_baseline/summary.json",
+      "bytes": 5803,
+      "sha256": "d55bcd77c2c11760a8e39955e244160df2a2faf80bc70e5f811c5b754f433210"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/14_31007_baseline/telemetry.csv",
+      "bytes": 5567711,
+      "sha256": "cd5d40b8364c13593cf9471b14a445c8cf955970169ee1608ae0a95580f36d33"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/14_31007_baseline/telemetry_schema.json",
+      "bytes": 3165,
+      "sha256": "2a38ff6b8ed0a2b5ad22ccb350fb00f0c08705b12525825440fec5a0f0e8a880"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/15_32007_shared/001_real_trials.csv",
+      "bytes": 10103841,
+      "sha256": "2d2fdfb8054125cb0971eef714bfd17f6ba03a49ab25a1defc0d579553571027"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/15_32007_shared/002_real_trials.csv",
+      "bytes": 10121856,
+      "sha256": "4874aea353b3064ac8a4f38a346e7c42991482bfbc1f6ead7212d71d4cab5dd8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/15_32007_shared/003_real_trials.csv",
+      "bytes": 9967926,
+      "sha256": "5973bc8f5b1aa3e0f03590b2f3bcb8bf54eb3e27936d937ae62c3b8d11c35dd2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/15_32007_shared/events.json",
+      "bytes": 8539,
+      "sha256": "a1ac50feef31df76c01c4a3120601ce184adec3bd4e13716f827b02a5f8937b9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/15_32007_shared/plans.json",
+      "bytes": 1165509,
+      "sha256": "1e4b97472bf9b4f6b51b5a22e6d370eccf144a983170db1dbd92c7dda6ea7f16"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/15_32007_shared/scene.xml",
+      "bytes": 50689,
+      "sha256": "9566eab4a07f0c8922bf789fe5facdf7b54db10376ab195749422dd317117015"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/15_32007_shared/summary.json",
+      "bytes": 6706,
+      "sha256": "a8965de8acb96d9f41c2d880a547e4250dedd059696674c4e5f1730d37a161ba"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/15_32007_shared/telemetry.csv",
+      "bytes": 3759476,
+      "sha256": "e00accd13566353e3c4d4311f7407f61805b84595b908b5289bee232ec8686b6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/15_32007_shared/telemetry_schema.json",
+      "bytes": 2839,
+      "sha256": "d321290e55751e26ff4b469cfdc56d475cd58caa0f3025dde571ea8cdbb2877e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/16_31008_baseline/001_real_trials.csv",
+      "bytes": 10224372,
+      "sha256": "1bfa32b9524c3f60d27ba37463d469bd32f1e90b1cc33f1b4de0d539c6c77674"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/16_31008_baseline/002_real_trials.csv",
+      "bytes": 10192263,
+      "sha256": "d58b6d9a163a6e02d8bf281a71fba5c57cf7be117550aae7bea5ee2e46284312"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/16_31008_baseline/003_real_trials.csv",
+      "bytes": 10212383,
+      "sha256": "63cae48d1aa18cd22b4266d862ba1ac56118e2ffdeaef4612b4b113a2dea6aa0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/16_31008_baseline/004_real_trials.csv",
+      "bytes": 10202351,
+      "sha256": "a5be3e0c43cc2f7bb883f65cdf09ef5edca575fc41e45fb39831d6eda2580cc6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/16_31008_baseline/005_real_trials.csv",
+      "bytes": 5110083,
+      "sha256": "9698a28c210b26bb2da6e8e5bb0f09bff1580e3e3ee5c721d1008c035aa446b8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/16_31008_baseline/events.json",
+      "bytes": 585,
+      "sha256": "5df225f8ace1ff763837ed1e9f11588a8346109818488aa3ecf6d488a3e86bac"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/16_31008_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/16_31008_baseline/scene.xml",
+      "bytes": 50686,
+      "sha256": "4f895bfdf3f121ac9f5b676454208721ab73772931558204029b6590659eccb8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/16_31008_baseline/summary.json",
+      "bytes": 5796,
+      "sha256": "857e879637d294712df1e48325dc96a385912492f5e9df9b6d9611eaf55fb071"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/16_31008_baseline/telemetry.csv",
+      "bytes": 5567683,
+      "sha256": "e43b1cab7c16d0c2510bc24a74ece254f75caeb6afb1bec04282c89e553c3d94"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/16_31008_baseline/telemetry_schema.json",
+      "bytes": 3168,
+      "sha256": "d24182778fd5fe277e4218901b9c2617c79b3f05135c99e044e053feb34cae35"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/17_32008_shared/001_real_trials.csv",
+      "bytes": 10113445,
+      "sha256": "30bdce21fd327e136bab93fd174772593a6a17dcb4b70580708c9cf5e37875e1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/17_32008_shared/002_real_trials.csv",
+      "bytes": 10127759,
+      "sha256": "7d5f2b42c2a2f15dc0b86bf94b447826d159fb2b6d698e1cd4d355856c00a8f3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/17_32008_shared/003_real_trials.csv",
+      "bytes": 9196364,
+      "sha256": "feccef349523dfaf8951816b4738506fb8783a09668fe6f2fd009b6799307241"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/17_32008_shared/events.json",
+      "bytes": 8253,
+      "sha256": "e0d284f2f315199d76124134507a5434d4163aa46553d76d6a2d531efbebf37f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/17_32008_shared/plans.json",
+      "bytes": 1160431,
+      "sha256": "f6f41ff28346c025db12da259f83ddeef68ca31d99a59327d3a427ec82bdcef3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/17_32008_shared/scene.xml",
+      "bytes": 50679,
+      "sha256": "3ce430f6b90e84ab3ae0f63f7075ba70093f15ec53d8a8bd1f8f627674697e9a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/17_32008_shared/summary.json",
+      "bytes": 6710,
+      "sha256": "3dcef14c614fdccc61c64123e5621e2ecb47420b985a1364c806274bff7a8f7c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/17_32008_shared/telemetry.csv",
+      "bytes": 3659315,
+      "sha256": "73bc16ea9687388932df4e1dff061f207bda099ff664557425ce66f49561d900"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/17_32008_shared/telemetry_schema.json",
+      "bytes": 2840,
+      "sha256": "027e25feff18eafce1e8d7da7b188b47c19eab4d050248fb711d4743f099ef3f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/18_31009_baseline/001_real_trials.csv",
+      "bytes": 10231259,
+      "sha256": "95cd4bb0a9b60b6e45e7a1a6c675b83b5891ff1e253f1d8d94fce5e00e7a055a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/18_31009_baseline/002_real_trials.csv",
+      "bytes": 10193444,
+      "sha256": "940d6e0d6298972d6fdf2fa146bb8940009e87ac8478f6487c7c84751f736ab5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/18_31009_baseline/003_real_trials.csv",
+      "bytes": 10197998,
+      "sha256": "dd860f4fce483d693b5a1f4322112a2c2c6e28ae2d1efaef9258f145edc5a1ce"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/18_31009_baseline/004_real_trials.csv",
+      "bytes": 10210365,
+      "sha256": "17c74bbfe62d040ecdbaac2b5e2d6b64216c85554fbe35c19c5ed88b5d439a15"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/18_31009_baseline/005_real_trials.csv",
+      "bytes": 5106628,
+      "sha256": "3901da88c5a00fc0398dfaa3bf99db25bf7c400b7e6e83ad07bfa504944865ab"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/18_31009_baseline/events.json",
+      "bytes": 586,
+      "sha256": "b1ef9108ebc9990719bf3a67ec1049a823492d8b1ad0f38914bb426270f0ea30"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/18_31009_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/18_31009_baseline/scene.xml",
+      "bytes": 43355,
+      "sha256": "3c7a6308288a49415055b797f445c9cf98cdd4380eae0d56eada22df40ff5fbc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/18_31009_baseline/summary.json",
+      "bytes": 4634,
+      "sha256": "7be20e20ee0b6027bdf1d4ff05c1b6fbe843c695ae06249a13f6a951b6c32362"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/18_31009_baseline/telemetry.csv",
+      "bytes": 5589505,
+      "sha256": "2897ede452dee26c4c99a61076aa3b502264eb30d14a1e3afeadf1b5cb629085"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/18_31009_baseline/telemetry_schema.json",
+      "bytes": 3171,
+      "sha256": "fe925181918f8bee28ca648e1f109000e5d6796dc4f8aa39bacef1058fcb9548"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/19_32009_shared/001_real_trials.csv",
+      "bytes": 10099445,
+      "sha256": "d7bc25c2ac00c0ac4b53702fc7306b2e7ceda06d6d281286d5c4b982125f4802"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/19_32009_shared/002_real_trials.csv",
+      "bytes": 10121223,
+      "sha256": "71353f826a4d414c2aff63ec173c8b2b2c4f60a8b17693c447f8e798a09b611b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/19_32009_shared/003_real_trials.csv",
+      "bytes": 9808038,
+      "sha256": "8153d303f3d0d9f2b929dc3ca21808532c2c43d8c33ac70194efe37fe89b8df8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/19_32009_shared/events.json",
+      "bytes": 8344,
+      "sha256": "f29c3adfdfdc47c5a27e6d03fd4a8b2ba156e19551a14f509ae737e56b55ad72"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/19_32009_shared/plans.json",
+      "bytes": 1141270,
+      "sha256": "ba59deb989219e85f0f69271d48b82f9a0b08fca76f0bf3c4957e2bb95399651"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/19_32009_shared/scene.xml",
+      "bytes": 43340,
+      "sha256": "48c8c8b87a24fbc74209b0c4f891c5b1df58116dd5bdada42690b983ce8aa515"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/19_32009_shared/summary.json",
+      "bytes": 5594,
+      "sha256": "d8461970519dfd564c34f783521245967e42aefa8b586be3e3fe9332df23c2bc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/19_32009_shared/telemetry.csv",
+      "bytes": 3736053,
+      "sha256": "1fe7170874c0da87da4c20cbf45c37ccc74f3bb6b93ebdf1f6adde92180cdadf"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/19_32009_shared/telemetry_schema.json",
+      "bytes": 2840,
+      "sha256": "461cce392c3d9453438de5b29f34bc92c58d3b743ae889633485d7be23fe15f5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/20_31010_baseline/001_real_trials.csv",
+      "bytes": 10220452,
+      "sha256": "a334d2d7ed5886966d358b3c8b4bed8515300f415d480b6521dca973afb6a203"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/20_31010_baseline/002_real_trials.csv",
+      "bytes": 10267919,
+      "sha256": "8be82a4597cb4ebcb86b1aba5f4130e0fe0279bb96b1703968608b0f9bcb4fb7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/20_31010_baseline/003_real_trials.csv",
+      "bytes": 10272061,
+      "sha256": "0f672d48c21f7e4c60f673bf80e1834ce992f6382f8eb1dfafc6a7cc71c08065"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/20_31010_baseline/004_real_trials.csv",
+      "bytes": 10282025,
+      "sha256": "bceca6037f18f1d055dff60447c2cfb3570390d89c0b2cfb5e101a3cffbc6840"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/20_31010_baseline/005_real_trials.csv",
+      "bytes": 5141481,
+      "sha256": "189ab2c74410719ffd55a1d1a52b865853283d4e63fb591834cae88d67fa6d37"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/20_31010_baseline/events.json",
+      "bytes": 584,
+      "sha256": "db334f4a5a1a4d281f39357ec800d49b486c6d408fe09b1536621803b69747b5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/20_31010_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/20_31010_baseline/scene.xml",
+      "bytes": 50692,
+      "sha256": "b3ca4527e9617f706cdc33ab6e55ef54052f6badbffbae7074a2f137d1067c8e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/20_31010_baseline/summary.json",
+      "bytes": 5840,
+      "sha256": "7c2ce0fdf7b994c398bf312b9994110799b92d721cacbee93f80c3fe0d366ccb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/20_31010_baseline/telemetry.csv",
+      "bytes": 5800943,
+      "sha256": "a3febe7b3b522768f01c5a85e03414cf49d10a92deda23cb37e1d91d3dfa584d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/20_31010_baseline/telemetry_schema.json",
+      "bytes": 3168,
+      "sha256": "295dc55c8e54d0b5b311dcac7e2a1f24e93e7bb84c96e8635713f978c867ccde"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/21_32010_shared/001_real_trials.csv",
+      "bytes": 10108493,
+      "sha256": "82345567ef406897216eb0f1c093c6456825af6c849ffa91948d6f7243bb64a4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/21_32010_shared/002_real_trials.csv",
+      "bytes": 10130001,
+      "sha256": "373aeba7cc4b0697811f291e9382f6347779239fa1f9b28a8e3108d41303923b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/21_32010_shared/003_real_trials.csv",
+      "bytes": 9488354,
+      "sha256": "862096653eb1c88a9ab12755fe3e84f9751deba6ea93fe8223cb7d1a90329106"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/21_32010_shared/events.json",
+      "bytes": 8560,
+      "sha256": "5b29cc791e7fdd0bf748c402f3eb095d85413d61583faef3563d40c8551d3b15"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/21_32010_shared/plans.json",
+      "bytes": 1194197,
+      "sha256": "a24d73eadccb3a5b9eaf7491dff85276aeec558961dc3d4ac7d3d0b779356ff9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/21_32010_shared/scene.xml",
+      "bytes": 50688,
+      "sha256": "a24c5110a0d7e553ed26c8165e0427a80268e41bf947a28d0a8d2565825ece76"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/21_32010_shared/summary.json",
+      "bytes": 6705,
+      "sha256": "e21b88f0adf191bc9a8d3027ce0de7f773b8e90718a590de24e373ce56030717"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/21_32010_shared/telemetry.csv",
+      "bytes": 3695857,
+      "sha256": "a0d014a729ae246416293497cea939c465740f04b9b4a96e8a5153c5308f85fe"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/21_32010_shared/telemetry_schema.json",
+      "bytes": 2837,
+      "sha256": "9aaf8d7c952a6bce2f5d3df86b5460b18e8ffe21b5f4b7071626379ad68dc670"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/22_31011_baseline/001_real_trials.csv",
+      "bytes": 10287113,
+      "sha256": "e29798b14de5f0ba2b143b54d9b0457ab05614ff40b903fb817d9eeedeef9851"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/22_31011_baseline/002_real_trials.csv",
+      "bytes": 10255970,
+      "sha256": "d29136207d1ec8b1965644e78f9dde39976e74bd2c4c95c37bca8d5408322732"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/22_31011_baseline/003_real_trials.csv",
+      "bytes": 10272559,
+      "sha256": "238888927bfbdc08de843454ae02bdf6f88f3484d2afe6a0531bbb4acec1e547"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/22_31011_baseline/004_real_trials.csv",
+      "bytes": 10280351,
+      "sha256": "f7f244254c0afebcd8f6edb5e64ce6c0c9a302871a8c6def66f39b43f090764c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/22_31011_baseline/005_real_trials.csv",
+      "bytes": 5140686,
+      "sha256": "554c1a47ba81ab67a399be47cded55e46c9247082cda99d8d7b0b2969926e6b4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/22_31011_baseline/events.json",
+      "bytes": 585,
+      "sha256": "9ac8dfd706780d53fc257354c93030582c786040ff5adeb5e0702fef4e95beb7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/22_31011_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/22_31011_baseline/scene.xml",
+      "bytes": 50667,
+      "sha256": "03973ddc24fc487ddad820a18bbeac8eb86ea4496ea8365352ee663bfd95d8b9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/22_31011_baseline/summary.json",
+      "bytes": 5835,
+      "sha256": "db0e849bb42e77dac5656cee7eb9fee18e9729622ad931d35cbe4529d4de232e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/22_31011_baseline/telemetry.csv",
+      "bytes": 5850323,
+      "sha256": "765365b6dd438d0ec1e4c713d7dd32d627c2c62b263665966adc5998ab23bbc3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/22_31011_baseline/telemetry_schema.json",
+      "bytes": 3167,
+      "sha256": "f5989373092650fcbc307c3f1d48647124205fd46e6419a4519de9b9be48f958"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/23_32011_shared/001_real_trials.csv",
+      "bytes": 10110853,
+      "sha256": "584f90ca1f6b6593c0f4e5307f163ffb5c147a2c4ca7eaa56c24fd2f4c97c533"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/23_32011_shared/002_real_trials.csv",
+      "bytes": 10119508,
+      "sha256": "591d645acd0ad34d5cd4645eed4c62ef50aa76755520f336861c7d60074c7cef"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/23_32011_shared/003_real_trials.csv",
+      "bytes": 10014261,
+      "sha256": "34749ef952b2aa7d8001782053883086840752f12eb3f3137f963c95e148cb32"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/23_32011_shared/004_real_trials.csv",
+      "bytes": 31894,
+      "sha256": "ef398a67cc8be691bf6d71039d60ab37bc40b234739b724a14f34efd8a5200ad"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/23_32011_shared/events.json",
+      "bytes": 8340,
+      "sha256": "0270c685a4a2766cb8cf67369012e2b3837808f42fd20e1a25cfa3f01d9237b5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/23_32011_shared/plans.json",
+      "bytes": 1124326,
+      "sha256": "daa70e64aaacd65c658dcdccc092591a80b2f9a65d21e5f679a05094ec2c6c81"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/23_32011_shared/scene.xml",
+      "bytes": 50681,
+      "sha256": "8dbdc6bd23b1e222c97d85806ca2182f750f59b5372466b87b6ca3e4d496744c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/23_32011_shared/summary.json",
+      "bytes": 6701,
+      "sha256": "a83aea32036cb2edb12946089d6fceb268c8f0be4d0642d1dafee50cba57f119"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/23_32011_shared/telemetry.csv",
+      "bytes": 3767074,
+      "sha256": "b5f455d6ab8632753e523eff485506a5644a7b2fe32b8fb6a1fbb4d37d10edf4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/23_32011_shared/telemetry_schema.json",
+      "bytes": 3000,
+      "sha256": "c09207bf96e8620bc782c20e24df8ecad616eea7472b482ba0d75dea30561589"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/24_31012_baseline/001_real_trials.csv",
+      "bytes": 10220326,
+      "sha256": "a33436498197bec85f9446700fccd8ada63b79a9d1d68ad379a2bf44bd1b02b3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/24_31012_baseline/002_real_trials.csv",
+      "bytes": 10224596,
+      "sha256": "642c119172536bdca7e25e150e779f748a1f76249c8fbb2c7229a08c92a16ea7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/24_31012_baseline/003_real_trials.csv",
+      "bytes": 10251062,
+      "sha256": "1f22cd4ed826341de4726f3345f56596ef60fbe7d0ab0afb5144164ff5ee9770"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/24_31012_baseline/004_real_trials.csv",
+      "bytes": 10263057,
+      "sha256": "7b9191d278a0ff2dae663cec502c9b64124833ad64705c3d7ebb27fb66a5f4d4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/24_31012_baseline/005_real_trials.csv",
+      "bytes": 5132082,
+      "sha256": "09c31a66cd5ff1c204f337b451dd19783e3a60eef6f8192b8677049e14df67f5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/24_31012_baseline/events.json",
+      "bytes": 585,
+      "sha256": "e90fbe56a33e66b779b42d0c3fe736204e383f4896ebde432e686134b5362063"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/24_31012_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/24_31012_baseline/scene.xml",
+      "bytes": 43348,
+      "sha256": "e0cfc2d9f79df6f2cff7d38ebdb4d3094540c563bcf4fba81cd0fc93d1f16e6a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/24_31012_baseline/summary.json",
+      "bytes": 4730,
+      "sha256": "8961c8d1430aa56488845c058a4934b5a7832ad1aaa0012fd3604469ec3cfdb5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/24_31012_baseline/telemetry.csv",
+      "bytes": 5762226,
+      "sha256": "addba75e3216e60ac346dc01cca725857e997dd1accd96396ed068a6f2fe1784"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/24_31012_baseline/telemetry_schema.json",
+      "bytes": 3168,
+      "sha256": "f4d4d9be9a3a15cd4d6cb8d96a862e9f89b5e45880cb9b55ccbba88429354a74"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/25_32012_shared/001_real_trials.csv",
+      "bytes": 10103019,
+      "sha256": "d259ef070065ab2f698e28a791038b3644847d3e6ea94b1fa25c4ca841e803af"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/25_32012_shared/002_real_trials.csv",
+      "bytes": 10138195,
+      "sha256": "06364d082c61bccc05ff7f9979935945a50462cda223dafa9bd06afe93f6e2c5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/25_32012_shared/003_real_trials.csv",
+      "bytes": 10035250,
+      "sha256": "381f2e4f1a5fc12b31c56a5acc3fcc47beaeb701779b500ea457180e3b7342ba"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/25_32012_shared/004_real_trials.csv",
+      "bytes": 42680,
+      "sha256": "f9956bf1bd43e38beefbeb6668a3c98cc806d2c5d50e6af18f4f3fae36ae90f9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/25_32012_shared/events.json",
+      "bytes": 8341,
+      "sha256": "788744c12592a047b889a3d510239f11b87debe4053489451e697f8e042dba20"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/25_32012_shared/plans.json",
+      "bytes": 1169175,
+      "sha256": "a19202ca8125e2310d45f4366dc6bbaaec07151fdb61ff4483ec80387ff1cb84"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/25_32012_shared/scene.xml",
+      "bytes": 43345,
+      "sha256": "8d5fcc6fd642043234165c7fa8b35acd971429e2b9e2d4afaceb8288c33d7063"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/25_32012_shared/summary.json",
+      "bytes": 5593,
+      "sha256": "2fc84caaa7152748a61745f05d6c51975c60630a621c8cfcfe10334fb2e2d22a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/25_32012_shared/telemetry.csv",
+      "bytes": 3773157,
+      "sha256": "f130010a7a67f328bc641819e4b1414bee7eeb0bb5331c20aa4ecd128fc719bf"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/25_32012_shared/telemetry_schema.json",
+      "bytes": 3001,
+      "sha256": "c035315747611ee70ee52dd65f95cade08e657847d8061179eb4db49c94204b4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/26_31013_baseline/001_real_trials.csv",
+      "bytes": 10329610,
+      "sha256": "47d348aca085b97d470886ee37b82617da4ff1c9249299805ad340f58b01e547"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/26_31013_baseline/002_real_trials.csv",
+      "bytes": 10258591,
+      "sha256": "2576e0a11ce6f6c8225dc221a97d2746ccb4d8494bef3d8f56acf786e75782dd"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/26_31013_baseline/003_real_trials.csv",
+      "bytes": 10251220,
+      "sha256": "30466bab9cbdfdd8500476e028767ff90ba2ab269ee15bf88e0bc140d2f6e1f8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/26_31013_baseline/004_real_trials.csv",
+      "bytes": 10262580,
+      "sha256": "2f636793ed185cabd0d956b5d83e2e635ea2193c0f29a41573d228a354f8f649"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/26_31013_baseline/005_real_trials.csv",
+      "bytes": 5131361,
+      "sha256": "383d0c0bcef172bfb306cda65332a8a832389d91b38f8e676161607ed7fbab08"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/26_31013_baseline/events.json",
+      "bytes": 588,
+      "sha256": "2abf11e24640d81f218a811074d8e6094e60f412547f2135beb24f43b5d819a4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/26_31013_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/26_31013_baseline/scene.xml",
+      "bytes": 50697,
+      "sha256": "659cd5156702ce1563761dddeab7a2bd25d072fe1d444f275c4eaaf68580d716"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/26_31013_baseline/summary.json",
+      "bytes": 5837,
+      "sha256": "a2173afa0bf16bd7ee76ee503a6aed4fbfc7cdc211945fa36ae25e6858e2a0c5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/26_31013_baseline/telemetry.csv",
+      "bytes": 5816355,
+      "sha256": "100c3cfc7e0e0416177cca7fd0c5e203401afbb6762a02d2fcbb0e0c332d01e7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/26_31013_baseline/telemetry_schema.json",
+      "bytes": 3169,
+      "sha256": "83f6102315073d75990e38fe609f34e7bc4a41b962c16673a90a49047123112e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/27_32013_shared/001_real_trials.csv",
+      "bytes": 10102137,
+      "sha256": "070def0febb2e97c10b5d6d8db780af455ec1660350bce84b221c195e3523191"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/27_32013_shared/002_real_trials.csv",
+      "bytes": 10125852,
+      "sha256": "834745b95bd6df8c44bfda52df8413dcf1dfb88054181a17fd6d97197596ff8f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/27_32013_shared/003_real_trials.csv",
+      "bytes": 9532725,
+      "sha256": "1c9cf8040e96ef286bcf87c72a9aa2068cb1d15a696f9efef5420a91f0bd472c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/27_32013_shared/events.json",
+      "bytes": 8543,
+      "sha256": "246494a18c7b211d036466f48bc2876ec9958900104e784317b0e525a6ce7953"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/27_32013_shared/plans.json",
+      "bytes": 1132161,
+      "sha256": "bb32be4182aa11bbaa01dc6c366a9d0a61fb40786ad5d7c21f31486718577ebe"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/27_32013_shared/scene.xml",
+      "bytes": 50721,
+      "sha256": "d8fda5b0d515123b5f527d73c032f1e9299020f33bbb0b27e1861823c98dd3cb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/27_32013_shared/summary.json",
+      "bytes": 6704,
+      "sha256": "c6733b28c59a4012c548795aee66b71e2e11004daf8cbeb962f0c054b1c27d25"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/27_32013_shared/telemetry.csv",
+      "bytes": 3707265,
+      "sha256": "7c4479e532ba4f45ccd3dcfca34b37c694c08b49bcd5ac2106d4e32ff1a7607e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/27_32013_shared/telemetry_schema.json",
+      "bytes": 2842,
+      "sha256": "5eb9ff95632573604156a702ef36da6f5ad2234c174b05a01073af219f5e399d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/28_31014_baseline/001_real_trials.csv",
+      "bytes": 10238661,
+      "sha256": "5859ffc84c21aa01dc88c5c91bf2114292221741757b2012a2b370fd6c535b47"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/28_31014_baseline/002_real_trials.csv",
+      "bytes": 10246113,
+      "sha256": "0fb600f9d4d8ea5351f09997be8171aab6848dc89354e61f556358a37bd18fc1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/28_31014_baseline/003_real_trials.csv",
+      "bytes": 10255008,
+      "sha256": "8516462e39fc2c7af65ea79792e43fd47fe1ecbd54abf87bc450289305a598e7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/28_31014_baseline/004_real_trials.csv",
+      "bytes": 10265139,
+      "sha256": "8e75190d7915b7e9b7fc3bec129f8b25015493a5fa49c079166dad22a8b9f251"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/28_31014_baseline/005_real_trials.csv",
+      "bytes": 5133337,
+      "sha256": "04be66e6f91c4d2eb00f2921952b2adb265f823ab629e03c3b517b8021b9d51e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/28_31014_baseline/events.json",
+      "bytes": 584,
+      "sha256": "2a23886858b92c35fc18ea2b41c84f38701efd21e7da284224cc017e64dbb6aa"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/28_31014_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/28_31014_baseline/scene.xml",
+      "bytes": 50670,
+      "sha256": "d80ac408e029152909fda40d49e3ddafcc5fa877ed40f8c3d63122ac4ba9cc2b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/28_31014_baseline/summary.json",
+      "bytes": 5833,
+      "sha256": "1dbd6e8f529d7141fd3f87778e9934fcc4abc91ff5ecfa0c07d21fea82ea24d6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/28_31014_baseline/telemetry.csv",
+      "bytes": 5817492,
+      "sha256": "76d9e1af3aee46e98bda01d6252cc89e5b10caafa0aab9aa4e7e25c4153fad2b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/28_31014_baseline/telemetry_schema.json",
+      "bytes": 3166,
+      "sha256": "143f4e5bdeb5ee604efbe1cb74b8168251b5124cd166a9169e1e7b98ca0bb2cb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/29_32014_shared/001_real_trials.csv",
+      "bytes": 10098956,
+      "sha256": "d001d63f3f084f62f0bc96ff502be4f9729b8174f5935055e4243fb0a379ebce"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/29_32014_shared/002_real_trials.csv",
+      "bytes": 10133233,
+      "sha256": "eb603a26ceeaa5b0a658d8ab506e37ad1f87bf679dad8c091a18ea605e045075"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/29_32014_shared/003_real_trials.csv",
+      "bytes": 9988256,
+      "sha256": "ca4444025637d39ab0285332e1965d1506b8f76198d4c6e2c8c6f0e56613de3c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/29_32014_shared/004_real_trials.csv",
+      "bytes": 702994,
+      "sha256": "65f51df395296524a38e190290943951e4c76c47400a96d6f0e1db9f8cf0bae6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/29_32014_shared/events.json",
+      "bytes": 8345,
+      "sha256": "ab0995d0d90b29a9cdabf4c2584201b57c6b30563b5f854d5a72f159656e419e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/29_32014_shared/plans.json",
+      "bytes": 1204324,
+      "sha256": "825609659d3a5f75fa4915cd6407c890bd791f8b3b4b7337fa2f7aabd04b7658"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/29_32014_shared/scene.xml",
+      "bytes": 50660,
+      "sha256": "884c825b33e301cbd02038ffb10a9eadb6525734b10375b060532e50fe5afd9b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/29_32014_shared/summary.json",
+      "bytes": 6708,
+      "sha256": "5c3b2b242bbe319c8decc85e7cf582843f270bea3a7662f5005935aa4ecfe085"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/29_32014_shared/telemetry.csv",
+      "bytes": 3854179,
+      "sha256": "4802f3142d3f6455052bd4ee2b077ab04b7de386b0847ef0995297e7d648bdc7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/29_32014_shared/telemetry_schema.json",
+      "bytes": 2999,
+      "sha256": "f93d77eb200dc4348d46196de95a5ef2ff3971878d7ad305bef4875a84edc416"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/30_31015_baseline/001_real_trials.csv",
+      "bytes": 10330716,
+      "sha256": "f28fb4d7db7db323985c710ec6a381080d8e4c49ddf5c38a17321a47943fa77d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/30_31015_baseline/002_real_trials.csv",
+      "bytes": 10239971,
+      "sha256": "9798461c99b856689f5572150a60ce24fde14035f4b422716bdaddae6f50ed03"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/30_31015_baseline/003_real_trials.csv",
+      "bytes": 10250155,
+      "sha256": "ebe0547cc287433fa9aad24bf9470f488fd32b925fd07bec25b37c089e2d8daa"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/30_31015_baseline/004_real_trials.csv",
+      "bytes": 10260399,
+      "sha256": "7023110f1c95807eb18e3a0f1fc5ffcf25710e6e4e8cf020cce46c07c7cedd7e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/30_31015_baseline/005_real_trials.csv",
+      "bytes": 5130268,
+      "sha256": "4b5205e798a9abcd650014d889cd5879c73288628456462e186336562605910d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/30_31015_baseline/events.json",
+      "bytes": 587,
+      "sha256": "5c5db841075475df0204454a5401a3c41bfa86ddd50cf1760c595d27303263ca"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/30_31015_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/30_31015_baseline/scene.xml",
+      "bytes": 43340,
+      "sha256": "5e014450622daea6d4d23bd65cf3734212ca503aec6c45564e6b02ff15edd96a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/30_31015_baseline/summary.json",
+      "bytes": 4726,
+      "sha256": "1487b52fa5e60aac0ed8edf7277564dbe0aa6ac21b3df85db08b1b2ab986eba9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/30_31015_baseline/telemetry.csv",
+      "bytes": 5828833,
+      "sha256": "263ca026fc7d79de942c53ae76c8b1db4240eafeec8553bdc2cbebf87e8cf088"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/30_31015_baseline/telemetry_schema.json",
+      "bytes": 3169,
+      "sha256": "68c156d3cd1d0f344ea786e5f2608b1c5fe8cead7ddab66471542a17a7a6ee0b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/31_32015_shared/001_real_trials.csv",
+      "bytes": 10117653,
+      "sha256": "9dff4eb55ff8a7a999dd1d3275d865d1836a23de85b0cd42fa25eb9182b33501"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/31_32015_shared/002_real_trials.csv",
+      "bytes": 10101851,
+      "sha256": "220d9cd67b219e550897741354ede4adcbcb32445623b68e9a0aaad291dfcd19"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/31_32015_shared/003_real_trials.csv",
+      "bytes": 9599459,
+      "sha256": "f2a812e11e9e6f8708d2c7f7fe3ab18240c073928c14a25ee3d158b74cda93c9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/31_32015_shared/events.json",
+      "bytes": 8542,
+      "sha256": "e7280349ae4312442150ff5097ebd4da6a83b946dec5b7028a05911c21045694"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/31_32015_shared/plans.json",
+      "bytes": 1116949,
+      "sha256": "59bd2a0bc85ac5beb7dddedf7a18bae63e9496f3cc4e723f06b013424e623cfc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/31_32015_shared/scene.xml",
+      "bytes": 43342,
+      "sha256": "d9b10f03ce57f2e92ce732685a5a2256d721e48e132c84e90ce46a763bf61956"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/31_32015_shared/summary.json",
+      "bytes": 5594,
+      "sha256": "78f22d7f18ded344c5a3cc6f53754a482d0d4d76426931b82ea8545781f02055"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/31_32015_shared/telemetry.csv",
+      "bytes": 3708471,
+      "sha256": "89bab8334673988681f25dee02c3dda12c2195ec01265fd6c1c0ad811116dc13"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/31_32015_shared/telemetry_schema.json",
+      "bytes": 2841,
+      "sha256": "2fcb86957056c075860401642565fd8a9c864be10528ad2821e7e341c20d1ce2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/32_31016_baseline/001_real_trials.csv",
+      "bytes": 10265528,
+      "sha256": "5030ff11105ec6af3b36ba011a9f9874e3f42cb2b3d7412147eb09c2688980bf"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/32_31016_baseline/002_real_trials.csv",
+      "bytes": 10254491,
+      "sha256": "b7709c57c4ace828807d734148ab3d8ed42d0b4d5ccb17f36e6c8e44df0af78d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/32_31016_baseline/003_real_trials.csv",
+      "bytes": 10259725,
+      "sha256": "8f7da013ec4bc1d578af9ae8746cef18649751d91ddb3789e878e9dc55217ce1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/32_31016_baseline/004_real_trials.csv",
+      "bytes": 10279667,
+      "sha256": "0ddbe6cf1b0b7d0c5aacc9b01c86fc7a26c1c9cffbe6071dd37c673c5d80fdf6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/32_31016_baseline/005_real_trials.csv",
+      "bytes": 5133852,
+      "sha256": "49187290d59fb6848bf65d4444df291a8120b0cdf56c22088016299b4c4ac437"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/32_31016_baseline/events.json",
+      "bytes": 584,
+      "sha256": "20825087df3208001aa593e873f70338aa6f97d947302483fbe21208a921dfc8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/32_31016_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/32_31016_baseline/scene.xml",
+      "bytes": 50684,
+      "sha256": "59fcb50a0c9fb640b8e82ec4142e89aa369583eb13a8e307903e253248a5ecfa"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/32_31016_baseline/summary.json",
+      "bytes": 5798,
+      "sha256": "087f032e5ee673e6beb41c12453d78da890a2344dafac873fb485714af6ada99"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/32_31016_baseline/telemetry.csv",
+      "bytes": 5832626,
+      "sha256": "4b48c7e77636b8816061678fe0a8df8371f36a5bb7dd131db85f2217e2b18843"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/32_31016_baseline/telemetry_schema.json",
+      "bytes": 3168,
+      "sha256": "3474aaab2b6cfc169eb41d34494819ee1de26fad68210ffa05c52b2118e4cbee"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/33_32016_shared/001_real_trials.csv",
+      "bytes": 10113201,
+      "sha256": "2c72feacaefc111de401960c3f22ad29cf2d2d31f61979bd37c9a55a62cadaab"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/33_32016_shared/002_real_trials.csv",
+      "bytes": 10133539,
+      "sha256": "082c3ee906bf287511d143743a5a50829cbe092527afe1ebd8f07e29acb92aba"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/33_32016_shared/003_real_trials.csv",
+      "bytes": 9705822,
+      "sha256": "5458d9d56d333c557752b88e66f3b6fe3b0cb73295b54f9e4e21734fed741b78"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/33_32016_shared/events.json",
+      "bytes": 8345,
+      "sha256": "d3f48fcf190c5e8f8433eb5b349153b7860ca13762091737628f196281c68075"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/33_32016_shared/plans.json",
+      "bytes": 1161608,
+      "sha256": "3660bfcfaa8b10315c23355a76bfe51ba338e0f83a3c63fe4296c53f41589d9a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/33_32016_shared/scene.xml",
+      "bytes": 50693,
+      "sha256": "301af7d3c2fac91e58be0e39f7ecdca3c5b0c8ec6d8bc0bb5c3e7eb1244bb381"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/33_32016_shared/summary.json",
+      "bytes": 6705,
+      "sha256": "6cf11c8ef1f4afd6060cfd144278f2d80f108652121902e61d27500e2b5b516b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/33_32016_shared/telemetry.csv",
+      "bytes": 3724351,
+      "sha256": "a4a1617e9127b2a3d74d3af921de8a50ad3ac4899641a83641c7827f40b35957"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/33_32016_shared/telemetry_schema.json",
+      "bytes": 2839,
+      "sha256": "99101853df6d610f01cbbc1ede902377c1d1b4fc70d98c8e7e4bcfff96d9e224"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/34_31017_baseline/001_real_trials.csv",
+      "bytes": 10254824,
+      "sha256": "a112858cb48271432d7909681ce067919df883dcf2f3ea158a55841c8d82b6ea"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/34_31017_baseline/002_real_trials.csv",
+      "bytes": 10549952,
+      "sha256": "471ba724290ba8988fbde1c8b6be6b977cdd20dc357f0f76abcecd98d2cba833"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/34_31017_baseline/003_real_trials.csv",
+      "bytes": 10596974,
+      "sha256": "f292c023b82661ad8751e06bdd16b06d79a40ecbfd1ac619c9f20a9f011c0cba"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/34_31017_baseline/004_real_trials.csv",
+      "bytes": 10616004,
+      "sha256": "9a713cc2c74333cc33a1949735fe0f8853a3c5d651b35cf023b9f2677fc975f4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/34_31017_baseline/005_real_trials.csv",
+      "bytes": 5308273,
+      "sha256": "335667843a1ebd84602abd561832149dd5e3bca86c55150524de3fe70d6a4554"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/34_31017_baseline/events.json",
+      "bytes": 590,
+      "sha256": "e8bf636a9b667d39d8a7a546bd6f211fe8ee489bac9df043d5c3446625013f0b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/34_31017_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/34_31017_baseline/scene.xml",
+      "bytes": 50693,
+      "sha256": "db154124660e9f883e3ed203e65a374bfed022d139a58fc1aecb52590e41c6d6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/34_31017_baseline/summary.json",
+      "bytes": 5839,
+      "sha256": "98d38f7c70e97c124e8ceebe844898d1477a07d1959bf5fe634a4ce34b765511"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/34_31017_baseline/telemetry.csv",
+      "bytes": 5792606,
+      "sha256": "978ac58970d4507a750c9c805502fbd4657e16173ed72986209c294adef66397"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/34_31017_baseline/telemetry_schema.json",
+      "bytes": 3169,
+      "sha256": "6a6d15cefa5260d7b58733a5848e3bc210a67643f7b3ddd4fd47ffb841dd6bbb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/35_32017_shared/001_real_trials.csv",
+      "bytes": 10112387,
+      "sha256": "b740f18dfc2394cad103e1d593923015f594b60b4a111a6e59a3ee3ab993f7b0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/35_32017_shared/002_real_trials.csv",
+      "bytes": 10126025,
+      "sha256": "c0b9d4d3089d85eeb8afe26f62fe014a080eae4aa113d30822789c7a7e95a0d1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/35_32017_shared/003_real_trials.csv",
+      "bytes": 9936850,
+      "sha256": "fb6c2f14c6429c115a5dbd1e743c2ccc3ddd400f99c3372050704f1ef8e164f1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/35_32017_shared/events.json",
+      "bytes": 8331,
+      "sha256": "313412050ab372bbfd1231508f29d86d957e1c936ba4fa63e1e55b49a2134eef"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/35_32017_shared/plans.json",
+      "bytes": 1197259,
+      "sha256": "717b1ab31ff178862a22e684ccf0f1ca82b91d156f18f4e4a8c82ef01e75768f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/35_32017_shared/scene.xml",
+      "bytes": 50681,
+      "sha256": "94454c2388556b9e84971d0b51c621990915506c228d56cda5784f722d28f6fb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/35_32017_shared/summary.json",
+      "bytes": 6701,
+      "sha256": "03205d9ec44cd655fc8209316b04b556474e135672781d5a7935e9a4805ccb8c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/35_32017_shared/telemetry.csv",
+      "bytes": 3758860,
+      "sha256": "aabec00ffdddfe3ddbb4002ef92d9e881f86de6b22d85abb9ae3ea80fd160a0b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/35_32017_shared/telemetry_schema.json",
+      "bytes": 2840,
+      "sha256": "036e161207553d8db30bb9dfeb7ec17719d4be2df23f03deb86df07dae744fa6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/36_31018_baseline/001_real_trials.csv",
+      "bytes": 10230382,
+      "sha256": "4e7b827339bfc6196f6a486f21f5bf9ff2110f0787ff7af81a6da206498e0634"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/36_31018_baseline/002_real_trials.csv",
+      "bytes": 10186588,
+      "sha256": "16ed2f2186d7cfb43edea36a0d7f4c40b3c5d0e0a9660b81b57d9ddaf95574f7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/36_31018_baseline/003_real_trials.csv",
+      "bytes": 10194578,
+      "sha256": "897e98fa4a18422cbfca80c270ddd76374d526ec9094c8bee324c60acefa185c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/36_31018_baseline/004_real_trials.csv",
+      "bytes": 10204963,
+      "sha256": "c0df8356bab09dae8a6767e7267ecb3f94d9f9172f37dd8407a40558276c7d27"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/36_31018_baseline/005_real_trials.csv",
+      "bytes": 5102299,
+      "sha256": "639618e35745cd0ebdbd8482c9d5f08e9e046f2614046467b83f10c464c2f856"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/36_31018_baseline/events.json",
+      "bytes": 588,
+      "sha256": "5cc6761a6af0fa87004034dcc55440b08e6291dbabe32b0c02cb6532ef638a77"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/36_31018_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/36_31018_baseline/scene.xml",
+      "bytes": 43344,
+      "sha256": "d764c764dae396842997ea969b070ef9e083fc0611e40406597149fd6d588049"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/36_31018_baseline/summary.json",
+      "bytes": 4647,
+      "sha256": "23e4396d06f91b67bf6676fadc94d06978432fc9b67f840b3b238e85186bf79d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/36_31018_baseline/telemetry.csv",
+      "bytes": 5581088,
+      "sha256": "ae17285decfb0476c333a585153c21491714336e4351a458074105e728ec8abc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/36_31018_baseline/telemetry_schema.json",
+      "bytes": 3170,
+      "sha256": "78283c907e92df6eb7784d23e364ae9bbfa550f0fc2c58d8cc277dba55029fa7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/37_32018_shared/001_real_trials.csv",
+      "bytes": 10103740,
+      "sha256": "af4a48c113e24e6406f7d22bc9ae18829c1e70d2a550623be64ab3d73b8c0be8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/37_32018_shared/002_real_trials.csv",
+      "bytes": 10125484,
+      "sha256": "3f3142880bbd0782bea082641353bf747b7a8613478281cd8b006e424eb4257c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/37_32018_shared/003_real_trials.csv",
+      "bytes": 10011439,
+      "sha256": "fff3bb7746a6b3fcdf4ae17d713826b81212a8b09d57cb9d51564cf1aff830de"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/37_32018_shared/004_real_trials.csv",
+      "bytes": 378126,
+      "sha256": "c51d725ebfa86018eba1f394d65a9f0fe19f64bc81ab5b3daae9177f3415a667"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/37_32018_shared/events.json",
+      "bytes": 8339,
+      "sha256": "72249d4df95ba3432d9ae56d2c6b2cbc85f7a5fc5c86b131accd5cc50677bcda"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/37_32018_shared/plans.json",
+      "bytes": 1177714,
+      "sha256": "a2835e4372e9faf38f3ac3f94a4a0be57d2c3e769bd1df654b250eecbbf61b4d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/37_32018_shared/scene.xml",
+      "bytes": 43342,
+      "sha256": "10e8aeeeffd582ca5de4bc482c24bc72683206e6cfe1a1b497bcb44f20c4a6a6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/37_32018_shared/summary.json",
+      "bytes": 5595,
+      "sha256": "e06e8acbb8bd30340354f1dabac4e6b8a9cadc2c55f998e5571d61be40f37bc1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/37_32018_shared/telemetry.csv",
+      "bytes": 3812532,
+      "sha256": "6a063b041231e52404c468e8f0a182ec1bdbb9091ecc846c5ec3d5cdedb1e3ff"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/37_32018_shared/telemetry_schema.json",
+      "bytes": 3001,
+      "sha256": "ab7ba769153c88349545284dc0830f5abba2c5baf60d38145ce22215eb0c89de"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/38_31019_baseline/001_real_trials.csv",
+      "bytes": 10229503,
+      "sha256": "a40f31999fe36ec708395f873e98076fae4061ae5a6c9743987758db696d00ac"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/38_31019_baseline/002_real_trials.csv",
+      "bytes": 10185602,
+      "sha256": "7b57c275097f329304b04e0a2944d86dfa810da83c8f3924195f9a6dec93ab6d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/38_31019_baseline/003_real_trials.csv",
+      "bytes": 10193943,
+      "sha256": "a0080554a2002e703a8a1b8d0df78020f0ab81c0bed865013ea215073c851796"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/38_31019_baseline/004_real_trials.csv",
+      "bytes": 10197082,
+      "sha256": "9c016e4d0159847af1498a361f9f75810b51d1d820f0316dbfe9a0163c12ad47"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/38_31019_baseline/005_real_trials.csv",
+      "bytes": 5100691,
+      "sha256": "71945f0dde998eede4bd2e38f9b1b3be2d7082c7c5d767e3c0a17569b4bfa355"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/38_31019_baseline/events.json",
+      "bytes": 590,
+      "sha256": "f5c8618e9281b6e30241eaf5f23b3e982e730a5f648fe878fbc70e4c3eae2bf9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/38_31019_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/38_31019_baseline/scene.xml",
+      "bytes": 50697,
+      "sha256": "a40d2be01d49d6d29cbde7d71d94e496627388f548cfb334dc09dcb50df47453"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/38_31019_baseline/summary.json",
+      "bytes": 5762,
+      "sha256": "5fb98e89130affc1387425fd9ae03bfe77e26a45c9f31c1b3740d2e1795fd265"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/38_31019_baseline/telemetry.csv",
+      "bytes": 5576255,
+      "sha256": "8817cf831f7d52ba9280957f675206754e3b049bb4eb5ceca1066f4e47129f2f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/38_31019_baseline/telemetry_schema.json",
+      "bytes": 3168,
+      "sha256": "7fa37d962d5435890a63caa46307e60f2062f7a2be5c4ad7f349f8b80629d3e5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/39_32019_shared/001_real_trials.csv",
+      "bytes": 10098290,
+      "sha256": "bee2223257fcb58d720e2d8436a06ee0ce3f8776f3328c4752ba11d4bfb72f95"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/39_32019_shared/002_real_trials.csv",
+      "bytes": 10101908,
+      "sha256": "12b9b1cb33847526d93e12fa3d906b391a5eaf3a45eb1a4743e359c6c79851db"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/39_32019_shared/003_real_trials.csv",
+      "bytes": 9237962,
+      "sha256": "5cca6714f8a0fc8b010f90e1cc53bbf75851d1816d1b60e6a6ff2e1365118096"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/39_32019_shared/events.json",
+      "bytes": 8546,
+      "sha256": "ad37461cb8a4f8236540211f103b6b41e266d5c4c3d9314c6649ea142d0702ab"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/39_32019_shared/plans.json",
+      "bytes": 1108119,
+      "sha256": "15689e029e9e86037b1c03ad090ff2b708f6648a4053bfe20f8852a34f3299a8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/39_32019_shared/scene.xml",
+      "bytes": 50686,
+      "sha256": "564d21a2ba3c73ef7ee1868381c4cdbc73516bc6cabe158a951a2312e0e59b3f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/39_32019_shared/summary.json",
+      "bytes": 6702,
+      "sha256": "2a517f0cf3f8bc03ec26cf4495253839add5aa93312320774069fdf13d8fd128"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/39_32019_shared/telemetry.csv",
+      "bytes": 3663023,
+      "sha256": "cb98753e9bce664fdffd99fdc8739b7fff4b052443cb7ab2e8a9d36ff4450f67"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/39_32019_shared/telemetry_schema.json",
+      "bytes": 2840,
+      "sha256": "5feaeaec14be2301eb2e6b41786e06641e06ca7750aee2fb049696fa77534851"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/40_31020_baseline/001_real_trials.csv",
+      "bytes": 10221999,
+      "sha256": "f794487f86c3143fea16ddcb7dac7fdd4e92ecabbc67cb616b3865a2c08452b8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/40_31020_baseline/002_real_trials.csv",
+      "bytes": 10185848,
+      "sha256": "8d0e17a7106be57d94c706f43ebf31d7fd1a2e3cab7f92a586db6a7ba93a6577"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/40_31020_baseline/003_real_trials.csv",
+      "bytes": 10196782,
+      "sha256": "865b2e70c5888d14dda3a5367c7d1f28ed55dae914146693536f7e935d4a2833"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/40_31020_baseline/004_real_trials.csv",
+      "bytes": 10208997,
+      "sha256": "d5188068b9fdff0c81fafe6f4ce5d266c159a67e90ae2e77934f5afd72034308"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/40_31020_baseline/005_real_trials.csv",
+      "bytes": 5103546,
+      "sha256": "03e913d87af45b76b57922a8fb8efb23fcc80afaa19b57d6153ed1db66cae1b5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/40_31020_baseline/events.json",
+      "bytes": 586,
+      "sha256": "b71f5aa13fa9c57beb5b6ab65c5f266af1ea678828cdbbc1e12fa1cb17312cea"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/40_31020_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/40_31020_baseline/scene.xml",
+      "bytes": 50696,
+      "sha256": "29812da950cef498a5407bd03bd2313c8f060af03f7203ad25b3b5243499f603"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/40_31020_baseline/summary.json",
+      "bytes": 5757,
+      "sha256": "250f9c7a866a8a0201354f4400f03a6271106c0ebbdfd9b854a503aa8aedbf5b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/40_31020_baseline/telemetry.csv",
+      "bytes": 5576754,
+      "sha256": "628b6d424c1c377c784b2149b3bf7f234ae867f3cca796d04e0b84a1f078ded3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/40_31020_baseline/telemetry_schema.json",
+      "bytes": 3164,
+      "sha256": "24eed77bba7d97612ce8d72baf1cb37e4831003cfdf8177577e03bccfc7b3315"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/41_32020_shared/001_real_trials.csv",
+      "bytes": 10109292,
+      "sha256": "f158cf6d6f20eac2a34c6ebd9286df9dbe5e0ac5fb37bbaffa37d9fe8b57d9e4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/41_32020_shared/002_real_trials.csv",
+      "bytes": 10092747,
+      "sha256": "0934d5d01063e768ea641b60d9dbc55aa26c6d3f0b90a1efacd23b6e471ec75a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/41_32020_shared/003_real_trials.csv",
+      "bytes": 8899690,
+      "sha256": "700715293723a4b192cfac9a9c80c22a47b10d36605800d73c0bd825dc8d03f2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/41_32020_shared/events.json",
+      "bytes": 8328,
+      "sha256": "8193a6500a3d265bfbcf31a15cefd59712839a7793bb8fa937f8ec2a3b2fe8eb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/41_32020_shared/plans.json",
+      "bytes": 1102100,
+      "sha256": "7404c547020746ae572d99c6c8c2de6c6f49f6cafa2518b784dba3d205d99d03"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/41_32020_shared/scene.xml",
+      "bytes": 50685,
+      "sha256": "d9f99bc60486a33a9ebe44675908f1448fdc16271607f3ca8fda6fe85746433f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/41_32020_shared/summary.json",
+      "bytes": 6709,
+      "sha256": "f6bd6d9ad1ed8468bd8053700937f7ae22388a960943f891ef8425b4458cb0b2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/41_32020_shared/telemetry.csv",
+      "bytes": 3625608,
+      "sha256": "b850828575325e370e474f17b15ff9895332a36e495edafb5b250b8d3274b9ce"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/41_32020_shared/telemetry_schema.json",
+      "bytes": 2842,
+      "sha256": "eb3a4819b427ee46ab7448f99bc31e348ed616e2098a2c2533fda9f20ff98f9f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/42_31021_baseline/001_real_trials.csv",
+      "bytes": 10223778,
+      "sha256": "bc915bddf92d7a5c91ce92e95725b1ad7411f3c1a607eeca32efbc129be5d667"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/42_31021_baseline/002_real_trials.csv",
+      "bytes": 10188226,
+      "sha256": "d703b1707d03105ae921c987349c2972903fba059141b5439f3c8cdfc96dd9f9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/42_31021_baseline/003_real_trials.csv",
+      "bytes": 10197576,
+      "sha256": "490a412fd9676c6603ddd4c2b5535b0238857a13df6260b4c99c0102745dfd49"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/42_31021_baseline/004_real_trials.csv",
+      "bytes": 10210879,
+      "sha256": "9ae0deda5b9c29ff88d661c7267f6652632c377f2f681d62386611af82203008"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/42_31021_baseline/005_real_trials.csv",
+      "bytes": 5101740,
+      "sha256": "1a640b2d5619472b243742d0da17d99bd7d6c80572e04e6ce53156063a30ae42"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/42_31021_baseline/events.json",
+      "bytes": 587,
+      "sha256": "7c91fdd1ab7431643099fbe981039788ea0d7dd65c993b29dcaabfbba3ccf2ce"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/42_31021_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/42_31021_baseline/scene.xml",
+      "bytes": 43345,
+      "sha256": "eb2991c7bc9ac2e4c7a5323f127c7303798f3d84ce0bbf81ba3170578b9e75dc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/42_31021_baseline/summary.json",
+      "bytes": 4638,
+      "sha256": "ea5cd45a20234b337c47cbbf7868df586faef6dc3654ab3b94696a7798b94e89"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/42_31021_baseline/telemetry.csv",
+      "bytes": 5583990,
+      "sha256": "875d274057348ac59dd941d4f7c141eeb597ecaf6221d16fac9f922e5d395523"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/42_31021_baseline/telemetry_schema.json",
+      "bytes": 3164,
+      "sha256": "d44ced1cbca21ca7e8f6554c69547103c00b67f2fd43ceb1fa9debe8f5599627"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/43_32021_shared/001_real_trials.csv",
+      "bytes": 10106849,
+      "sha256": "d0877e8c54e5245dd4c54ae80c4be713261bc14e104bc355c8357049a06793d3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/43_32021_shared/002_real_trials.csv",
+      "bytes": 10131521,
+      "sha256": "e6697bab84c3705a6220ee901d2578891545c3e4b5f10d88836a70402e636de4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/43_32021_shared/003_real_trials.csv",
+      "bytes": 10016694,
+      "sha256": "b42e1df3998922060ae468183fafd90cb820696fb3625f842daedff369d16020"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/43_32021_shared/004_real_trials.csv",
+      "bytes": 103036,
+      "sha256": "fce7e3cf2ad8e981e55481a574b7ac4293014b6f1b5fb9eb4a97a4f0ef73af57"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/43_32021_shared/events.json",
+      "bytes": 8340,
+      "sha256": "7907c30d87e022ac6b54cfb770518380e32db45c3742cad1f603a41e3ddb8c55"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/43_32021_shared/plans.json",
+      "bytes": 1160719,
+      "sha256": "3bc1848493a12ee34c6e5283dee8faa2973a880b118bea9b4a484b8a4a096238"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/43_32021_shared/scene.xml",
+      "bytes": 43344,
+      "sha256": "4546d45c25c4c6607acccab20e684a75732862c80b095849465c5d3a1640bfa9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/43_32021_shared/summary.json",
+      "bytes": 5596,
+      "sha256": "06c8fe49b4d06116e9a2ef35137359b8fc3e507a5cd1e5b1d8ad7725219d9718"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/43_32021_shared/telemetry.csv",
+      "bytes": 3780117,
+      "sha256": "259ac0e5e0ff75106a8c2046c7d5b8f9ee3b66ce40793143a2485e7a5493917e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/43_32021_shared/telemetry_schema.json",
+      "bytes": 3001,
+      "sha256": "f2cb220b85933cbad08370c12392bf2d868fb57e40fad14ec2417927b3ffc304"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/44_31022_baseline/001_real_trials.csv",
+      "bytes": 10230172,
+      "sha256": "a5c4abff7ab2306c7eaa8cf571885180105b69014338386c7ae3be404f11db12"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/44_31022_baseline/002_real_trials.csv",
+      "bytes": 10278601,
+      "sha256": "ca39fc703256eade73e78a84c4392730f75ea63ff2d82eadc8e6f4a6a4ca4922"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/44_31022_baseline/003_real_trials.csv",
+      "bytes": 10302787,
+      "sha256": "54c039aa483d42c0665c44750b240b878ad3d309698663ddd338822596b9196f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/44_31022_baseline/004_real_trials.csv",
+      "bytes": 10280941,
+      "sha256": "3c96cffc1365acc541e51b8f0e8a1d552f14adb50b00c7a983c82e31c5db1c15"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/44_31022_baseline/005_real_trials.csv",
+      "bytes": 5140153,
+      "sha256": "d695e8a343892f1b8e0ff8f5c44cb01a0cf23de47730eba359147257242c7ef5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/44_31022_baseline/events.json",
+      "bytes": 585,
+      "sha256": "3f77fd4d618197c2a295698c984eda2698bb0f26cc6b51b0ec3abacdaa7a01eb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/44_31022_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/44_31022_baseline/scene.xml",
+      "bytes": 50681,
+      "sha256": "13d6c150d9f0dcf124ab58184854ba27ec7dfc8603f0a577a920f4959d544eb0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/44_31022_baseline/summary.json",
+      "bytes": 5838,
+      "sha256": "ffb5862294537f6606e83a1ff8904bf4bcaaae72f6ec4d158dca985bf9cdeb74"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/44_31022_baseline/telemetry.csv",
+      "bytes": 5757558,
+      "sha256": "c032c50042ac8778942f153b9aa745c0c84fb9bed528750349ec0ed026946661"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/44_31022_baseline/telemetry_schema.json",
+      "bytes": 3164,
+      "sha256": "55b407ff0754251a96526867dd4346d2926f34896aeffe63b0765508c6d40aae"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/45_32022_shared/001_real_trials.csv",
+      "bytes": 10120083,
+      "sha256": "42ecf7071337847ae35bd1a772bc75c176e58d66a42ca7d2d1157e7fac1e39a9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/45_32022_shared/002_real_trials.csv",
+      "bytes": 10118514,
+      "sha256": "a06a7f7cdcc371fda83b2ab35f4cda66ec95ec404130df68a1364a5f6cae5695"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/45_32022_shared/003_real_trials.csv",
+      "bytes": 9676072,
+      "sha256": "a55027a66d7086bb0190f6fd0d234a08877767653dbac7587bad3b309815395f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/45_32022_shared/events.json",
+      "bytes": 8320,
+      "sha256": "f1db5780689571f5e477e8c1949b57956e8f2c3f2e8a464ac0dc5b928d3fa51c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/45_32022_shared/plans.json",
+      "bytes": 1130695,
+      "sha256": "445a3ea08cd5285633865936925b0bf2acd1103082b6dbc79ec357c5d79cf2f4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/45_32022_shared/scene.xml",
+      "bytes": 50698,
+      "sha256": "94b143281ad5a97472d995507d4c55b0326a1acaee7fd84f8cee375d76115546"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/45_32022_shared/summary.json",
+      "bytes": 6706,
+      "sha256": "c76b8129b8b4963af18ef9675c55203d0df354ec05bec697bcb8eeeae47994e3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/45_32022_shared/telemetry.csv",
+      "bytes": 3724467,
+      "sha256": "0ff5d8d58c6303ed080e2f6b71f26601151ac571765d6a1504eefffb8b252f37"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/45_32022_shared/telemetry_schema.json",
+      "bytes": 2840,
+      "sha256": "705ec8ca8f17f6571beb5cb2157bece50b000f4b489a638546cffb549cbe2e89"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/46_31023_baseline/001_real_trials.csv",
+      "bytes": 10229005,
+      "sha256": "d49bb43aca53de4c269fa62b6e68e5ca78d9f3bc6bbb34325ed233aa7143d1b1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/46_31023_baseline/002_real_trials.csv",
+      "bytes": 10183486,
+      "sha256": "b302a95dd420bb99d9e19b804bdff80061382f9a3ded60bf22a624a1cbdd3717"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/46_31023_baseline/003_real_trials.csv",
+      "bytes": 10197148,
+      "sha256": "7ab6793c50f2d2c02990550e67e999018b6b3d5380226aa736159dbbd39ad1e2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/46_31023_baseline/004_real_trials.csv",
+      "bytes": 10218730,
+      "sha256": "4d15993289c2f75e9a95363718e82b62225dc99b5e4a531a5dffeb8fe4e66f4f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/46_31023_baseline/005_real_trials.csv",
+      "bytes": 5101199,
+      "sha256": "b5c9ff099f64490bb3bde214b1ccb9a37355b54ccc1cf67e98bd111bf2f035e4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/46_31023_baseline/events.json",
+      "bytes": 586,
+      "sha256": "56bf193d4e4255aba906e37f4626845546ac5f0ad8b4b5980bfc6b1fce9f28e7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/46_31023_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/46_31023_baseline/scene.xml",
+      "bytes": 50689,
+      "sha256": "7b0e73ffef7677cc44b7c60498972a766ccb63318e4bb3debc6af73be3435674"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/46_31023_baseline/summary.json",
+      "bytes": 5835,
+      "sha256": "d3021f8cb451f9eb054ce69351e86a18fbe466835ae8f72deadfdad0dbd992c4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/46_31023_baseline/telemetry.csv",
+      "bytes": 5586890,
+      "sha256": "431dbace0da657a09c412d45792dae8052f8e3da271578bcfa5ac9e707481eed"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/46_31023_baseline/telemetry_schema.json",
+      "bytes": 3171,
+      "sha256": "0ebeebd4aa66cdeabf4db8aa576233fdb78d2fca98c74ac0da0b8bc631de3457"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/47_32023_shared/001_real_trials.csv",
+      "bytes": 10120921,
+      "sha256": "c04d0cec2e45e3e929112d40eab752ec4fdd84787845285ad0f7ff9743513e1d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/47_32023_shared/002_real_trials.csv",
+      "bytes": 10129504,
+      "sha256": "828d35c8a64b8b04f30da2b409643886ff7d8760dcbdea624b4149f44e0d2ca8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/47_32023_shared/003_real_trials.csv",
+      "bytes": 9993931,
+      "sha256": "7ed974afeb254ba9103f564f99f9a160d2453d61ed7c0e40015de0fb8768d5f0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/47_32023_shared/004_real_trials.csv",
+      "bytes": 757980,
+      "sha256": "0738800a74d1f1d8972a2b0b480bf852334150720d7552a368802debfe37145c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/47_32023_shared/events.json",
+      "bytes": 8542,
+      "sha256": "753a031a21f08c35848a4f960c5497b4b9467a4c2e9f41747b335152c2179c65"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/47_32023_shared/plans.json",
+      "bytes": 1214190,
+      "sha256": "643b152f937180d69b9cbedb1702e94f3044b96c7bdd920d67f4cb0510e64ba6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/47_32023_shared/scene.xml",
+      "bytes": 50650,
+      "sha256": "9d93b2613077e2a63296d5412b323ad755badd8bc210ea824388fd22d246dcee"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/47_32023_shared/summary.json",
+      "bytes": 6701,
+      "sha256": "e3f88742629f687f7c290ec691dfefdf7dac366eb80f6aa7ccdad7a05e083f12"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/47_32023_shared/telemetry.csv",
+      "bytes": 3863412,
+      "sha256": "9f8fc0d554ef61dbc6df6df10eec19e6bcecd9def5997ce7d3e41ae10b93c61e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/47_32023_shared/telemetry_schema.json",
+      "bytes": 2998,
+      "sha256": "390830398c9cd5473359dd5c86a3857874fed6f175c57f252592931b2d37fd0d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/48_31024_baseline/001_real_trials.csv",
+      "bytes": 10226130,
+      "sha256": "57f5f7516872e586c0e91140b98499b2bde3d4f95fc5902c9b41fb1b93b19e33"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/48_31024_baseline/002_real_trials.csv",
+      "bytes": 10188673,
+      "sha256": "a7cdd45291c3b11125fc70221d9c818fac06c8d5e21d9eeb8aee764cad6bdc19"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/48_31024_baseline/003_real_trials.csv",
+      "bytes": 10196568,
+      "sha256": "a637f9153e2906ec3c6505d2ff1cfaa06b41b083ce270677a2439f78827032f6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/48_31024_baseline/004_real_trials.csv",
+      "bytes": 10209217,
+      "sha256": "732a2d6fa49822a2c52d51b26bdfbf3c221f423573dc480f3596267d0fa4220d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/48_31024_baseline/005_real_trials.csv",
+      "bytes": 5102533,
+      "sha256": "5d0ca150ba6ed4fc1358940b3a083713b05fa679275234025461f6ebd3e73557"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/48_31024_baseline/events.json",
+      "bytes": 584,
+      "sha256": "7698d448668d2c9aa71e0a37b656baadd73c1f796c9b8edaa83a77b48829e9de"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/48_31024_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/48_31024_baseline/scene.xml",
+      "bytes": 43351,
+      "sha256": "9fd94778d17d34819a513413c9abf02fab0cf3dd97dbde64f2576f2bbdfa9ce0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/48_31024_baseline/summary.json",
+      "bytes": 4644,
+      "sha256": "e415732211fc26b6175c40672f86054ea9a96f04a3f6c88ce930a15c4081e253"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/48_31024_baseline/telemetry.csv",
+      "bytes": 5580807,
+      "sha256": "37266824b5b49573efff67fea36b0d66805746e186c527c1b1d8983b54227d5c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/48_31024_baseline/telemetry_schema.json",
+      "bytes": 3165,
+      "sha256": "1218d803414b1d2cc6c9f6853ce4f7c0b7802179ba2780535d1ab18ea25c7906"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/49_32024_shared/001_real_trials.csv",
+      "bytes": 10097779,
+      "sha256": "8385dd96d795aba7bf75acff82ac78f17c6cb397812607e551ea904dd03974c8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/49_32024_shared/002_real_trials.csv",
+      "bytes": 10126867,
+      "sha256": "33434e153f03181a9b86880bcaea812802ae1a90e56bd8c8ecb0e2dddde6a5bf"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/49_32024_shared/003_real_trials.csv",
+      "bytes": 10005283,
+      "sha256": "5f49d3b5a66ecde3b5ec6a6a1f0df2e6a8ff6cd7b8e9afe62b06e91c3ab01a6c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/49_32024_shared/004_real_trials.csv",
+      "bytes": 325413,
+      "sha256": "642a32035005fe8d0d934c711bce379c8cebed44df677e5f8f93da6f5dc213ef"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/49_32024_shared/events.json",
+      "bytes": 8338,
+      "sha256": "17104193c79d7ef23e89d7e013b7615f45ce724d561021ce674af15dcfc96b26"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/49_32024_shared/plans.json",
+      "bytes": 1174744,
+      "sha256": "434e0432bd8de4798cda713aa02ec3f581c116e12c632756cf380c48ebae47d9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/49_32024_shared/scene.xml",
+      "bytes": 43337,
+      "sha256": "c2b60005b6d413f4fe10acff64d4957662d76357a6959e6c71adb956609830af"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/49_32024_shared/summary.json",
+      "bytes": 5593,
+      "sha256": "10c542d2a5c0d5d288ec232347a9ed69c9fb2df220e4a807d281c1089cd36b68"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/49_32024_shared/telemetry.csv",
+      "bytes": 3801265,
+      "sha256": "b65839a029d32fa274f52815584f44790e9fd99b59f06b192386b4d16a438a62"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/49_32024_shared/telemetry_schema.json",
+      "bytes": 3001,
+      "sha256": "db2f8aa34526545271c74c3c82064507cbb6017b8bb9892d377930ea180337ce"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/50_31025_baseline/001_real_trials.csv",
+      "bytes": 10226655,
+      "sha256": "42e4b85872dbc7e1f6e89e4cd9f44c43cfb56b0d91cd738216875a2ce315887e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/50_31025_baseline/002_real_trials.csv",
+      "bytes": 10186700,
+      "sha256": "a0847e40dbe6503cec4a94158cf4a8acbde7c4b52edc78d2f3109cd235c4c6e8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/50_31025_baseline/003_real_trials.csv",
+      "bytes": 10197726,
+      "sha256": "d0b93157b524bfea23126e142e0431fa2c760507097572896897aaf6fafb084b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/50_31025_baseline/004_real_trials.csv",
+      "bytes": 10221449,
+      "sha256": "bf6732cf3ca5ec12c3497c98d2ef219826c436ee2ee63dc6e63c04002049e275"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/50_31025_baseline/005_real_trials.csv",
+      "bytes": 5125020,
+      "sha256": "60593d879a4430ce7e67e7120772753c0473cb9497461c5a5357623beb876d79"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/50_31025_baseline/events.json",
+      "bytes": 585,
+      "sha256": "f1377fe1e4ee96d29a1295caa8bc7120b40c96c648fb6ce97f7733ae5f6dcc91"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/50_31025_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/50_31025_baseline/scene.xml",
+      "bytes": 50704,
+      "sha256": "309fbbebbb4ec9b1ed1373b71ea7739bf2801feaf45799a161cffd12d4e1f918"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/50_31025_baseline/summary.json",
+      "bytes": 5837,
+      "sha256": "09bec1b91a7fc8cfb80d7ea59c150510878377cb50c90b543b79d6e05249123f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/50_31025_baseline/telemetry.csv",
+      "bytes": 5611815,
+      "sha256": "7ea032c368ad53948e5dabbbda188203b28122ff5aee68ef752bac1d8b9dd016"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/50_31025_baseline/telemetry_schema.json",
+      "bytes": 3169,
+      "sha256": "fd48f70b5bbe79ca04a74cad7045b7df7d4ad84c19040b40dffedb52cf98d5b1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/51_32025_shared/001_real_trials.csv",
+      "bytes": 10121106,
+      "sha256": "01ad8032a8ecc3bc1faff8bc7d16c14404faeb733607cc76287d17b71ded39da"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/51_32025_shared/002_real_trials.csv",
+      "bytes": 10122836,
+      "sha256": "9ae1e279bd2dfba9731e22970859702f0e2e9011860bc6b02f6ac5e6955c65bc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/51_32025_shared/003_real_trials.csv",
+      "bytes": 10019122,
+      "sha256": "382a44d7c0452299a0fb7e9ea98390ac46335385707dba851f16930f094582e6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/51_32025_shared/004_real_trials.csv",
+      "bytes": 418084,
+      "sha256": "07df4dbba039f4d858d5583c3d6d5e4fd946a4f6cb8325170d2acc98bb8a160d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/51_32025_shared/events.json",
+      "bytes": 8543,
+      "sha256": "06bc884b34596a06f2c922d3a7f1e564c41ca98778adbef1ecce067d2f58e510"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/51_32025_shared/plans.json",
+      "bytes": 1172222,
+      "sha256": "df37d59bde997423bf381528571e922d973c854356790ff0ad7846f6b1bc7079"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/51_32025_shared/scene.xml",
+      "bytes": 50691,
+      "sha256": "211494058c023472fb92c74eb1b4b8c11ab923bd9f608f0252a2bcf11a5cf2b4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/51_32025_shared/summary.json",
+      "bytes": 6705,
+      "sha256": "729255cf87c7cbd8dc9b711141b2c09463539682f3aeac4f8592b50c00181699"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/51_32025_shared/telemetry.csv",
+      "bytes": 3815728,
+      "sha256": "845b75bee96b56f88e9e962c7c12d106d1bde398879d211adb0fc82e706fb5bb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/51_32025_shared/telemetry_schema.json",
+      "bytes": 3001,
+      "sha256": "fd98cfadf1ca1f78ccd5add71f408c644e7bd49f75652065105b3b21ee5959ef"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/52_31026_baseline/001_real_trials.csv",
+      "bytes": 10227933,
+      "sha256": "be0a1af1cec5ad4b86e1e431cfcb84e74104941cf0a26d554a0f79fe348a530b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/52_31026_baseline/002_real_trials.csv",
+      "bytes": 10189848,
+      "sha256": "2b186daf82a612220712febe3f8fe3441eadd83edcdb7cf4b88dbb65470cf4a7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/52_31026_baseline/003_real_trials.csv",
+      "bytes": 10201099,
+      "sha256": "bd5ebba35089fe37ab5c6e240f2f7a443f3edd3ba2f79e07de2607a39b3e7c02"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/52_31026_baseline/004_real_trials.csv",
+      "bytes": 10204962,
+      "sha256": "8c5f3edabec0fe4730247faf2726f32cfd96f9b648cc9f619c047e41e1d6c14d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/52_31026_baseline/005_real_trials.csv",
+      "bytes": 5105421,
+      "sha256": "445d76cdfc23d84386addc0302616da8b58c02f9ee6e448fbf2dc5fad90e8752"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/52_31026_baseline/events.json",
+      "bytes": 586,
+      "sha256": "6a8c94a1e0d33fcac947326f286246371c2ada4c7a3bda015c7ffc9d076e02d3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/52_31026_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/52_31026_baseline/scene.xml",
+      "bytes": 50677,
+      "sha256": "123fcfa17c9591f83964c7ce5eefb41358062d3de4d8e59d5f57b227d6fbbce0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/52_31026_baseline/summary.json",
+      "bytes": 5762,
+      "sha256": "3740849e68a5f30f1acf57f75b4469078a3db9bbe7abb6fbd1391fd2dc29d72d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/52_31026_baseline/telemetry.csv",
+      "bytes": 5584658,
+      "sha256": "cb43ac73136d61aed564e97340b031050563435517bb733eb133d81613ead205"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/52_31026_baseline/telemetry_schema.json",
+      "bytes": 3169,
+      "sha256": "dc98b5c2d18aed6373b4c8a5ceef14da3a191c57b0d2758d74efce266ed7f17b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/53_32026_shared/001_real_trials.csv",
+      "bytes": 10091765,
+      "sha256": "0db76f21f6a1bf52f50cecfa4e5e2a8c9a673aa4eb0a62f79a053e398544e6c4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/53_32026_shared/002_real_trials.csv",
+      "bytes": 10126662,
+      "sha256": "9f7c5c34f32ef8871ae5f720cb612a2dac2d05948ecfc7302d8a22fe2dc8f895"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/53_32026_shared/003_real_trials.csv",
+      "bytes": 10006266,
+      "sha256": "105bdd6845a9f76ec5233ab42ba7b5a385c7ae7ae9ee06fec8323e126a3302e6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/53_32026_shared/004_real_trials.csv",
+      "bytes": 1217326,
+      "sha256": "6be6ae109d17910fa5d4620ee1b879fcb2d31125222d84704e9435b6481c630c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/53_32026_shared/events.json",
+      "bytes": 8342,
+      "sha256": "54dcc2c6ad7c30c6a05eee3f69841dcfa3ac3a9274e8a6c1cc874cd806db40c2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/53_32026_shared/plans.json",
+      "bytes": 1218095,
+      "sha256": "a73413bbb677f0ef5af43a9176e65c36849e4ca0616134b1b9060d5227d923bd"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/53_32026_shared/scene.xml",
+      "bytes": 50669,
+      "sha256": "cbeb7787c8164b2e54a8686ed11f6b12512ac28384bd76214c68e95d45ecf469"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/53_32026_shared/summary.json",
+      "bytes": 6703,
+      "sha256": "da62074f97bcf07c2e8544d353781bd255b944c37c5bb89aef9fb5e7d90d3701"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/53_32026_shared/telemetry.csv",
+      "bytes": 3909934,
+      "sha256": "90c76c619dd3090d01a1cbf891cdee46095e2605ce4f5854c6c549b95182df05"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/53_32026_shared/telemetry_schema.json",
+      "bytes": 2999,
+      "sha256": "82ccb819ce8f0b15bb651fdbebf7035bbba095aff1b808e3bac550b2e26eb4be"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/54_31027_baseline/001_real_trials.csv",
+      "bytes": 10229720,
+      "sha256": "f8793937e384ee0b550fc0f573b3f506ce440d9397d937809b3a397995e8ff34"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/54_31027_baseline/002_real_trials.csv",
+      "bytes": 10183956,
+      "sha256": "4235af5fb37e1b59b4a3327dacbbf5aab4825227e9390d4c8865fbb315055864"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/54_31027_baseline/003_real_trials.csv",
+      "bytes": 10213803,
+      "sha256": "2c96b70dffde01fc6fb9c079e895873865ccc7a33932460ef6dc26fb1bebabfa"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/54_31027_baseline/004_real_trials.csv",
+      "bytes": 10205147,
+      "sha256": "9ca1d2ee8f4c14be2905263855e925e4d25c1c9a2f02274828071a0a05d7239d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/54_31027_baseline/005_real_trials.csv",
+      "bytes": 5106799,
+      "sha256": "10987121030b6ee4a1c49f2fcf5ff067895dc90c2b53b6c775c020545587931b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/54_31027_baseline/events.json",
+      "bytes": 585,
+      "sha256": "e30f9994522620226ea33cbf8bf621ae8f61214d045b2793e2aae478be56a85d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/54_31027_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/54_31027_baseline/scene.xml",
+      "bytes": 43349,
+      "sha256": "95ab973d045ff1eafd44f58504493c055e553ecb517a0c4ff17a0bf404783d0a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/54_31027_baseline/summary.json",
+      "bytes": 4646,
+      "sha256": "292e918cb4f0c0f4eb64d24b56f66840d4573ea01752c682317bc3e0507d1517"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/54_31027_baseline/telemetry.csv",
+      "bytes": 5576599,
+      "sha256": "ea52a3f40c61a14456d5ba22a935555601f83304a3dcf305ccd1df767259c25e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/54_31027_baseline/telemetry_schema.json",
+      "bytes": 3170,
+      "sha256": "9d98ec4452553e4eb1ae96a7d99c70c19f44b05a0981aeb7453582eff2d040cd"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/55_32027_shared/001_real_trials.csv",
+      "bytes": 10107715,
+      "sha256": "4890c71cc387df32dc6157194341a319b5033eb89ebfc1a16f3f822cd6cb9685"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/55_32027_shared/002_real_trials.csv",
+      "bytes": 10135482,
+      "sha256": "270067cce643e90aab8ba01409762a35e1974478bff5fa8410e71e9e5768cb18"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/55_32027_shared/003_real_trials.csv",
+      "bytes": 9969493,
+      "sha256": "8efddef7574b0a28bccb7aae8248196d6d3f9f9e589789b5da009de202277c6c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/55_32027_shared/events.json",
+      "bytes": 8354,
+      "sha256": "7dcf34a85cb375ff5696407d92b25c1f65f777bd5b972dd44d7db58072f96596"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/55_32027_shared/plans.json",
+      "bytes": 1152183,
+      "sha256": "8f1e6bb5d0b6f0a6c382111e032aafc8a046dade2b0d4a97180bdf90859b69ad"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/55_32027_shared/scene.xml",
+      "bytes": 43342,
+      "sha256": "0d048774965d087bed04275f9d75fcde4eefda779a31722adb4de9f1f538ce33"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/55_32027_shared/summary.json",
+      "bytes": 5591,
+      "sha256": "f12bc5a97f3b8a2acf9c77cc33471cdf55d26e67710e2b4206e5e552c1cba2b8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/55_32027_shared/telemetry.csv",
+      "bytes": 3760180,
+      "sha256": "42aaefb794aef3eaf390c3d26d65b9a978e7ef5d4451dfc93b8eb2309945c1d8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/55_32027_shared/telemetry_schema.json",
+      "bytes": 2835,
+      "sha256": "f836e21041e9f95a3e99315de8359325841e1a3aff9a13e5853d19b7b6943d69"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/56_31028_baseline/001_real_trials.csv",
+      "bytes": 10219944,
+      "sha256": "dde08047f450333b57f89d7910d3e55b596c29233dcee18f51974d4ccd6e697d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/56_31028_baseline/002_real_trials.csv",
+      "bytes": 10182407,
+      "sha256": "65caa0431b986e0490d8ee861daf9bb43247d2afface5a27e680eb6fabaa56a8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/56_31028_baseline/003_real_trials.csv",
+      "bytes": 10198684,
+      "sha256": "b8952687c8ac243ab3ab0b6099e68b61cbd01327c6a7e17c8e1e13073389e9e1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/56_31028_baseline/004_real_trials.csv",
+      "bytes": 10203416,
+      "sha256": "7ffa592a3d7ae72e5d7778b4a41ac6667c8a0aa5eb818a65b0390d2ca782f405"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/56_31028_baseline/005_real_trials.csv",
+      "bytes": 5104784,
+      "sha256": "3ab7162cb8a92bb91afbb2e9b290c4b0062facb27c2afddc89b2680548c16b7b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/56_31028_baseline/events.json",
+      "bytes": 585,
+      "sha256": "6674b7eb7315e9c7e496f65ba2f4f3f43f6fd95eb4f4c7dd5a369c0c547a284d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/56_31028_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/56_31028_baseline/scene.xml",
+      "bytes": 50671,
+      "sha256": "b4cd606b3dac69ad956fa65f29185455d1a1a226546be082d82c350ef8eec648"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/56_31028_baseline/summary.json",
+      "bytes": 5758,
+      "sha256": "5331b729711f273c98d34604f30c9547c3d001d6b7fdfdb27e24e40e417bc34d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/56_31028_baseline/telemetry.csv",
+      "bytes": 5575020,
+      "sha256": "f23a18ae74c13be89cbdc2320445f821bebfbbb88d9327afba42ddfeeaae5504"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/56_31028_baseline/telemetry_schema.json",
+      "bytes": 3169,
+      "sha256": "f603f22edaea29c3e3df9db24029502e3976f1ca97c1622148f9a2ee1bbda061"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/57_32028_shared/001_real_trials.csv",
+      "bytes": 10108073,
+      "sha256": "9dc0e5e3b1b17001611e1e5d9fec445a87dfbac08ad30922a7277919e43e83cb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/57_32028_shared/002_real_trials.csv",
+      "bytes": 10130030,
+      "sha256": "b412a85a70341e619318aeef6937376eaa0c9552ebe53e745fb9990547ce2ec7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/57_32028_shared/003_real_trials.csv",
+      "bytes": 9887404,
+      "sha256": "92f42303d65cc9ec42120a8f0031fe8d71d53eff26cfd45d33bbc2d5557769c2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/57_32028_shared/events.json",
+      "bytes": 8553,
+      "sha256": "4949815cbbaccbeb5adbaef0a5329dee79661943fbcaaa4535e0ed049b3aa4ed"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/57_32028_shared/plans.json",
+      "bytes": 1159154,
+      "sha256": "7a3187f3838bc6dcf5b09ef04ec6d632f160ed9b606dd48abfeec418ccb75263"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/57_32028_shared/scene.xml",
+      "bytes": 50697,
+      "sha256": "fa5a898926b4ae55e18be84611da32f80f17dff0bd97689e5452e3d38c74a9d6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/57_32028_shared/summary.json",
+      "bytes": 6704,
+      "sha256": "eaa1aae48c1e211f168dd1d9012713bb1c30ef426a4f1bbeddd625bde1534425"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/57_32028_shared/telemetry.csv",
+      "bytes": 3748727,
+      "sha256": "d1a9a8072f3dd0f33598f22d782a1a038a47abb4c82f454f515b655d7a282bb2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/57_32028_shared/telemetry_schema.json",
+      "bytes": 2837,
+      "sha256": "722c7bcaf4c67ddecef0c251b2d748ba35ef2be7d96b7e657623b62ec737fc2e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/58_31029_baseline/001_real_trials.csv",
+      "bytes": 10234237,
+      "sha256": "7f4cc6b0d94965c143cb874dd6d0bcfd17806457f4e2481213ce9bf7eefeebc3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/58_31029_baseline/002_real_trials.csv",
+      "bytes": 10192172,
+      "sha256": "8015fd989497963d9c2cb7c41ba6d1dc5a337324aaf9b3071b0a14dd336cbca8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/58_31029_baseline/003_real_trials.csv",
+      "bytes": 10193897,
+      "sha256": "c9dcfd3d8915bcdfd6d283c4eddf342697e4e836a5ff4170271cb27f181e846d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/58_31029_baseline/004_real_trials.csv",
+      "bytes": 10206571,
+      "sha256": "f9be4b55223da0a322f1982d897843bdc1d432344ac529c67752e01b15277c5d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/58_31029_baseline/005_real_trials.csv",
+      "bytes": 5104364,
+      "sha256": "59b4962c70c55f2da23975d57de25fb1681cbf6e2c5f74cf05b95d855485a3e7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/58_31029_baseline/events.json",
+      "bytes": 585,
+      "sha256": "c34a589f60448b148cd616f9c8444d0354f0725fe47df6f2fc9a8927efaedf63"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/58_31029_baseline/plans.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/58_31029_baseline/scene.xml",
+      "bytes": 50698,
+      "sha256": "f0662a3c5daf1ec94b7c6b423519b929113f64605b8594f26d7bb6001cc254a0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/58_31029_baseline/summary.json",
+      "bytes": 5794,
+      "sha256": "376ed401b2b0852b42dfe36627e3aca84e32a228e856433ac041acb60e90d244"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/58_31029_baseline/telemetry.csv",
+      "bytes": 5579152,
+      "sha256": "bdc1ba35566fb1d90dbaa52f77be6b78cb00379c393b425c327e10969b34c5cb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/58_31029_baseline/telemetry_schema.json",
+      "bytes": 3165,
+      "sha256": "51279a18810345bec7e18360348507ecaf4eb96128041cb60f435d13e7c30387"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/59_32029_shared/001_real_trials.csv",
+      "bytes": 10102324,
+      "sha256": "0a8d762f031e661cf02524b09797436a2c14eba5bdfb73c0cdf7d64232d993cd"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/59_32029_shared/002_real_trials.csv",
+      "bytes": 10135759,
+      "sha256": "c8aa5e6e07cf70c9cdd19ddf309611570ea3604f5590ba88fe370c0adffba77a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/59_32029_shared/003_real_trials.csv",
+      "bytes": 10017147,
+      "sha256": "28c90cfb3c90176230a511cc678dc00fd33f03a00839c8bdcb754e44689ce05f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/59_32029_shared/004_real_trials.csv",
+      "bytes": 217111,
+      "sha256": "c57e78932ecee21c2048cfc94cb42740276a85be21a362cc4e1046953224c45d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/59_32029_shared/events.json",
+      "bytes": 8332,
+      "sha256": "eca6b4721322a94b2cf63c550fd90c550b9702252140b2426d32feb018cf4a84"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/59_32029_shared/plans.json",
+      "bytes": 1166542,
+      "sha256": "9ebac06c9d0ab77159bee7bd73d66986fcbede971b7982f289ce0757149bd867"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/59_32029_shared/scene.xml",
+      "bytes": 50692,
+      "sha256": "8d552903e671f72222432a6fecf2db8badc201fa112a93191e81b26d762e7abb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/59_32029_shared/summary.json",
+      "bytes": 6707,
+      "sha256": "db0e82f64bee26719b56a4bd1f3f46523d23c4b1398aeed1760c98e42e80370c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/59_32029_shared/telemetry.csv",
+      "bytes": 3791141,
+      "sha256": "a57fe11b894f23f404f14ab2e8f91cdb647839f94d704b8a7ccf9b61c83b567f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/59_32029_shared/telemetry_schema.json",
+      "bytes": 2997,
+      "sha256": "c2eaaae3ef66dfb55b7d9dd16c32eeac696af97f484c8b8eb919c9ecd2f2b52e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/capstone_real_trials.csv",
+      "bytes": 57724,
+      "sha256": "76dac78115ae9adeb704ef3db52b076e5eeebee6f20172ce5a7bdb14e0033532"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/design.json",
+      "bytes": 19418,
+      "sha256": "84e6620cff73d754e08deeeddce1a1f871521708b53f8c3305fddd9b4dce79ba"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/failure_cases.csv",
+      "bytes": 29532,
+      "sha256": "eb92c025654e72ceeee4a5dd0e95d968a9a2b81372a291e16dee25d4eae42f32"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/generate_m20_telemetry_plots.py",
+      "bytes": 233,
+      "sha256": "afe22c7fec569e1fb1d4ef829fc47fedc502a1140756c66b8023641af335fbc8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/hybrid_control.py",
+      "bytes": 10441,
+      "sha256": "619d03627dd4c49c5bb576b3e6d1cd72a837951b8e1095fca0f47bce4a3d30f8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/legged_control.py",
+      "bytes": 8237,
+      "sha256": "b2c36463d3292c55269cb3dfeb055764378308121b53a5f229b52e904c326301"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/M20.xml",
+      "bytes": 18563,
+      "sha256": "25a3a09677d961524b25dc9afa113e260e1d98a3f496ae26a8fc0c7c76ab5413"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/m20_path_planner.py",
+      "bytes": 100,
+      "sha256": "7ecc4ed0d837f6cea7cc3efa631a546b1b6cde75106b6c3896ac5c47c9552aa8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/m20_rosbot_mapping.py",
+      "bytes": 10252,
+      "sha256": "6170c3c2abf2fcb5664466faaa78f0afd8fee1c2639fc60bf878fb962c3e1678"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/recon_controller.py",
+      "bytes": 8875,
+      "sha256": "812054e7a1d23bbc833985a77ff2a52f30259c272cad882c9314db94a32d6828"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/replay.py",
+      "bytes": 5871,
+      "sha256": "1de0a4685de469f2d7a4b6d8afaa1d536c661702886844b46f1725a621f28521"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/run_m20_autonomous_nav.py",
+      "bytes": 151,
+      "sha256": "9d69a104aa326ffa4156639603080377804eab4e3ff13d20e89a5eb2d7f007b0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/run_m20_movement_demo.py",
+      "bytes": 148,
+      "sha256": "f01c0e4a4a7bf73b59a80c7afed09b1b69ed5bdc366bff6faaa1f01c9900a350"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/run_m20_obstacle_climb.py",
+      "bytes": 149,
+      "sha256": "baff1282f039d596099459da3ac0a1f3b70e2761da4ebb2619c2370ea0e472db"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/scene.py",
+      "bytes": 14105,
+      "sha256": "3bd53eb228062db2215fab3df5867f629cd7d57dbb71b12619803bef6df8220f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/simulation.py",
+      "bytes": 15920,
+      "sha256": "446c8d9b478b23fb20b732965e9857104a9933de3ab9eedc948c31b3106cf200"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/telemetry.py",
+      "bytes": 6337,
+      "sha256": "e34a05e52c9aa934ad5716bf481a6ed7c6c25f7e40c9c2f31d8bed394fc809d8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/test.py",
+      "bytes": 160,
+      "sha256": "5efa66ce9804262706e86b0088e38fec231d2e598e149c5ef25f7f2b6d4c0f66"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/test_m20_autonomous_nav.py",
+      "bytes": 160,
+      "sha256": "5efa66ce9804262706e86b0088e38fec231d2e598e149c5ef25f7f2b6d4c0f66"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/test_m20_obstacle_climb.py",
+      "bytes": 158,
+      "sha256": "a73d8bfdb8551ea4d6f2ae425845cb5914f16c81f8acb86f82788173fada9848"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/test_mapping_speed.py",
+      "bytes": 160,
+      "sha256": "5efa66ce9804262706e86b0088e38fec231d2e598e149c5ef25f7f2b6d4c0f66"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/M20/test_obstacle_climb.py",
+      "bytes": 158,
+      "sha256": "a73d8bfdb8551ea4d6f2ae425845cb5914f16c81f8acb86f82788173fada9848"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/source_snapshot/meshes.json",
+      "bytes": 1471,
+      "sha256": "9dbda6cd6ce91afc876b1371d2924de6700a5d84b90acb6476d33b55f7a7ce09"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/statistics.json",
+      "bytes": 6929,
+      "sha256": "3d5fc2d9088f69630ea13ad7aad0fbf78693f0d70080eb2087717efade5a0737"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/summaries.json",
+      "bytes": 378680,
+      "sha256": "5004a9790c4486705b83999f70a90665cec796952ed4d7cb18c4ac7c3c159773"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_500hz/verification.json",
+      "bytes": 12156,
+      "sha256": "31b2cc95db0e48f88d5bf9ca2e4c059cc8c75c4d1fbe579e962a81832b8c2a47"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_checks/migration_reproducibility.json",
+      "bytes": 278,
+      "sha256": "0c6c695948c097d523a5208c9d4fbe9cbaa46f9e170465c7550e73684d022c65"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_checks/pilot_42/001_real_trials.csv",
+      "bytes": 9866380,
+      "sha256": "f21b9708a73c48343f0415b623e84542c47d7aca7d4d7abf326d22c5abba2068"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_checks/pilot_42/002_real_trials.csv",
+      "bytes": 9937195,
+      "sha256": "bd9b1aec25cf5017e14b7e132a1ef4362be3508e0a2455810b6c2543a9f2f2bf"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_checks/pilot_42/003_real_trials.csv",
+      "bytes": 9833426,
+      "sha256": "0f019159573354a122a75c864f4d49761cf702e468690c0e34bad81cde5233f1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_checks/pilot_42/004_real_trials.csv",
+      "bytes": 350423,
+      "sha256": "8ae681fe7b41c3712ca76d8dd25b61ce77505622a3137fcde839d0d2ddf66333"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_checks/pilot_42/events.json",
+      "bytes": 8353,
+      "sha256": "48e250c6ef07234f253146cb5ac33e31e7b8864543fc06bdf78a3a44c864b948"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_checks/pilot_42/plans.json",
+      "bytes": 1184159,
+      "sha256": "4f9af93a6c235fc682fb44593014bf70978d2d16c75111aed31dde6be60af82b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_checks/pilot_42/scene.xml",
+      "bytes": 43343,
+      "sha256": "07575337c34f69caf79a4a1eed8b8e7b352602ad67494fa731c7d9da8d0d53be"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_checks/pilot_42/summary.json",
+      "bytes": 5542,
+      "sha256": "0ce6aeccc9922b3887940456ec09aa0e2ca95c3ec4c74abe282db4640e9aa61c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_checks/pilot_42/telemetry.csv",
+      "bytes": 3812702,
+      "sha256": "ab39a3b838f0204624a75cbf55ef63efa580d5e6151fed1995f9ad56680eb5ce"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_checks/pilot_42/telemetry_schema.json",
+      "bytes": 2967,
+      "sha256": "213992fcc636da20ce943e5801c8529407ba0183458d3d50435a8082eaa14968"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_group_only_tests.xml",
+      "bytes": 5956,
+      "sha256": "99172eee163787682f621b6fdc774419583a9b1146fc16e2ea8a16202247194c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_group_only_verification.json",
+      "bytes": 597,
+      "sha256": "2b984fedb6c1dd9e7717d0490696ebd2cfcc99eb31deb342f7fe3d31558cae44"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/capstone_tests.xml",
+      "bytes": 5836,
+      "sha256": "9a8ca6eed7e6294b47a89e57275e8bfc2472ba0cd54d982a7d9ccfd800c3efd2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/course_fresh_extraction_verification.json",
+      "bytes": 2166,
+      "sha256": "edb7ee455a58a98d70b7789efd92b568aab66edecc1b61e9cd0927e84a5d1c75"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/course_fresh_test_results.xml",
+      "bytes": 6051,
+      "sha256": "a164c844c44bbb54c11c19d57896b3e13faf6052ccff5fdb5010ff02f65885b5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/course_test_results.xml",
+      "bytes": 6052,
+      "sha256": "0ff883ccb03ada1e683a95d535931e0360127d1a58e4d6528ef2bb83ac9b7060"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/create_showcase.py",
+      "bytes": 3395,
+      "sha256": "1cef2a55ebf79e099d1386b344e08632ada139364da341650e983bff32d4ff5d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/economics_results.json",
+      "bytes": 10260,
+      "sha256": "4ab42641c731e6e6b3f0f698adb3f524485a2e0af100bb3ef482482a493ee83d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/environment.json",
+      "bytes": 959,
+      "sha256": "e9132e64bccdff52f6b23e2a2304c2a430a427649bf3f275829582a749fd1789"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/evaluate_hazard_clearance.py",
+      "bytes": 1948,
+      "sha256": "cd27a7379b59ea0107fb19bc542e8b902376ad6ada59c8c87058456c59d91ead"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/evidence_verification.json",
+      "bytes": 23335,
+      "sha256": "ae57ebc1f636207c9490437e914476be4a5419fbde672665e4fd991d73db2341"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/failure_frame_receipts.json",
+      "bytes": 305,
+      "sha256": "fa2c2f5f74b81040788c82a96cc2348afb1b24183f544f867a42a3b319042a06"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/finalize_capstone_docs.py",
+      "bytes": 19953,
+      "sha256": "f80ea813cc3f089ba681b23686f03cc062a59de20691a35cb02fc79f1a120277"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/fresh_extraction_verification.json",
+      "bytes": 7755,
+      "sha256": "7209caaf7742a5997e1a831a52b809791f8b4c5381aac7ab24d913d1c5ffe87c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/fresh_test_results.xml",
+      "bytes": 4472,
+      "sha256": "d6145f615afc0c484880c1160344b1091df33eea7da95bb064d01dd8de026d02"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/generate_diagnostic_figures.py",
+      "bytes": 1203,
+      "sha256": "9e43dd581b408ded982b926955a8c46e1c2c0c46dfacbbe4038ef697dd30f816"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/generate_paper_figures.py",
+      "bytes": 4048,
+      "sha256": "1b3b3b0c6d1f91727378806574ae5a0db98565e5a127329a595d59c8611ba93e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/hazardous_recon_economics.py",
+      "bytes": 4126,
+      "sha256": "c1894272bea6a1bcf59c8ed6adeadd48fb602f5524a88c907b97855dd27a8db1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/media_verification.json",
+      "bytes": 1423,
+      "sha256": "5e37937fbe7ee1b7ad60ac7861d89d6b39d98e42f9ecbb7840d38653fba1c508"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/package_capstone.py",
+      "bytes": 7883,
+      "sha256": "9a17d409763dea70411d420a581db47d68f23b74182761281b05fc45b0efe623"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/package_submission.py",
+      "bytes": 138,
+      "sha256": "099e1d8f159a12f773f3d67292043124a34032dcaa30459108012f7db810a5bf"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/plot_capstone.py",
+      "bytes": 4520,
+      "sha256": "b13cb92ee8b5f28638dd8332dc6877372ae7e6085289f77a1fbf5209a82901bf"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/recover_supplied_archive.py",
+      "bytes": 3325,
+      "sha256": "7789e71643ab5515ad2067eb2784bd6d69e6cb2cc52641a94a921c50e8916854"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/render_failure.py",
+      "bytes": 2022,
+      "sha256": "d9a3102a959a74d9f86ffc7231b2f293e2894c86118b0f812295f0274abd00ca"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/render_yard.py",
+      "bytes": 9345,
+      "sha256": "fe2db9fd5542d0a7a8ac514bda335d250a0a5b2b5377ef7e2ddcad8740dc0fcd"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/run_benchmark.py",
+      "bytes": 3400,
+      "sha256": "2c73bc496cf16cf8779cf94eaf33e5d3a62032c695cdcc1961be0a30379319cf"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/run_capstone_benchmark.py",
+      "bytes": 4775,
+      "sha256": "db6033a2abb602f03747e1e8e597e62dd72ea0bdff4ff482279f69e4fc9af5ee"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/run_course_benchmark.py",
+      "bytes": 3844,
+      "sha256": "0fbd810bce5ea2ff6ae5640cf45b0e2f42ec9e566baea697e6367c31df98bac2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/telemetry_business_bridge.json",
+      "bytes": 4185,
+      "sha256": "56f2890ff3a995d7f7d6fdc71ae072765967892a5943a1624001661f5b6efdf9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/telemetry_business_bridge.py",
+      "bytes": 1864,
+      "sha256": "b37e5246f0e2fa94c7c58e260b27a76e4e690bd2f99fb20c6aef6f7947f65c52"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/test_results_final.xml",
+      "bytes": 4472,
+      "sha256": "f16ea3e784249ff85790b57a9f9d7fd40d7a0250491ea9fb70069a9dc218a358"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/test_results_initial.xml",
+      "bytes": 3881,
+      "sha256": "9da68b27641f386aa848c4f5fb83146334bfc503afabcaf8a1639aa2a5f6933d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/ugv_traversability_benchmark.csv",
+      "bytes": 76074,
+      "sha256": "a7e851a3f41724e355df7c206c2ce4214cc6d6b929deb20eb47690ef3bfc5861"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/verify_citations.py",
+      "bytes": 1712,
+      "sha256": "a9330d8fb91228271bd07566258093d21c0d62c2ccc956ffcdd8d567a5cd8c77"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/verify_course_media.py",
+      "bytes": 1643,
+      "sha256": "f852874a6ab6cc275588c798c5082d16a2807f8b40a6bdf68feab07c027f83dd"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/verify_evidence.py",
+      "bytes": 3868,
+      "sha256": "a2fb18b09579844b2a0ede9359a52d3b1f22938b87d022105bc9d7cc59cbaa51"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/verify_media.py",
+      "bytes": 1780,
+      "sha256": "6b0c644243c3cee3a29fa3628754aac7fe21c00e5fcef9090328f5290999e028"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/verify_submission.py",
+      "bytes": 308,
+      "sha256": "c163f7850574afbc307f39064bdcc21ee7bb394daaaacc3fff94a99cc8ba0e5f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/analytics/verify_technical_dossier.py",
+      "bytes": 5284,
+      "sha256": "595375166cd2f93799d00941778a9621e21b814dc1e5a868ee0c295b265ad712"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/archive/dossier_original_template.docx",
+      "bytes": 54831,
+      "sha256": "a920ee6d76a9981ca40a2d326e88923ba34cceefd2b25a201753d9ed96a2de53"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/archive/README.md",
+      "bytes": 757,
+      "sha256": "3e029583fcba58abce3cecedddd9047af332b186f769e3f5196fdd162751f57a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/archive/SYNTHETIC_SCAFFOLD_NOT_EXPERIMENTAL.csv",
+      "bytes": 2829,
+      "sha256": "7a53e4f12044aee2f936251015db244984e61f2fa6fcc7f504bfdae0ed8db59e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/bibliography/10.1002_rob.21856.json",
+      "bytes": 24397,
+      "sha256": "67fa39e6485730bedde07bed91d1678b264d50c540ccf6b39fbdced20facf419"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/bibliography/10.1109_IROS.2009.5354535.json",
+      "bytes": 6016,
+      "sha256": "b25b319c0804315d8318442ed4d57c6686dc987efb1591d966da22366326f22a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/bibliography/10.1109_IROS.2012.6386109.json",
+      "bytes": 5281,
+      "sha256": "08b57b5e616e0f7026ba0244b829e929490e25388def33163bed39f80c497736"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/bibliography/10.1109_IROS.2018.8594448.json",
+      "bytes": 8909,
+      "sha256": "79a0e517cf05e4c203eda54534c3fc020607f56653ecc48e8cecffedbf2d74f9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/bibliography/10.1109_LRA.2018.2849506.json",
+      "bytes": 7731,
+      "sha256": "3a25df29d714309727e7fae22c4bec0ffa71b51be269bc92d5dee234ee0afe3c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/bibliography/10.1109_TSMCB.2003.811794.json",
+      "bytes": 11968,
+      "sha256": "fd162fcdc2c3d12bdd4fea23eb582c23b3542498d39e2ff1243ccfd6c3b6a8b3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/bibliography/10.1109_TSMCC.2007.905819.json",
+      "bytes": 34236,
+      "sha256": "e788a163f6b2ae99d1ecf8239b3eab37ce7c6154c761884cdd6a48d56624caf0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/bibliography/10.1126_scirobotics.abk2822.json",
+      "bytes": 26223,
+      "sha256": "eb1b4af248f5933681aff628c284f17dddfc7ea2268ddd288a7dc5cb49ebccc0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/bibliography/10.1126_scirobotics.adi9641.json",
+      "bytes": 29426,
+      "sha256": "1d03636def6431804f25addf3c8850724dca6aa1c9e34c9948d31581efbed553"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/bibliography/10.1177_0278364906065543.json",
+      "bytes": 32428,
+      "sha256": "cc17e1a8fbc257e67a4ac47fa9f541f42cd097f5f8ee8680bcec4ff8873edfe7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/bibliography/verification.json",
+      "bytes": 6685,
+      "sha256": "e36a657bd90369ba7c00079e7270896ff0a5b8009e9df9db9c3e77d1a03f709e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/CAPSTONE_VERIFICATION_REPORT.md",
+      "bytes": 8080,
+      "sha256": "0273cf53508ed523e2c026c56cf0344936d8afad89942d90847f800ceb5445a4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/DEMO_AND_VIVA_CRIB_SHEET.md",
+      "bytes": 500,
+      "sha256": "36c79afd1101b289cf5d9e281154537f049c73a97cf940f3b7a2b7135b5a2db2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/DEMO_SCRIPT_AND_CHECKLIST.md",
+      "bytes": 2768,
+      "sha256": "884285602d77b6fbe8288dac2fe73e02b21699a83f7687a21a71efb998c8249e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/DOSSIER_VERIFICATION_REPORT.md",
+      "bytes": 8080,
+      "sha256": "0273cf53508ed523e2c026c56cf0344936d8afad89942d90847f800ceb5445a4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/FAILURE_CASES.md",
+      "bytes": 2594,
+      "sha256": "ed01ce0c1e567095bb201994858d548621af6f9f6619a988d5ae34fc8e403627"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/capstone_business.json",
+      "bytes": 1303,
+      "sha256": "cf282e1a4b72266443f1cfff20898878af8304fe845e92c1d0318bfad19ed35f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/capstone_business.pdf",
+      "bytes": 35038,
+      "sha256": "27e03778df2054c3bdde3fcb4c16c98e01078e655b0108728a16d694d3686740"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/capstone_business.png",
+      "bytes": 217820,
+      "sha256": "4d975fd226e4c0c5ce72a1d8d95bc9d1ba0cb198c9f0fa7239d61d5d089ffa0b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/capstone_climb_telemetry.pdf",
+      "bytes": 51639,
+      "sha256": "1697053309e7fd0ff160934155b7536de4a41a2d578573806457bb1bbb782c81"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/capstone_climb_telemetry.png",
+      "bytes": 113388,
+      "sha256": "4410e4fdbc13f1d69979f8573450b6584c6ec483767390f81860bd23bd377954"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/capstone_economics_small.pdf",
+      "bytes": 23236,
+      "sha256": "80182feda790fbeb2db42fce7dfbdf02d5cb2e77077fbba5efab8e3630f3e412"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/capstone_economics_small.png",
+      "bytes": 88246,
+      "sha256": "dfc61ee922f1b1c58269186bb37b1760410da9dc4721d021a7d9b8e5dcfca461"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/capstone_results.pdf",
+      "bytes": 21023,
+      "sha256": "9f958ff0c7466b44e9a621495476c11382d35e52b929ba24e8e7d45581c1ffda"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/capstone_results.png",
+      "bytes": 84491,
+      "sha256": "17b0d5d2e6983d25ad1b5eb9db738c362919f6508ea01ccb3b9ce1096b71a98e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/capstone_results_paper.pdf",
+      "bytes": 19995,
+      "sha256": "f3c00a1e5017d743ebc46dc2780dcd75be82d5a063387c4c08702ba58640bb44"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/capstone_system_architecture.pdf",
+      "bytes": 16684,
+      "sha256": "73aa8778e2ff6be8d01e49809f356e80bad1a62cf17d3b3e68e454efd5666f0e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/course_climbing_frame.png",
+      "bytes": 157586,
+      "sha256": "39d595fa2bf753f062b93980d64c2338870a5a7284f48f71bcbce407133e4d65"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/failure_baseline_contact.png",
+      "bytes": 151503,
+      "sha256": "39b8172aaf37a5491b127272712e328f2f59c5bd1b0a2efc384ced1205b9ceb4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/failure_shared_pair_liftoff.png",
+      "bytes": 131552,
+      "sha256": "b98892221cf3e998c75fb8c9c1728aee2a552875cb3d6d790d2e7fa096011bd2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure1_system_architecture.pdf",
+      "bytes": 17671,
+      "sha256": "689523be2e6a5f2c56b131698674f676f9dd3d14f608d6e72a3d23d42033d1bd"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure1_system_architecture.png",
+      "bytes": 69903,
+      "sha256": "5b9ff4016734d4e3d0a197dba291fa9e0d520cfed0e5fc421387562c5a22ee6a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure2_kinematic_telemetry.pdf",
+      "bytes": 49549,
+      "sha256": "c76e49e6b35ebbaf6b4537071e06eb2c6f77d7e8ba6749a7cdd41c5a8e554165"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure2_kinematic_telemetry.png",
+      "bytes": 127110,
+      "sha256": "ccfb296aaddbaabb8287e656415186a11b9e8fbb85a14f7d6409423db40cf0df"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure3_comparative_performance.pdf",
+      "bytes": 14477,
+      "sha256": "516e1a2171483436115e524a584f0961c627fb8c71e4ce796f85bf80159ea848"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure3_comparative_performance.png",
+      "bytes": 47639,
+      "sha256": "8e6921bc465cd93cab7098d4fe3656c06999d0c25645b33c0444a89dcadf7991"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure4_measured_map.pdf",
+      "bytes": 26377,
+      "sha256": "53f50371a882082fc6a6e3622f1fd8e5c4f47fe839133593865bda3971430f97"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure4_measured_map.png",
+      "bytes": 117039,
+      "sha256": "f2959d2daf794e978559145b3c41303850f7a9c04dda247bda8f9e372c7a625f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure5_sensor_control_diagnostics.png",
+      "bytes": 493271,
+      "sha256": "acf78d61cdacd22a7830c3d90addf2662c85009af180e66f6a7ad63b301e8639"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/FIGURE_SOURCES.json",
+      "bytes": 471,
+      "sha256": "97f29846d5f5924c7afe4807a81ce8ab21b56ffe6df5058f0a35ebcc0bc759f0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/fresh_native_walk.jpg",
+      "bytes": 41001,
+      "sha256": "9700095aaaaed69b9ffae47b577a5d7bc528dc6a7a9f5df5715194e97197afae"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/m20_obstacle_course_poster.png",
+      "bytes": 322561,
+      "sha256": "9de70432f97db514630be1ccdc4e882fea09030313c01ec91b84d39ae2bf0897"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/native_live_viewer.jpg",
+      "bytes": 48867,
+      "sha256": "7116c0466dbbddb3fcc4c245f88edc825fdcb3682888ff2c16df3a5f41d766b2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/video_poster.png",
+      "bytes": 126488,
+      "sha256": "42a7627bc78abe85331c1dda7988856b3720b84eeff027061bf3ef6d73fab933"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/FINAL_DELIVERY_REPORT.md",
+      "bytes": 8080,
+      "sha256": "0273cf53508ed523e2c026c56cf0344936d8afad89942d90847f800ceb5445a4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/LINKEDIN_SHOWCASE_PLAN.md",
+      "bytes": 2768,
+      "sha256": "884285602d77b6fbe8288dac2fe73e02b21699a83f7687a21a71efb998c8249e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/LITERATURE_REVIEW_AND_FOUNDATIONAL_PAPERS.md",
+      "bytes": 3225,
+      "sha256": "70cd2790dfe635b5230fbe82e54a637b1e089ee73d4f910153fa147af24b428b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/M20_Complete_Step_by_Step_Run_Guide.docx",
+      "bytes": 46267,
+      "sha256": "1f4abb542eede4949e8840d5856bb191dcb7f21ac869dd0a1d4b572d4832397a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/M20_Complete_Step_by_Step_Run_Guide.md",
+      "bytes": 20791,
+      "sha256": "c86a384b4f1657834c1164b7c5249919dcc08767619af1c3c4c312603013e743"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/M20_Complete_Step_by_Step_Run_Guide.pdf",
+      "bytes": 283139,
+      "sha256": "4790ddd4f7e6c4e554b2b490d5b1c5c4e74b594281f134a8a26cb7b67ecacbe0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/M20_Extended_Technical_Report.docx",
+      "bytes": 364132,
+      "sha256": "e251a46ea7133d5fc9b61abf307e39e9b0bf43e8b5c0d1bbde4fd567ffd942d7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/M20_Extended_Technical_Report.md",
+      "bytes": 14605,
+      "sha256": "ee36eca820c042a2a4ad4aff856fe23512f447829cb87b55110161f34ae5ad8d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/M20_Extended_Technical_Report.pdf",
+      "bytes": 449606,
+      "sha256": "c4017044f4e43cb56752b200fe3267ce0bb54fffbbf67ccf0b634ce6bba046fc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/M20_RECTIFICATION_AUDIT.md",
+      "bytes": 3128,
+      "sha256": "89bf9dce4941bf3388fd51f7d26669a88007cc648fb64e35c411b7fef12e0e05"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/MDRIIA_Group_09_Technical_Dossier.docx",
+      "bytes": 217091,
+      "sha256": "b6811796dab2c63d10e17b3cc205ebb4dccb55d3ce9cc36befc56ef089189ffa"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/MDRIIA_Group_09_Technical_Dossier.pdf",
+      "bytes": 511759,
+      "sha256": "34aa1567cde530ce8972e98d917323f871a3ba71aa4874a3ceba6f60b1071a78"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/OBSTACLE_COURSE_REPORT.md",
+      "bytes": 10871,
+      "sha256": "e9cd5b07b9738256cf45cde48e2696a5ce74ef2e6fb8b05eae263dda656f1ad4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/paper/Group09_HazardousTerrain_IEEE.pdf",
+      "bytes": 159080,
+      "sha256": "868ad848a85aadf8fa6446eaae8319b3be249c32ced8acbf952246ba58f528c3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/paper/Group09_HazardousTerrain_IEEE.tex",
+      "bytes": 18376,
+      "sha256": "a061a9d834d0a69c8aa318d010a43e9316b7d7b7bcc38048c479b4e26ae722b0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/paper/main.tex",
+      "bytes": 43,
+      "sha256": "a2df4208376fe45a8d783ba0f494f9ac49d7d663635558a952d2d81c48aa135d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/PROJECT_AUDIT_AND_EVIDENCE.md",
+      "bytes": 5555,
+      "sha256": "38a260eaac6542d914534fdf6e931b881164045ebd89a27ea9dbda8473cfbd17"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/archive_recovery_receipt.json",
+      "bytes": 518,
+      "sha256": "ce18733d709153f35495664dfdf8e1feb355fc328f1d9dd6dd3fb9207e8724b4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/capstone_document_qa.json",
+      "bytes": 1898,
+      "sha256": "044a3e21a9a2e839aa1db6f382a4a4d212b6bab5303c9d2c498d89bb761c2a47"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/capstone_form_controls.json",
+      "bytes": 8972,
+      "sha256": "775c837bbbf3e22191c7f092ee54eaab5d41c2742133f0772bef8a70585d7329"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/course_paper_validation.json",
+      "bytes": 493,
+      "sha256": "2e177777ed0cd01f985b6d8e7daaa1de15ecbef5c0afe0abde690902ecd02fc4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/course_still.json",
+      "bytes": 428,
+      "sha256": "b5e2b80dfbe98361de8f00a9234b49c04f0321bd454177021d47419290616adf"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/dossier_edit_receipt.json",
+      "bytes": 13791,
+      "sha256": "2f1d80ebc9187641ae6076260bee01bc2450382ddd090154c21fc7a20910f16d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/dossier_validation.json",
+      "bytes": 523,
+      "sha256": "7791667db91b85924590d7f942ee7c831b6b634ec789ed0262d8f0bbd6a3f2a8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/fresh_native_viewer_run.json",
+      "bytes": 595,
+      "sha256": "148348f0befc4d5efe5d1d6f7f16a3a118f6fa2163ac98f1fc1814a6a122cb40"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/native_viewer_run.json",
+      "bytes": 573,
+      "sha256": "248dba99a2b337c11cceb841e12bb051598a3728a036948f5ba82c6691c9bd32"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/paper_visual_qa.json",
+      "bytes": 759,
+      "sha256": "ed8f1440f309c51f3c6f7afc4622b990fe622dbadfd0f3ecf14a37c7f93e6587"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/recovered_manifest.json",
+      "bytes": 14370,
+      "sha256": "ca2aae7576e5ba05d805e044f09828fcc6e4a2cdd75c5bdd2bd307a669d77b68"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/run_guide_validation.json",
+      "bytes": 909,
+      "sha256": "88f401881c51735154426a37abe33b1dbf3e461d9afca3a69ec168fd16d146e7"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/ui/business_live.png",
+      "bytes": 114637,
+      "sha256": "b90c11514491f5cc39fdcd83f59e7bdb264943f6820cb23bcfe9fdd09b013cd0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/ui/business_unstable.png",
+      "bytes": 117849,
+      "sha256": "8d5f496dac5210348c6526c7fe92f9fb2ace6774fce34d79c9906c1d903b81d9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/ui/live_viewport.png",
+      "bytes": 72596,
+      "sha256": "175ae63f7fd93a237e3042ed05ad65005daa7184f0040f2934a906418ead61d4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/provenance/ui/README.md",
+      "bytes": 315,
+      "sha256": "6de778029c9cf42ee4bbceddfcacb69552f4331b84ab5ba5b364037017ad41d5"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/QUICK_REVISION_E064.html",
+      "bytes": 2841,
+      "sha256": "54d322b71502d6b8ae967cb8a7c6b328dbbd84c323e677f36a4361bdd421c527"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/QUICK_REVISION_E064.md",
+      "bytes": 2075,
+      "sha256": "60553f0924cb8deb2b6ea938de6c9957d74a5b35e9256823c144c694803d5cdf"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/QUICK_REVISION_E070.html",
+      "bytes": 2473,
+      "sha256": "b9854f345d7fff66311a64b636f8e6c23d911146a93a802a94fb501b932e9faa"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/QUICK_REVISION_E070.md",
+      "bytes": 1707,
+      "sha256": "923e0be3e013165f7ead4cf71c46cb08c71734582a5d35cf2980b74a307196b9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/QUICK_REVISION_E073.html",
+      "bytes": 2607,
+      "sha256": "f41c28cb7a8a37e0ab2034bcb0f576fbef02418ee5934b561fdd9fa832e0711c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/QUICK_REVISION_E073.md",
+      "bytes": 1835,
+      "sha256": "3dccd69ed5f4880c179fcde2078dd18d65fc10ae400a9096c9348f2a2c955417"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/RESEARCH_PAPER_MANUSCRIPT_BLUEPRINT.md",
+      "bytes": 644,
+      "sha256": "c7fb45380e196b65825b52d4d3cee0d99c440bd06485abcda90f18249af94b33"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/RUBRIC_COMPLIANCE_MATRIX.md",
+      "bytes": 729,
+      "sha256": "59c38c34a22d178d9bf4aff0d21884f0001aaf049d4a070789d2eefc943e2be9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/SETUP_AND_RUN.md",
+      "bytes": 322,
+      "sha256": "b0aec49d763510d87163e925900e7d6f625f6a3eb66a205c19869df3fbc01abc"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/showcase/showcase_receipt.json",
+      "bytes": 458,
+      "sha256": "e7b22301d42c86053faee01f6f2f2f27f870da1aae3421a73fcda0818e69ef13"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/SHOWCASE_RECORDING_GUIDE.md",
+      "bytes": 2768,
+      "sha256": "884285602d77b6fbe8288dac2fe73e02b21699a83f7687a21a71efb998c8249e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/TEAM_ROSTER.json",
+      "bytes": 9981,
+      "sha256": "c3a18dd9df23521581ca62651ec333eb93f42cc9e90f6f6ca4b936365b8beff9"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/VIVA_QA_BY_STUDENT.md",
+      "bytes": 15843,
+      "sha256": "2b78a85a50bb6374a6bbd085849c79ce9f74c6d2fc3270f88f7db7357a34aea3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/generate_m20_telemetry_plots.py",
+      "bytes": 233,
+      "sha256": "afe22c7fec569e1fb1d4ef829fc47fedc502a1140756c66b8023641af335fbc8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/hybrid_control.py",
+      "bytes": 10441,
+      "sha256": "619d03627dd4c49c5bb576b3e6d1cd72a837951b8e1095fca0f47bce4a3d30f8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/legged_control.py",
+      "bytes": 8237,
+      "sha256": "b2c36463d3292c55269cb3dfeb055764378308121b53a5f229b52e904c326301"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/M20.xml",
+      "bytes": 18563,
+      "sha256": "25a3a09677d961524b25dc9afa113e260e1d98a3f496ae26a8fc0c7c76ab5413"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/M20_hazardous_terrain.xml",
+      "bytes": 24213,
+      "sha256": "7ebe94c452f2ff66b174996024073e9b9a76822e77cbfd77bfad113197c068e6"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/M20_obstacle_course.xml",
+      "bytes": 43343,
+      "sha256": "07575337c34f69caf79a4a1eed8b8e7b352602ad67494fa731c7d9da8d0d53be"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/m20_path_planner.py",
+      "bytes": 100,
+      "sha256": "7ecc4ed0d837f6cea7cc3efa631a546b1b6cde75106b6c3896ac5c47c9552aa8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/m20_rosbot_mapping.py",
+      "bytes": 10252,
+      "sha256": "6170c3c2abf2fcb5664466faaa78f0afd8fee1c2639fc60bf878fb962c3e1678"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/base_link.STL",
+      "bytes": 1340484,
+      "sha256": "a7984137d06782f513858fd699111109978301a9dff53ff37abf5413b922247f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/fl_hipx.STL",
+      "bytes": 455384,
+      "sha256": "179c634929072ae0ccf1dcdab1b005ac49b54e3225e78377afcff65951841aeb"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/fl_hipy.STL",
+      "bytes": 905234,
+      "sha256": "c895052a02ccbb21111815a20676a8dbef82aca62edf4cb0289afc68d54034ef"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/fl_knee.STL",
+      "bytes": 697884,
+      "sha256": "c2ac2f2c9664d847646efed234f35f47c30b28f35083abb470193eb0535c3154"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/fl_wheel.STL",
+      "bytes": 624534,
+      "sha256": "bcfca68aeeb8e5f118d4623a384cb040f611c32c1115b8574aed4c546e64685d"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/fr_hipx.STL",
+      "bytes": 421084,
+      "sha256": "350a5bca1df65250de995636583a5415d24625add5a5da447e9a09fb4661540b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/fr_hipy.STL",
+      "bytes": 884834,
+      "sha256": "6a776a1637c7676a3220aa51df6f2a59ebb7b8a94da10305940653902116e9ee"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/fr_knee.STL",
+      "bytes": 694634,
+      "sha256": "e158a0ca5a5ef08862714d546576d23706b096576a3e20e3d7a88184d72e4743"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/fr_wheel.STL",
+      "bytes": 624534,
+      "sha256": "2773ffcac685b1e288b09d13b80991987d722f386a645cd99b88de01eb02706b"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/hl_hipx.STL",
+      "bytes": 421034,
+      "sha256": "3c20e792611b5142b4237f381a300079bb3d5d71e59c0d0a38335ff67988cf3a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/hl_hipy.STL",
+      "bytes": 884884,
+      "sha256": "d2c9efec9bfc31fef034617879fab4b731ac22d67a8f1d5f89ba4ca6d3a375ac"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/hl_knee.STL",
+      "bytes": 694634,
+      "sha256": "f6897fb23e4f1fe0943952f36f756d93ef6de88f48ac1ede294a7ca852ab82a1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/hl_wheel.STL",
+      "bytes": 624534,
+      "sha256": "d61d98f986e989484d37ac15700f43c409b1205ff649b4ba14f6ac3ee0f7e7c2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/hr_hipx.STL",
+      "bytes": 421534,
+      "sha256": "b49f8992cc84058e6009b804e4d68137059636175c5ba32816d36611d5b5b98a"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/hr_hipy.STL",
+      "bytes": 918834,
+      "sha256": "70332110c7bc92d4498834cb37260c32de3e2d4b44e821bcf14a71ddf73d3e72"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/hr_knee.STL",
+      "bytes": 694784,
+      "sha256": "2fcf688c30596b3640e528defa92b58fe7804586586a681677115ea6d93f60e3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/meshes/hr_wheel.STL",
+      "bytes": 624484,
+      "sha256": "88b2fca83119f36b156520ae4c7a4334baa6a2ad71da90e1a529e10114a16641"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/recon_controller.py",
+      "bytes": 8875,
+      "sha256": "812054e7a1d23bbc833985a77ff2a52f30259c272cad882c9314db94a32d6828"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/replay.py",
+      "bytes": 5871,
+      "sha256": "1de0a4685de469f2d7a4b6d8afaa1d536c661702886844b46f1725a621f28521"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/run_m20_autonomous_nav.py",
+      "bytes": 151,
+      "sha256": "9d69a104aa326ffa4156639603080377804eab4e3ff13d20e89a5eb2d7f007b0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/run_m20_movement_demo.py",
+      "bytes": 148,
+      "sha256": "f01c0e4a4a7bf73b59a80c7afed09b1b69ed5bdc366bff6faaa1f01c9900a350"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/run_m20_obstacle_climb.py",
+      "bytes": 149,
+      "sha256": "baff1282f039d596099459da3ac0a1f3b70e2761da4ebb2619c2370ea0e472db"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/scene.py",
+      "bytes": 14105,
+      "sha256": "3bd53eb228062db2215fab3df5867f629cd7d57dbb71b12619803bef6df8220f"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/simulation.py",
+      "bytes": 15920,
+      "sha256": "446c8d9b478b23fb20b732965e9857104a9933de3ab9eedc948c31b3106cf200"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/telemetry.py",
+      "bytes": 6337,
+      "sha256": "e34a05e52c9aa934ad5716bf481a6ed7c6c25f7e40c9c2f31d8bed394fc809d8"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/test.py",
+      "bytes": 160,
+      "sha256": "5efa66ce9804262706e86b0088e38fec231d2e598e149c5ef25f7f2b6d4c0f66"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/test_m20_autonomous_nav.py",
+      "bytes": 160,
+      "sha256": "5efa66ce9804262706e86b0088e38fec231d2e598e149c5ef25f7f2b6d4c0f66"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/test_m20_obstacle_climb.py",
+      "bytes": 158,
+      "sha256": "a73d8bfdb8551ea4d6f2ae425845cb5914f16c81f8acb86f82788173fada9848"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/test_mapping_speed.py",
+      "bytes": 160,
+      "sha256": "5efa66ce9804262706e86b0088e38fec231d2e598e149c5ef25f7f2b6d4c0f66"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/M20/test_obstacle_climb.py",
+      "bytes": 158,
+      "sha256": "a73d8bfdb8551ea4d6f2ae425845cb5914f16c81f8acb86f82788173fada9848"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/models/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/models/hazardous_terrain_ugv.xml",
+      "bytes": 24218,
+      "sha256": "01908c93058dc27942802c7086bd63b553417e4e1daf3b8d0db925935cd6a85e"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/models/m20_obstacle_course.xml",
+      "bytes": 43348,
+      "sha256": "33c8cdd822f6284b047c4b0f6cb7254f5551265e4bff99ccb15e905c33f335a3"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/pytest.ini",
+      "bytes": 27,
+      "sha256": "c809c969ec7e11b9ff37784e9c6fcc0b7c5148d168e18b05aed797e03fbd6ead"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/README.md",
+      "bytes": 4192,
+      "sha256": "e7ba88da2d035fe460a5e7d6adc33d7bb710525d0241a78180dc560dfd237777"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/requirements-dev.txt",
+      "bytes": 21,
+      "sha256": "e6e2dfcb6ceb55a4f47bd7d7227393d63fbcbd4a9bbf0ffce22b7464186d9644"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/requirements-docs.txt",
+      "bytes": 33,
+      "sha256": "9d71863b008fae501d6451d8bb458cfe7716e1bb5be3fd1388e0b9028ab234c1"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/requirements-lock.txt",
+      "bytes": 540,
+      "sha256": "4ccfca37f45c708d2dae66a9246bec5add4af39e4cbd4b0355d07ed55ede43d0"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/requirements.txt",
+      "bytes": 191,
+      "sha256": "8db92d9bd3e843b6f82988737401d897e98bf55fae6aceabec74eb56fff72795"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/RESEARCH_AND_IMPLEMENTATION_GUIDE.md",
+      "bytes": 3805,
+      "sha256": "615a96b6b6fe641fdbc94d428d8a125dbd13999ae9f785c9060dadd87a6f7734"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/run_demo.ps1",
+      "bytes": 1665,
+      "sha256": "7e29b0800ebb153d95b8ce6de435f75396b6c4457ea4f87fdac9792cd5e81061"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/src/live_m20_viewer.py",
+      "bytes": 356,
+      "sha256": "f3e4b125f7c822ca565dbce5cabd1b56cac6c06fc21ee0c033f2667b6beb973c"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/src/rough_terrain_recon_controller.py",
+      "bytes": 657,
+      "sha256": "a07e608bc755c31ce6791027d75345e6a9b0eaa714697227fc281b07b1e056b4"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/src/run_sim_demo.py",
+      "bytes": 252,
+      "sha256": "a343eb9fce3da0c4605e3c5b01f27937a921b33cab781bcb394c9929b382cfee"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/src/test_env.py",
+      "bytes": 252,
+      "sha256": "a343eb9fce3da0c4605e3c5b01f27937a921b33cab781bcb394c9929b382cfee"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/src/test_ugv_climb.py",
+      "bytes": 250,
+      "sha256": "94fd0197082b0fc2d63e7f0034ceba807ab9c1c31d4c13dc335f23dd7d8ef1ed"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/tests/conftest.py",
+      "bytes": 156,
+      "sha256": "527fe968b43e60600bfc46a9fd558177ac01b2aaec5f3b8e03fe1f1b83b17d41"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/tests/test_business_model.py",
+      "bytes": 1895,
+      "sha256": "909ad46f8bc71a3224d939f1a95c8c3a42c4d24b0713da2323857ad1ce4d68a2"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/tests/test_capstone.py",
+      "bytes": 2395,
+      "sha256": "263881edb8b6dd1304ba56866997eab5991df6f44698e5532dfc69cf03b64966"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/tests/test_capstone_statistics.py",
+      "bytes": 635,
+      "sha256": "9b0df3022966ab55301dad827aed898172351c39c2ba6c7822f5200617391406"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/tests/test_m20.py",
+      "bytes": 6359,
+      "sha256": "b61da2269a65638bab7ace487e7b2d10f8743e894ba031e93236a84ace4c4f13"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/tests/test_obstacle_course.py",
+      "bytes": 3931,
+      "sha256": "c8c8ec73c36436e4b9796ece550c5ae8d2a726ed4ebe195237f9462b74a03295"
+    },
+    {
+      "path": "Group_09_Arnav_Vihan_Pratik/docs/FILE_INVENTORY.csv",
+      "bytes": 130699,
+      "sha256": "df6ede575de4bf078121398f8f8a60549d815a0e0c47887026945141f21878d4"
+    }
+  ]
+}

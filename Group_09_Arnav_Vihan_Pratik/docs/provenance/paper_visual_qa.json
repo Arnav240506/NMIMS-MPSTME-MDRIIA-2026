@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "pages": 4,
+  "figures_in_paper": 3,
+  "tables": 2,
+  "peer_reviewed_DOI_references": 6,
+  "pdf_sha256": "dc53b7e40045904e624f957ef05e941b9bdba80dd52aa58e91c66a207d24b450",
+  "compiled_by": [
+    "Desktop built-in LaTeX compiler",
+    "Tectonic 0.17.0"
+  ],
+  "rendered_by": "Poppler pdftoppm at 135 dpi",
+  "pages_visually_inspected": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "findings": "No clipping, overlap or missing glyphs; two-column text, figures, tables and DOI references legible; scientific notation checked",
+  "nonfatal_compiler_diagnostics": "Three underfull-hbox warnings; no overfull boxes or compile errors",
+  "scope": "HISTORICAL receipt; final artifacts superseded. See capstone_document_qa.json."
+}

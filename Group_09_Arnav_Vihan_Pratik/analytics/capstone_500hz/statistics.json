@@ -1,0 +1,211 @@
+{
+  "source_sha256": "52e6297c4a62995dfe65bcc65186b0ee7b7dcc0c1eb07e0c13672799031332d8",
+  "N_per_policy": 30,
+  "N_total": 60,
+  "design": "Independent seeds; ten runs in each of three roughness strata per policy",
+  "primary_metric": "goal_error_m",
+  "primary_hypothesis": "The mean terminal XY goal error differs between the two policies",
+  "primary_test": "Two-sided independent Welch t test at alpha 0.05",
+  "comparisons": {
+    "goal_error_m": {
+      "N_proposed": 30,
+      "N_baseline": 30,
+      "difference_proposed_minus_baseline": -12.20395983082474,
+      "t": -715.1831677622248,
+      "df": 29.44569397622222,
+      "p_two_sided": 5.511521404568612e-64,
+      "cohen_d_pooled": -184.65949988206413,
+      "pooled_SD": 0.06608898994429749,
+      "CI95": [
+        -12.238836910635962,
+        -12.169082751013518
+      ],
+      "baseline_mean": 12.310316818031708,
+      "baseline_SD": 0.09310687521667868,
+      "proposed_mean": 0.10635698720696775,
+      "proposed_SD": 0.008162044541702409,
+      "mann_whitney_p_sensitivity": 3.019859359162157e-11
+    },
+    "tracking_rmse_m": {
+      "N_proposed": 30,
+      "N_baseline": 30,
+      "difference_proposed_minus_baseline": -0.3864236224152529,
+      "t": -20.974701944852097,
+      "df": 29.43455431564972,
+      "p_two_sided": 2.9997227094848745e-19,
+      "cohen_d_pooled": -5.415644754938433,
+      "pooled_SD": 0.0713532072174564,
+      "CI95": [
+        -0.42407939188614063,
+        -0.3487678529443652
+      ],
+      "baseline_mean": 0.5811049265246023,
+      "baseline_SD": 0.10053274356308171,
+      "proposed_mean": 0.19468130410934942,
+      "proposed_SD": 0.008702173987814607,
+      "mann_whitney_p_sensitivity": 3.019859359162157e-11
+    },
+    "control_effort_Nm2_s": {
+      "N_proposed": 30,
+      "N_baseline": 30,
+      "difference_proposed_minus_baseline": -572772.8747528202,
+      "t": -19.29550533651036,
+      "df": 32.0524550625345,
+      "p_two_sided": 3.303124423893529e-19,
+      "cohen_d_pooled": -4.982078054997397,
+      "pooled_SD": 114966.66018274968,
+      "CI95": [
+        -633233.8613111653,
+        -512311.8881944752
+      ],
+      "baseline_mean": 1128398.2262103702,
+      "baseline_SD": 158459.80135207262,
+      "proposed_mean": 555625.35145755,
+      "proposed_SD": 36402.70955043539,
+      "mann_whitney_p_sensitivity": 3.019859359162157e-11
+    },
+    "simulated_s": {
+      "N_proposed": 30,
+      "N_baseline": 30,
+      "difference_proposed_minus_baseline": -60.268533333562246,
+      "t": -154.28697194775012,
+      "df": 29.0,
+      "p_two_sided": 7.994673333699449e-44,
+      "cohen_d_pooled": -39.83672485936047,
+      "pooled_SD": 1.512888761471587,
+      "CI95": [
+        -61.06745361377494,
+        -59.469613053349555
+      ],
+      "baseline_mean": 180.00000000013128,
+      "baseline_SD": 8.672275743872566e-14,
+      "proposed_mean": 119.73146666656903,
+      "proposed_SD": 2.1395478048349523,
+      "mann_whitney_p_sensitivity": 1.2117803970059759e-12
+    },
+    "path_length_m": {
+      "N_proposed": 30,
+      "N_baseline": 30,
+      "difference_proposed_minus_baseline": -3.698805425959975,
+      "t": -1.5718336202323826,
+      "df": 29.00952881397885,
+      "p_two_sided": 0.126833679519506,
+      "cohen_d_pooled": -0.4058456956112621,
+      "pooled_SD": 9.113821991850969,
+      "CI95": [
+        -8.511527629758076,
+        1.113916777838126
+      ],
+      "baseline_mean": 25.086884697022377,
+      "baseline_SD": 12.88783203908599,
+      "proposed_mean": 21.388079271062402,
+      "proposed_SD": 0.16519058871904366,
+      "mann_whitney_p_sensitivity": 0.37903631077393585
+    },
+    "max_abs_roll_deg": {
+      "N_proposed": 30,
+      "N_baseline": 30,
+      "difference_proposed_minus_baseline": -0.2356506512148746,
+      "t": -2.852720290461941,
+      "df": 39.15745215286104,
+      "p_two_sided": 0.006889567243895962,
+      "cohen_d_pooled": -0.7365692117564722,
+      "pooled_SD": 0.3199300859357484,
+      "CI95": [
+        -0.4027147558474947,
+        -0.06858654658225447
+      ],
+      "baseline_mean": 1.7391966272511914,
+      "baseline_SD": 0.4163623624582422,
+      "proposed_mean": 1.5035459760363168,
+      "proposed_SD": 0.17706750944739152,
+      "mann_whitney_p_sensitivity": 0.0030339475794426483
+    },
+    "max_abs_pitch_deg": {
+      "N_proposed": 30,
+      "N_baseline": 30,
+      "difference_proposed_minus_baseline": 10.52216171771974,
+      "t": 367.0188340538147,
+      "df": 30.776030821039377,
+      "p_two_sided": 1.3259806963539202e-57,
+      "cohen_d_pooled": 94.76385546899253,
+      "pooled_SD": 0.11103560176656882,
+      "CI95": [
+        10.463673106354783,
+        10.580650329084698
+      ],
+      "baseline_mean": 1.7133444121109807,
+      "baseline_SD": 0.15467554228674277,
+      "proposed_mean": 12.235506129830721,
+      "proposed_SD": 0.027079260285875203,
+      "mann_whitney_p_sensitivity": 3.019859359162157e-11
+    }
+  },
+  "policies": {
+    "baseline": {
+      "N": 30,
+      "accepted": 0,
+      "harmful_contact_trials": 30,
+      "rollovers": 0,
+      "status_counts": {
+        "timeout": 30
+      },
+      "mean_goal_error_m": 12.310316818031708,
+      "mean_tracking_rmse_m": 0.5811049265246023,
+      "mean_control_effort_Nm2_s": 1128398.2262103702
+    },
+    "shared": {
+      "N": 30,
+      "accepted": 30,
+      "harmful_contact_trials": 0,
+      "rollovers": 0,
+      "status_counts": {
+        "goal": 30
+      },
+      "mean_goal_error_m": 0.10635698720696775,
+      "mean_tracking_rmse_m": 0.19468130410934942,
+      "mean_control_effort_Nm2_s": 555625.35145755
+    }
+  },
+  "roughness_strata": {
+    "0.0": {
+      "baseline": {
+        "N": 10,
+        "accepted": 0
+      },
+      "shared": {
+        "N": 10,
+        "accepted": 10
+      }
+    },
+    "0.003": {
+      "baseline": {
+        "N": 10,
+        "accepted": 0
+      },
+      "shared": {
+        "N": 10,
+        "accepted": 10
+      }
+    },
+    "0.006": {
+      "baseline": {
+        "N": 10,
+        "accepted": 0
+      },
+      "shared": {
+        "N": 10,
+        "accepted": 10
+      }
+    }
+  },
+  "limitations": [
+    "Software-driver baseline, not a human operator",
+    "Integrated map-and-transfer policy; cannot attribute improvement to one feature",
+    "Fixed evaluator-only reference measures geometric cross-track error, not timed trajectory tracking",
+    "Unequal failure rates and durations affect RMSE and total effort; lower effort alone is not efficiency",
+    "Rigid idealized simulated yard, exact pose, ideal rays; no hardware or human workload validation",
+    "N=30 per policy and 10 per roughness stratum; extensions are not pooled with historical studies"
+  ],
+  "acceptance_Fisher_exact_p": 1.6911233892144735e-17
+}

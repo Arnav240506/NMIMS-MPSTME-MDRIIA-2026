@@ -1,0 +1,17 @@
+{
+  "status": "EXECUTED_AND_VISUALLY_INSPECTED",
+  "actual_program_output": {
+    "mode": "mission",
+    "actual_simulated_s": 65.00000000002991,
+    "phase": "PLATEAU_RECON",
+    "climb_completed": true,
+    "position_m": [
+      4.23400062452089,
+      0.016341756014891205,
+      0.6147521890094374
+    ],
+    "note": "Live visualization; authoritative acceptance is in simulation.py logged runs."
+  },
+  "screenshot": "../figures/native_live_viewer.jpg",
+  "scope": "Local real-time native MuJoCo execution; expert-panel demonstration remains pending"
+}

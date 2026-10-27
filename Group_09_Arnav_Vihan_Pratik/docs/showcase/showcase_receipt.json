@@ -1,0 +1,13 @@
+{
+  "duration_s": 77.4,
+  "frames": 774,
+  "fps": 10,
+  "clips": [
+    "analytics\\demo_runs\\m20_walk\\robot_3d.mp4",
+    "analytics\\demo_runs\\m20_mission\\robot_3d.mp4"
+  ],
+  "edits": "Full walking and full mission clips at original 10 fps plus 6 s factual end card; no generated robot frames",
+  "poster_time_s": 41.502000000004756,
+  "poster": "Actual recorded M20 qpos/qvel with alternate native MuJoCo camera",
+  "no_public_post": true
+}

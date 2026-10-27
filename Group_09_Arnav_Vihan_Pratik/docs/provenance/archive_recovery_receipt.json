@@ -1,0 +1,11 @@
+{
+  "archive_name": "NMIMS-MPSTME-MDRIIA-2026.zip",
+  "archive_bytes": 280034525,
+  "archive_sha256": "24941fa74cf215443f0e8adcadff2f06281d8fb773c244ed3fe428bc284dd5e0",
+  "central_directory": "MISSING",
+  "selected_source_files_recovered": 59,
+  "selected_source_failures": 0,
+  "original_m20_stl_meshes": 17,
+  "portable_recovery_rerun": "PASS; all 59 recovered SHA256 values match original recovery manifest",
+  "scope": "Other groups, virtual environments, .git and incomplete final recording excluded"
+}

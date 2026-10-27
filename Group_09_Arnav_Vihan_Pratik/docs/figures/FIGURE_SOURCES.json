@@ -1,0 +1,8 @@
+{
+  "figure1": "Implemented module diagram, not experimental data",
+  "figure2": "analytics\\demo_runs\\m20_mission\\telemetry.csv",
+  "figure3": "analytics/benchmark/results.csv",
+  "figure4": "analytics/demo_runs/m20_mission/map.npz and telemetry.csv",
+  "all_data_figures": "MuJoCo simulation only; no human participants",
+  "figure5": "analytics/demo_runs/m20_mission/telemetry.csv: speed, hub-speed discrepancy proxy, forward clearance, coverage and torque"
+}

@@ -6,91 +6,253 @@
   "members": [
     {
       "roll_no": "E064",
-      "sap_id": "70362400017",
+      "sap_id": "70362400067",
       "name": "Arnav Saurabh Surve",
-      "role": "Lead UGV Skid-Steer Dynamics & MuJoCo Terrain Modeler",
+      "role": "M20 quadruped dynamics, torque/contact validation and terrain review",
       "assigned_branch": "feat/e064-lead-ugv-skid-steer-",
-      "viva_focus": "Skid-steer 4-wheel slip dynamics, rough terrain contact normal forces, pitch/roll rollover stability, and torque distribution."
+      "viva_focus": "Analytic leg IK, paired support, skid steering, torque limits and contact acceptance",
+      "github_handle": "[TO VERIFY]",
+      "verified_commit_hashes": [],
+      "review_status": "PENDING_STUDENT_REVIEW"
     },
     {
       "roll_no": "E070",
-      "sap_id": "70362400063",
+      "sap_id": "70362400086",
       "name": "Vihan Shripad Joshi",
-      "role": "LiDAR Perception, 3D Elevation Mapping & Obstacle Segmentation Lead",
+      "role": "Ideal LiDAR ray mapping, measured elevation/cost grid and A* review",
       "assigned_branch": "feat/e070-lidar-perception-3d-",
-      "viva_focus": "Multi-ray LiDAR point cloud filtering, 2.5D elevation grid mapping, slope/roughness traversability cost calculation, and path replanning."
+      "viva_focus": "True-pose referenced 2.5D mapping, unknown cells, inflation, A* and sensing limitations",
+      "github_handle": "[TO VERIFY]",
+      "verified_commit_hashes": [],
+      "review_status": "PENDING_STUDENT_REVIEW"
     },
     {
       "roll_no": "E073",
-      "sap_id": "70362400033",
+      "sap_id": "70362300032",
       "name": "Pratik Mangesh Gaikwad",
       "role": "CSBS Hazardous Operations Safety & Teleoperation Latency Analyst",
       "assigned_branch": "feat/e073-csbs-hazardous-opera",
-      "viva_focus": "Operator cognitive workload metrics (NASA-TLX), teleoperation latency resilience, human risk mitigation, and industrial inspection payback."
+      "viva_focus": "Independent Welch inference, pooled effect size, dimensionless economics, queue stability and explicit assumptions",
+      "github_handle": "[TO VERIFY]",
+      "verified_commit_hashes": [],
+      "review_status": "PENDING_STUDENT_REVIEW"
     }
   ],
   "foundational_papers": [
     {
-      "id": 1,
-      "authors": "Fankhauser et al.",
-      "year": 2018,
+      "doi": "10.1109/LRA.2018.2849506",
       "title": "Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization",
-      "venue": "IEEE Robotics and Automation Letters",
-      "doi": "https://doi.org/10.1109/LRA.2018.2849506",
-      "lead": "Vihan Shripad Joshi (E070) & Arnav Saurabh Surve (E064)"
+      "authors": "Peter Fankhauser; Michael Bloesch; Marco Hutter",
+      "venue": [
+        "IEEE Robotics and Automation Letters"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            10
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1109/lra.2018.2849506",
+      "type": "journal-article",
+      "metadata_url": "https://api.crossref.org/works/10.1109/LRA.2018.2849506",
+      "verified_utc": "2026-10-25T14:07:36.486959+00:00"
     },
     {
-      "id": 2,
-      "authors": "Chilian & Hirschmuller",
-      "year": 2009,
+      "doi": "10.1109/IROS.2009.5354535",
       "title": "Stereo camera based navigation of mobile robots on rough terrain",
-      "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
-      "doi": "https://doi.org/10.1109/IROS.2009.5354535",
-      "lead": "Vihan Shripad Joshi (E070)"
+      "authors": "Annett Chilian; Heiko Hirschmuller",
+      "venue": [
+        "2009 IEEE/RSJ International Conference on Intelligent Robots and Systems"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            10
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1109/iros.2009.5354535",
+      "type": "proceedings-article",
+      "metadata_url": "https://api.crossref.org/works/10.1109/IROS.2009.5354535",
+      "verified_utc": "2026-10-25T14:07:36.484665+00:00"
     },
     {
-      "id": 3,
-      "authors": "Kelly et al.",
-      "year": 2006,
+      "doi": "10.1177/0278364906065543",
       "title": "Toward Reliable Off Road Autonomous Vehicles Operating in Challenging Environments",
-      "venue": "The International Journal of Robotics Research",
-      "doi": "https://doi.org/10.1177/0278364906065543",
-      "lead": "Arnav Saurabh Surve (E064)"
+      "authors": "Alonzo Kelly; Anthony Stentz; Omead Amidi; Mike Bode; David Bradley; Antonio Diaz-Calderon; Mike Happold; Herman Herman; Robert Mandelbaum; Tom Pilarski; Pete Rander; Scott Thayer; Nick Vallidis; Randy Warner",
+      "venue": [
+        "The International Journal of Robotics Research"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            5
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1177/0278364906065543",
+      "type": "journal-article",
+      "metadata_url": "https://api.crossref.org/works/10.1177/0278364906065543",
+      "verified_utc": "2026-10-25T14:07:36.535657+00:00"
     },
     {
-      "id": 4,
-      "authors": "Chen et al.",
-      "year": 2007,
+      "doi": "10.1109/TSMCC.2007.905819",
       "title": "Human Performance Issues and User Interface Design for Teleoperated Robots",
-      "venue": "IEEE Transactions on Systems, Man and Cybernetics, Part C",
-      "doi": "https://doi.org/10.1109/TSMCC.2007.905819",
-      "lead": "Pratik Mangesh Gaikwad (E073)"
+      "authors": "Jessie Y. C. Chen; Ellen C. Haas; Michael J. Barnes",
+      "venue": [
+        "IEEE Transactions on Systems, Man and Cybernetics, Part C (Applications and Reviews)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2007,
+            11
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1109/tsmcc.2007.905819",
+      "type": "journal-article",
+      "metadata_url": "https://api.crossref.org/works/10.1109/TSMCC.2007.905819",
+      "verified_utc": "2026-10-25T14:07:36.486959+00:00"
     },
     {
-      "id": 5,
-      "authors": "Casper & Murphy",
-      "year": 2003,
+      "doi": "10.1109/TSMCB.2003.811794",
       "title": "Human-robot interactions during the robot-assisted urban search and rescue response at the World Trade Center",
-      "venue": "IEEE Transactions on Systems, Man, and Cybernetics, Part B",
-      "doi": "https://doi.org/10.1109/TSMCB.2003.811794",
-      "lead": "Pratik Mangesh Gaikwad (E073) & Arnav Saurabh Surve (E064)"
+      "authors": "J. Casper; R.R. Murphy",
+      "venue": [
+        "IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2003,
+            6
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1109/tsmcb.2003.811794",
+      "type": "journal-article",
+      "metadata_url": "https://api.crossref.org/works/10.1109/TSMCB.2003.811794",
+      "verified_utc": "2026-10-25T14:07:36.508298+00:00"
     },
     {
-      "id": 6,
-      "authors": "Yu et al.",
-      "year": 2018,
-      "title": "Algorithms and experiments on routing of unmanned aerial vehicles for emergency reconnaissance",
-      "venue": "Journal of Field Robotics",
-      "doi": "https://doi.org/10.1002/rob.21856",
-      "lead": "Vihan Shripad Joshi (E070) & Pratik Mangesh Gaikwad (E073)"
+      "doi": "10.1002/rob.21856",
+      "title": "Algorithms and experiments on routing of unmanned aerial vehicles with mobile recharging stations",
+      "authors": "Kevin Yu; Ashish Kumar Budhiraja; Spencer Buebel; Pratap Tokekar",
+      "venue": [
+        "Journal of Field Robotics"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            12,
+            16
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1002/rob.21856",
+      "type": "journal-article",
+      "metadata_url": "https://api.crossref.org/works/10.1002/rob.21856",
+      "verified_utc": "2026-10-25T14:07:36.522420+00:00"
+    },
+    {
+      "doi": "10.1109/IROS.2018.8594448",
+      "title": "Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control",
+      "authors": "Jared Di Carlo; Patrick M. Wensing; Benjamin Katz; Gerardo Bledt; Sangbae Kim",
+      "venue": [
+        "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            10
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1109/iros.2018.8594448",
+      "type": "proceedings-article",
+      "metadata_url": "https://api.crossref.org/works/10.1109/IROS.2018.8594448",
+      "verified_utc": "2026-10-25T14:07:37.645440+00:00"
+    },
+    {
+      "doi": "10.1126/scirobotics.abk2822",
+      "title": "Learning robust perceptive locomotion for quadrupedal robots in the wild",
+      "authors": "Takahiro Miki; Joonho Lee; Jemin Hwangbo; Lorenz Wellhausen; Vladlen Koltun; Marco Hutter",
+      "venue": [
+        "Science Robotics"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            26
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1126/scirobotics.abk2822",
+      "type": "journal-article",
+      "metadata_url": "https://api.crossref.org/works/10.1126/scirobotics.abk2822",
+      "verified_utc": "2026-10-25T14:07:37.958095+00:00"
+    },
+    {
+      "doi": "10.1126/scirobotics.adi9641",
+      "title": "Learning robust autonomous navigation and locomotion for wheeled-legged robots",
+      "authors": "Joonho Lee; Marko Bjelonic; Alexander Reske; Lorenz Wellhausen; Takahiro Miki; Marco Hutter",
+      "venue": [
+        "Science Robotics"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            24
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1126/scirobotics.adi9641",
+      "type": "journal-article",
+      "metadata_url": "https://api.crossref.org/works/10.1126/scirobotics.adi9641",
+      "verified_utc": "2026-10-25T14:07:37.969130+00:00"
+    },
+    {
+      "doi": "10.1109/IROS.2012.6386109",
+      "title": "MuJoCo: A physics engine for model-based control",
+      "authors": "Emanuel Todorov; Tom Erez; Yuval Tassa",
+      "venue": [
+        "2012 IEEE/RSJ International Conference on Intelligent Robots and Systems"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2012,
+            10
+          ]
+        ]
+      },
+      "url": "https://doi.org/10.1109/iros.2012.6386109",
+      "type": "proceedings-article",
+      "metadata_url": "https://api.crossref.org/works/10.1109/IROS.2012.6386109",
+      "verified_utc": "2026-10-25T14:07:36.673003+00:00"
     }
   ],
   "project_showcase": {
     "platform": "LinkedIn Video",
     "linkedin_url": "PENDING_SUBMISSION",
     "video_poster_path": "docs/figures/video_poster.png",
-    "video_duration_target": "60-90 seconds",
-    "submission_status": "PENDING",
+    "video_duration_target": "3-4 minutes",
+    "submission_status": "RECORDING_AND_POSTING_PENDING",
     "submission_instructions": "Paste your published LinkedIn post URL into 'linkedin_url' and submit a Pull Request"
-  }
+  },
+  "platform": "Recovered M20 hybrid canine quadruped, 12 leg + 4 wheel motors, 17 original STL meshes",
+  "implementation_assistance": "Substantial AI-assisted implementation, experiments, analysis and drafting. Students must review and personally defend their specialties.",
+  "verified_student_commits": "PENDING: no student contribution history is available in the recovered source.",
+  "identity_verification": "Faculty-pack SAP IDs confirmed directly by user on 26 October 2026"
 }

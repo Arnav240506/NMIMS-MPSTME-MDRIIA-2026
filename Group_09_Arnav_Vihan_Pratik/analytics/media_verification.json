@@ -1,0 +1,65 @@
+{
+  "status": "PASS",
+  "source_comparison_mean_pixel_errors": [
+    1.3818467881944445,
+    1.393146339699074
+  ],
+  "videos": [
+    {
+      "path": "analytics\\demo_runs\\m20_walk\\robot_3d.mp4",
+      "decoded_frames": 120,
+      "fps": 10.0,
+      "duration_s": 12.0,
+      "shape": [
+        720,
+        1280,
+        3
+      ]
+    },
+    {
+      "path": "analytics\\demo_runs\\m20_mission\\robot_3d.mp4",
+      "decoded_frames": 594,
+      "fps": 10.0,
+      "duration_s": 59.4,
+      "shape": [
+        720,
+        1280,
+        3
+      ]
+    },
+    {
+      "path": "analytics\\demo_runs\\m20_walk\\hud.mp4",
+      "decoded_frames": 120,
+      "fps": 10.0,
+      "duration_s": 12.0,
+      "shape": [
+        800,
+        1280,
+        3
+      ]
+    },
+    {
+      "path": "analytics\\demo_runs\\m20_mission\\hud.mp4",
+      "decoded_frames": 594,
+      "fps": 10.0,
+      "duration_s": 59.4,
+      "shape": [
+        800,
+        1280,
+        3
+      ]
+    },
+    {
+      "path": "docs\\showcase\\M20_showcase.mp4",
+      "decoded_frames": 774,
+      "fps": 10.0,
+      "duration_s": 77.4,
+      "shape": [
+        720,
+        1280,
+        3
+      ]
+    }
+  ],
+  "interpretation": "Complete videos decoded; showcase walking and mission frames match native-rendered source clips within recompression tolerance. Six-second card is editorial text."
+}

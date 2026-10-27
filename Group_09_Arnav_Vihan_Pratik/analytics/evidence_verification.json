@@ -1,0 +1,720 @@
+{
+  "status": "PASS",
+  "actual_trials_checked": 100,
+  "source_sha256": "24a1c256abcc9a5bc3d0b38ecae3354d8a9f313ff8daf0e2b9c18daa8f7b2f96",
+  "current_source_sha256": "e492a29fd3f4c1029773d51940e3aaeedfe68e761b94a6bb9f7542e0cf26f1b9",
+  "historical_source": "benchmark/source_snapshot/M20 when historical digest differs from current source",
+  "checks": [
+    "Full M20 nq/nv/nu",
+    "Actual CSV-to-state identity",
+    "Monotonic 20 ms samples",
+    "Motor saturation",
+    "Primary acceptance recomputation",
+    "Measured map hit conservation",
+    "Climb liftoff/resupport flags",
+    "Matched scene XML identity",
+    "No missing trials"
+  ],
+  "trials": [
+    {
+      "trial_id": "00_flat_1000_baseline",
+      "rows": 641,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "7dc633c64609260e6616cf2ff05076ea33bbfc9fc7d5f66a891aa583d0e4da34"
+    },
+    {
+      "trial_id": "00_flat_1000_shared",
+      "rows": 638,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "98d092bc2da8409a430d174954f2f22f5a7e99cb73ca5dbdc54adfc61a1627ac"
+    },
+    {
+      "trial_id": "01_flat_1001_baseline",
+      "rows": 656,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "8a2903d4322e3fa57603681edf50e726394af423bec623b162b5c2529966aa3e"
+    },
+    {
+      "trial_id": "01_flat_1001_shared",
+      "rows": 638,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "98d092bc2da8409a430d174954f2f22f5a7e99cb73ca5dbdc54adfc61a1627ac"
+    },
+    {
+      "trial_id": "02_flat_1002_baseline",
+      "rows": 678,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "7af34767d4d485513d7ad32fbda9b808fee9ae75cfe6c0d9bc3f9569264a0949"
+    },
+    {
+      "trial_id": "02_flat_1002_shared",
+      "rows": 638,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "98d092bc2da8409a430d174954f2f22f5a7e99cb73ca5dbdc54adfc61a1627ac"
+    },
+    {
+      "trial_id": "03_flat_1003_baseline",
+      "rows": 698,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "9b9882711cfda892d03cb04cffddd958fb0526dc11f16a599e2469699a9818a4"
+    },
+    {
+      "trial_id": "03_flat_1003_shared",
+      "rows": 638,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "98d092bc2da8409a430d174954f2f22f5a7e99cb73ca5dbdc54adfc61a1627ac"
+    },
+    {
+      "trial_id": "04_flat_1004_baseline",
+      "rows": 641,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "7dc633c64609260e6616cf2ff05076ea33bbfc9fc7d5f66a891aa583d0e4da34"
+    },
+    {
+      "trial_id": "04_flat_1004_shared",
+      "rows": 638,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "98d092bc2da8409a430d174954f2f22f5a7e99cb73ca5dbdc54adfc61a1627ac"
+    },
+    {
+      "trial_id": "05_flat_1005_baseline",
+      "rows": 656,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "8a2903d4322e3fa57603681edf50e726394af423bec623b162b5c2529966aa3e"
+    },
+    {
+      "trial_id": "05_flat_1005_shared",
+      "rows": 638,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "98d092bc2da8409a430d174954f2f22f5a7e99cb73ca5dbdc54adfc61a1627ac"
+    },
+    {
+      "trial_id": "06_flat_1006_baseline",
+      "rows": 678,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "7af34767d4d485513d7ad32fbda9b808fee9ae75cfe6c0d9bc3f9569264a0949"
+    },
+    {
+      "trial_id": "06_flat_1006_shared",
+      "rows": 638,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "98d092bc2da8409a430d174954f2f22f5a7e99cb73ca5dbdc54adfc61a1627ac"
+    },
+    {
+      "trial_id": "07_flat_1007_baseline",
+      "rows": 698,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "9b9882711cfda892d03cb04cffddd958fb0526dc11f16a599e2469699a9818a4"
+    },
+    {
+      "trial_id": "07_flat_1007_shared",
+      "rows": 638,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "98d092bc2da8409a430d174954f2f22f5a7e99cb73ca5dbdc54adfc61a1627ac"
+    },
+    {
+      "trial_id": "08_flat_1008_baseline",
+      "rows": 641,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "7dc633c64609260e6616cf2ff05076ea33bbfc9fc7d5f66a891aa583d0e4da34"
+    },
+    {
+      "trial_id": "08_flat_1008_shared",
+      "rows": 638,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "98d092bc2da8409a430d174954f2f22f5a7e99cb73ca5dbdc54adfc61a1627ac"
+    },
+    {
+      "trial_id": "09_flat_1009_baseline",
+      "rows": 656,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "8a2903d4322e3fa57603681edf50e726394af423bec623b162b5c2529966aa3e"
+    },
+    {
+      "trial_id": "09_flat_1009_shared",
+      "rows": 638,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "98d092bc2da8409a430d174954f2f22f5a7e99cb73ca5dbdc54adfc61a1627ac"
+    },
+    {
+      "trial_id": "10_climb_1010_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "284fc377e90cada660d881a7e2def91dfe28b8914d11677f6cc2b8030121df1d"
+    },
+    {
+      "trial_id": "10_climb_1010_shared",
+      "rows": 1393,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "2b696dfc22c4079524a169c6c0c47c2f7443c115cb321ebcefb60ea6c874d13f"
+    },
+    {
+      "trial_id": "11_climb_1011_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "0837ab35c0dfe31491fe9aa169bf83255490dfe29bafcf1a3d408b0156d73f16"
+    },
+    {
+      "trial_id": "11_climb_1011_shared",
+      "rows": 1399,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "9e9a0edcbad7ed1c5b9195e4e48d6866de787f93b9e1e4cedeac7da8d1d7188b"
+    },
+    {
+      "trial_id": "12_climb_1012_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "e92512efe33b20693a3cb23b2abb348d888e37849aa086c2744e5c2684db8ff0"
+    },
+    {
+      "trial_id": "12_climb_1012_shared",
+      "rows": 1392,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "cb6a40298e32be03f45f318f044ecd6d64d458f08a6f88a7bd2ba9138d3f6aa8"
+    },
+    {
+      "trial_id": "13_climb_1013_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "3464ed470966f85c303a31428034823ebec16a045f644bdf4e0f6c85e7cc203e"
+    },
+    {
+      "trial_id": "13_climb_1013_shared",
+      "rows": 1402,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "24c1a4b4c49bd758e49fc01f059291cafbed2034fe10a15ae4d2cffe02e19528"
+    },
+    {
+      "trial_id": "14_climb_1014_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "d5b356c266a2d443d71496783c7c98e88c631177ee366344e75284ce9ed2ac84"
+    },
+    {
+      "trial_id": "14_climb_1014_shared",
+      "rows": 1400,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "2de45570f7502878a1b218125cf13e61efb3ecee8bd982a997a3b95b1ba86a92"
+    },
+    {
+      "trial_id": "15_climb_1015_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "f23f759734b528444af15943adef09e413e3d4f85acce73d3e8bd93c29f90f52"
+    },
+    {
+      "trial_id": "15_climb_1015_shared",
+      "rows": 1395,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "f6f5fa13b6b4456545530da063f6c909dc7726ca7513aa61cb3b8c405748b833"
+    },
+    {
+      "trial_id": "16_climb_1016_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "6da4ba9e7c650b3be5d354dbaf243c303f64be4a6d8d384db9ade8fbf6b44716"
+    },
+    {
+      "trial_id": "16_climb_1016_shared",
+      "rows": 1409,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "3782e172fd7b0de3fcd00c81cb681d31f99834fa1b7232be12fa57ea7165a94f"
+    },
+    {
+      "trial_id": "17_climb_1017_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "855484aab72413d57535bb56c23029584f072e16bca9857a9aeb4e70b8dece1d"
+    },
+    {
+      "trial_id": "17_climb_1017_shared",
+      "rows": 1393,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "45b9977bca69fa1d9090c3bf9dc5bfb171a255116d4a178901821c018170459c"
+    },
+    {
+      "trial_id": "18_climb_1018_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "a781b3ed3372be80f42d1dcf5a92318c29037ab0e86702f569356769fb82dffa"
+    },
+    {
+      "trial_id": "18_climb_1018_shared",
+      "rows": 1395,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "6178de17b00b94ccafcbcecb4d51b1e73c2ffa243c58e9755227f76cbec1dc12"
+    },
+    {
+      "trial_id": "19_climb_1019_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "c34bf71cdfa6d8c246a62383deb635a8c444ebb245237942e2fe2cbd76965032"
+    },
+    {
+      "trial_id": "19_climb_1019_shared",
+      "rows": 1392,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "6cb9e07aa241233219f14c64a47940b51a879a64b6efd5186940818cc66c4ada"
+    },
+    {
+      "trial_id": "20_climb_1020_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "dde816081da665ec9c7b8a45628d4cd9d6ae3f6036d68fb8e4a2c6b168c1f6d5"
+    },
+    {
+      "trial_id": "20_climb_1020_shared",
+      "rows": 1396,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "cdc5dd0b056af1a48a1e3a9c210c1ea14e55389fba4e773402e04767671c24b2"
+    },
+    {
+      "trial_id": "21_climb_1021_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "62ee86533653fa6d55a535ec3f52dea2751dc7cb9728a8130dfd9d52c0f1b809"
+    },
+    {
+      "trial_id": "21_climb_1021_shared",
+      "rows": 1393,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "911954e0c6fda01e8ec50c34aad157e24499551a56f860bcdf3ad22ef1ffac7b"
+    },
+    {
+      "trial_id": "22_climb_1022_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "70444d148d9c3f22905e8c1bfb29dfd19003ee76e66ebbbdcf51c7c47606ef7a"
+    },
+    {
+      "trial_id": "22_climb_1022_shared",
+      "rows": 1394,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "1e9edd53ee2b243dcc05fd4909ee33c812981dab8e961bd0f823bf1d09567b96"
+    },
+    {
+      "trial_id": "23_climb_1023_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "42457c989979c42889679c76531665fa49b5e8deff97ffbbca8b2ad1b4cef87f"
+    },
+    {
+      "trial_id": "23_climb_1023_shared",
+      "rows": 1396,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "5662b40b3d4b71cc07f480a4ac17fa16912f8be82cf52ef9903974d340d4d5e5"
+    },
+    {
+      "trial_id": "24_climb_1024_baseline",
+      "rows": 2250,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "9f193278af4391e1c2266f91c27a2191c940f9297f63cefc8c612b222a077d6f"
+    },
+    {
+      "trial_id": "24_climb_1024_shared",
+      "rows": 1393,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "aa9982741ffd1e09a6d5b5fe57e620ddec97829b0a63ef2f9c8c6c760cde8d17"
+    },
+    {
+      "trial_id": "25_avoid_1025_baseline",
+      "rows": 2750,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "e82791138786a2f72d4904426c0a8069d2f38439e949267a7489a032237a9a5e"
+    },
+    {
+      "trial_id": "25_avoid_1025_shared",
+      "rows": 1376,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "c33e88c2ed6380e2c86752b3f2d00b2374e6269a1550d26a14a9c50c666c9051"
+    },
+    {
+      "trial_id": "26_avoid_1026_baseline",
+      "rows": 2750,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "3bdbd2b1d27a3a2c96f6dbdfc91c3f970936985c92f5cc11652d7373a332a5ca"
+    },
+    {
+      "trial_id": "26_avoid_1026_shared",
+      "rows": 1265,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "7186361cb49b671772c68b925264d0a87a2db4938b36e6172c15a37f345f19ec"
+    },
+    {
+      "trial_id": "27_avoid_1027_baseline",
+      "rows": 1750,
+      "status": "goal_with_safety_violation",
+      "accepted": false,
+      "telemetry_sha256": "e0a1bbc5f7ae8a30ee4768ae9e679043be046a9cc5cf69574eb79b3502a530b3"
+    },
+    {
+      "trial_id": "27_avoid_1027_shared",
+      "rows": 1316,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "cc6e20887356f2cb0d0bc752ac2ea1451512e90a045aed247f2a35e26cddb184"
+    },
+    {
+      "trial_id": "28_avoid_1028_baseline",
+      "rows": 2750,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "032099c5600f5c6a2a4ba2c630b62ad5f9ffd600d1b65931b71888eacb56a845"
+    },
+    {
+      "trial_id": "28_avoid_1028_shared",
+      "rows": 1342,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "305ddc329ac67c8e25b8840baaff777a1084c5173a636417af2861ec72777069"
+    },
+    {
+      "trial_id": "29_avoid_1029_baseline",
+      "rows": 2750,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "ca88f7bd6bc233b9d3a24cf8ca2d2f8a7ac915d0a2b7d023cbb423c23d813047"
+    },
+    {
+      "trial_id": "29_avoid_1029_shared",
+      "rows": 1260,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "8500baef73248ba2fc438bab14d111d5a1b5d9033231ae6b40739c5f1ae93ff5"
+    },
+    {
+      "trial_id": "30_avoid_1030_baseline",
+      "rows": 2750,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "6b4d367597ef8bad1bfbb649526c1ee83dcccbe01fc731b2c57dc6bf4ccdf6ce"
+    },
+    {
+      "trial_id": "30_avoid_1030_shared",
+      "rows": 1358,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "cf345c9a4353f73eff5dd87284dbf8b3b75453d56fb12f7667eec1e5dafc1e46"
+    },
+    {
+      "trial_id": "31_avoid_1031_baseline",
+      "rows": 2693,
+      "status": "goal_with_safety_violation",
+      "accepted": false,
+      "telemetry_sha256": "8f54358a31eac841dbf88c410ec1005f17ef6615589ce1a937518b70c4172eb4"
+    },
+    {
+      "trial_id": "31_avoid_1031_shared",
+      "rows": 1196,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "2bf8f45ba2035cf0f12fb516b2dc93214feb3a1df1da673dfab1d78c3d142fd0"
+    },
+    {
+      "trial_id": "32_avoid_1032_baseline",
+      "rows": 2750,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "3137fd50570c52695934916869923b61757e2d75ad3756a933d50c02ee3f666e"
+    },
+    {
+      "trial_id": "32_avoid_1032_shared",
+      "rows": 1357,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "d70bf84ce86c1c5389b5271a865ab3eeb73f9401344c768b7cca1469dcca5183"
+    },
+    {
+      "trial_id": "33_avoid_1033_baseline",
+      "rows": 2750,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "40284129fe987df5801260edb2916d8246772f7795a4d0a42c95f1ee40b24591"
+    },
+    {
+      "trial_id": "33_avoid_1033_shared",
+      "rows": 1422,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "137a626299e111e4f1d00d0b6b7f9fd0dbc7864fbd3d6d4db233f53c8d924ae3"
+    },
+    {
+      "trial_id": "34_avoid_1034_baseline",
+      "rows": 1925,
+      "status": "goal_with_safety_violation",
+      "accepted": false,
+      "telemetry_sha256": "cdf4ff15ee95e98503a2ca4bced5c32f1ced427eb1d25d3710f8e74d69e67124"
+    },
+    {
+      "trial_id": "34_avoid_1034_shared",
+      "rows": 1313,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "db8daedc8ef225c32ef9629f850ebac6950bfbe83f6ba6d685af2c6c109b89b6"
+    },
+    {
+      "trial_id": "35_avoid_1035_baseline",
+      "rows": 2750,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "6031ddb1cfa24e3eb82a0991f1c7c75726f23a489cab65b3e714dd2f8a0b4811"
+    },
+    {
+      "trial_id": "35_avoid_1035_shared",
+      "rows": 1209,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "c4f1f1794aec711d7718cdc3d1e5da8a8d8847f4194f7e911e00c5d91f14577a"
+    },
+    {
+      "trial_id": "36_avoid_1036_baseline",
+      "rows": 2750,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "00499e464b8028242cec2021fd0c6cc0085d86f2b6c5a7fc4b50ec9bcf952de4"
+    },
+    {
+      "trial_id": "36_avoid_1036_shared",
+      "rows": 1222,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "af547ed83515c31e590e133d24152a16fb8f2eca02a304a83029f18c0580e84d"
+    },
+    {
+      "trial_id": "37_avoid_1037_baseline",
+      "rows": 2750,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "fd504100b2383c8980964cac993b683531e3504f3f5cccb754a0c61d2a9dbfc2"
+    },
+    {
+      "trial_id": "37_avoid_1037_shared",
+      "rows": 1547,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "41702173b9fa1b74bd82fc149df3f60547e2c438f085f66062a3e871c213c65f"
+    },
+    {
+      "trial_id": "38_avoid_1038_baseline",
+      "rows": 2750,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "f6c74d300b50c8b9fe35446911e73668a0137f754518f5911504443dca8f3852"
+    },
+    {
+      "trial_id": "38_avoid_1038_shared",
+      "rows": 1286,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "c683a0ed74b70729d357b23af14e5acbdd271d0b7d4b9f386e38a015cf3d0b09"
+    },
+    {
+      "trial_id": "39_avoid_1039_baseline",
+      "rows": 2279,
+      "status": "goal_with_safety_violation",
+      "accepted": false,
+      "telemetry_sha256": "9f3cbe4ff17b28af6524cc71e638564a103946a2317ca346e7eba31746a7b417"
+    },
+    {
+      "trial_id": "39_avoid_1039_shared",
+      "rows": 1310,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "b49fc3d24bc3401ae325fd752dffa8e942982c40427b36713b1704daa6983686"
+    },
+    {
+      "trial_id": "40_mission_1040_baseline",
+      "rows": 4000,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "35f407f1632b45e16bb9f8844a09b2eb1e2872999e3467a80bb815975e296f14"
+    },
+    {
+      "trial_id": "40_mission_1040_shared",
+      "rows": 3020,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "479dd4602dbc2825778783753dff94e226bb703c0f6d68ea4a95b71ce8681048"
+    },
+    {
+      "trial_id": "41_mission_1041_baseline",
+      "rows": 4000,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "05ba2fdbcb546275490325a5ab7227d584e38dc3226a957b2fc55d8f05b42730"
+    },
+    {
+      "trial_id": "41_mission_1041_shared",
+      "rows": 3512,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "b5f9f07d2d24368f98588f3b4cef37a90e1919cdbed46018381085f007589523"
+    },
+    {
+      "trial_id": "42_mission_1042_baseline",
+      "rows": 4000,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "270e69311856b5c94cbad75f0ef0bedcb85706e2427f043f808bb8ec6b73f9a4"
+    },
+    {
+      "trial_id": "42_mission_1042_shared",
+      "rows": 2927,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "df80299298566ed5b1074c5cf24d37b1dad3aeaad14ebbb5acd43bd4ced279d5"
+    },
+    {
+      "trial_id": "43_mission_1043_baseline",
+      "rows": 4000,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "c4caa2f80297906060d0969a01f05645cb245a35f93e3dea46a2fd407c2d325a"
+    },
+    {
+      "trial_id": "43_mission_1043_shared",
+      "rows": 4000,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "0c102acb195171ebae899dfcf6c06297c8e9e724c552820b16adf5c6332069a9"
+    },
+    {
+      "trial_id": "44_mission_1044_baseline",
+      "rows": 4000,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "6383e13c4cd389c31ae185048967c0a3e9348a30e490f7e5af0f6d68876d72dc"
+    },
+    {
+      "trial_id": "44_mission_1044_shared",
+      "rows": 2847,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "7335417a61b43c9506588e895888b26edd9eee93b74130f34cacbfbe5f379e4b"
+    },
+    {
+      "trial_id": "45_mission_1045_baseline",
+      "rows": 4000,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "f49b48f8380931bca1f9c690da28208b0fc88350cadf03a0dc21118fd96145a9"
+    },
+    {
+      "trial_id": "45_mission_1045_shared",
+      "rows": 3490,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "f27d826a624c1b9cbef172d28608f02c0ce95ae1587e824459a92d146e55c272"
+    },
+    {
+      "trial_id": "46_mission_1046_baseline",
+      "rows": 4000,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "d4c7883c6dfe2cc066ab7e335a85dad2c75bd33f76d100e1bda05811f3f9a11d"
+    },
+    {
+      "trial_id": "46_mission_1046_shared",
+      "rows": 3214,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "10707f55c518617351ca9811d8781c9818a310382da957b6e40a99a6471122e2"
+    },
+    {
+      "trial_id": "47_mission_1047_baseline",
+      "rows": 4000,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "8512224e214878f21400ab265c2ed48b1c7ef7433af422344e28e8e785ec75c5"
+    },
+    {
+      "trial_id": "47_mission_1047_shared",
+      "rows": 3213,
+      "status": "goal",
+      "accepted": true,
+      "telemetry_sha256": "c628a9310108c7a34e95c0611a5dd9bf0fab0b85d615c0e958bf652bf834a3e2"
+    },
+    {
+      "trial_id": "48_blocked_1048_baseline",
+      "rows": 1100,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "fbc1d9e53eae075f13a6b5c8a3e40a2117cfcbc18f5158c09933f5d9ac1561f9"
+    },
+    {
+      "trial_id": "48_blocked_1048_shared",
+      "rows": 1100,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "8a3efeecfac169b7ad4353e94db96c5fe87e889edb8d4ce2eff78fdb537f7e4c"
+    },
+    {
+      "trial_id": "49_blocked_1049_baseline",
+      "rows": 1100,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "63cb4d12fbece181c9a4da2105f3ba9e0be75455403ca559874bb2a66ad70c3c"
+    },
+    {
+      "trial_id": "49_blocked_1049_shared",
+      "rows": 1100,
+      "status": "timeout",
+      "accepted": false,
+      "telemetry_sha256": "109c5a8db9ed91ad47ceae52bcc8fcaf8452c7f7e733ca4457eedb737fc0230b"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "rate_hz": 500.0,
+  "sample_timing": "Post-step pose/velocity; actuator force over the preceding 2 ms step",
+  "reference": "Fixed offline A* collision-map polyline with docking point; evaluation only, never controller input",
+  "metric": "Nearest-segment XY cross-track RMSE after 2.4 s; different run durations and failure rates must also be reported",
+  "path_m": [
+    [
+      0.0,
+      0.008436264493225196
+    ],
+    [
+      0.02500000000000102,
+      0.07499999999998774
+    ],
+    [
+      0.9750000000000021,
+      1.0249999999999844
+    ],
+    [
+      2.275000000000003,
+      1.0249999999999844
+    ],
+    [
+      3.0750000000000037,
+      0.2249999999999872
+    ],
+    [
+      3.0750000000000037,
+      -0.37500000000001066
+    ],
+    [
+      3.8250000000000046,
+      -1.125000000000008
+    ],
+    [
+      4.775000000000006,
+      -1.125000000000008
+    ],
+    [
+      5.575000000000006,
+      -0.32500000000001084
+    ],
+    [
+      5.575000000000006,
+      0.27499999999998703
+    ],
+    [
+      6.325000000000007,
+      1.0249999999999844
+    ],
+    [
+      7.725000000000008,
+      1.0249999999999844
+    ],
+    [
+      8.75,
+      0.0
+    ],
+    [
+      8.775000000000007,
+      0.02499999999998792
+    ],
+    [
+      13.475000000000012,
+      0.02499999999998792
+    ],
+    [
+      13.5,
+      0.0
+    ]
+  ],
+  "inflation_m": 0.7,
+  "actuator_names": [
+    "fl_hipx_joint",
+    "fl_hipy_joint",
+    "fl_knee_joint",
+    "fl_wheel_joint",
+    "fr_hipx_joint",
+    "fr_hipy_joint",
+    "fr_knee_joint",
+    "fr_wheel_joint",
+    "hl_hipx_joint",
+    "hl_hipy_joint",
+    "hl_knee_joint",
+    "hl_wheel_joint",
+    "hr_hipx_joint",
+    "hr_hipy_joint",
+    "hr_knee_joint",
+    "hr_wheel_joint"
+  ],
+  "column_units": "SI; actuator torque N m; effort (N m)^2 s; time s",
+  "run_id": "04_31002_baseline",
+  "seed": 31002,
+  "source_of_samples": "Actual mj_step state and actuator_force",
+  "numeric_serialization": "Time and dt fixed 6 decimals; measured numeric channels 9 significant digits",
+  "max_rows_per_csv": 20000,
+  "samples": 90000,
+  "files": [
+    {
+      "path": "001_real_trials.csv",
+      "sha256": "b2894cb7fc9f116e1ea163e577a94f5800ed38f51c29784332cd4a85e28557af",
+      "bytes": 10272034
+    },
+    {
+      "path": "002_real_trials.csv",
+      "sha256": "3b14fedae7c0d24f4f9c8533e2a3aa17c4ee00c0e61024071950c1ffecaaa967",
+      "bytes": 10263749
+    },
+    {
+      "path": "003_real_trials.csv",
+      "sha256": "500542d6a8882cca4ff54548af61f75a3a122463d2c0e7f5ebeecb4b343ee484",
+      "bytes": 10273139
+    },
+    {
+      "path": "004_real_trials.csv",
+      "sha256": "5d9a7bd3383c529bd1b36754537ece512c9a5ea95f111e76e56b2aae9db52e31",
+      "bytes": 10282701
+    },
+    {
+      "path": "005_real_trials.csv",
+      "sha256": "f53259f8ff249cfc2304756f7b970c2368a8e2d2c1b2ed609034d57b57b5e015",
+      "bytes": 5141139
+    }
+  ],
+  "tracking_samples": 88800,
+  "tracking_rmse_m": 0.4564845598629503,
+  "control_effort_Nm2_s": 851208.4489456646,
+  "navigation_control_effort_Nm2_s": 844914.9114214244
+}

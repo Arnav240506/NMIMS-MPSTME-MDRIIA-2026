@@ -1,0 +1,12 @@
+{
+  "source_trial": "00_course_climb_42_shared",
+  "state_sample_index": 4171,
+  "time_s": 83.42199999998698,
+  "rear_wheel_centres_z_m": [
+    0.16072524671632266,
+    0.1620259552875879
+  ],
+  "both_rear_contacts_zero": true,
+  "state_sha256": "d3c4fcc0a4ed9d3d4ab1edac410f78a91cdd179826e656fbf68a95d33826035e",
+  "rendering": "Single native MuJoCo rendering of an actual recorded state, not a new physical trial"
+}

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "reviewed_pages": 22,
+  "actual_powershell_command_blocks": 45,
+  "non_command_examples_excluded": 3,
+  "docx_sha256": "d72f9e8e5aa651277a897262bb470ac9759175ed0f28d104a79fb6ad83079045",
+  "ooxml_zip_crc": "PASS",
+  "rendering": "Word COM PDF export and Poppler PNGs; render_docx unavailable because LibreOffice is absent",
+  "visual_review": "All 22 pages inspected; no clipping or overflowing tables; matching original guide style",
+  "course_results": "6/6 shared-controller checks passed both climbs with zero harmful contact steps; seed42 121.394s",
+  "client_date": "2026-10-26",
+  "setup_portability_note": "Explicit -Python path supported for unregistered CPython 3.12; updated page4 visually inspected; all other rendered pages byte-identical to prior inspected pages",
+  "scope": "HISTORICAL receipt; final artifacts superseded. See capstone_document_qa.json."
+}

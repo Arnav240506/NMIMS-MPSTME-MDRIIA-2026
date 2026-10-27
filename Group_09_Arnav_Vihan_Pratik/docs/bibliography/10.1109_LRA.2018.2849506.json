@@ -1,0 +1,315 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2026-10-21T16:15:51Z",
+      "timestamp": 1792599351297,
+      "version": "4.5.0"
+    },
+    "reference-count": 20,
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2018-10-01T00:00:00Z",
+          "timestamp": 1538352000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100011021",
+        "name": "National Centre of Competence in Research Robotics",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100011021",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "IEEE Robot. Autom. Lett."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1109/lra.2018.2849506",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          21
+        ]
+      ],
+      "date-time": "2018-06-21T14:54:41Z",
+      "timestamp": 1529592881000
+    },
+    "page": "3019-3026",
+    "source": "Crossref",
+    "is-referenced-by-count": 286,
+    "title": [
+      "Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization"
+    ],
+    "prefix": "10.1109",
+    "volume": "3",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1311-4010",
+        "authenticated-orcid": false,
+        "given": "Peter",
+        "family": "Fankhauser",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2171-696X",
+        "authenticated-orcid": false,
+        "given": "Michael",
+        "family": "Bloesch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4285-4990",
+        "authenticated-orcid": false,
+        "given": "Marco",
+        "family": "Hutter",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ROBOT.1989.100111"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/34.121795"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ROBOT.2010.5509226"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/rob.20208"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1142/9789814623353_0051"
+      },
+      {
+        "key": "ref15",
+        "article-title": "A primer on the differential calculus of 3D\n Orientations",
+        "author": "bloesch",
+        "year": "2016"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICAR.2015.7251485"
+      },
+      {
+        "key": "ref17",
+        "author": "hogg",
+        "year": "2005",
+        "journal-title": "Introduction to Mathematical Statistics"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-26054-9_5"
+      },
+      {
+        "key": "ref19",
+        "article-title": "Perceptive locomotion for legged robots in rough terrain",
+        "author": "fankhauser",
+        "year": "2018"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01691864.2017.1378591"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IROS.2013.6697236"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ROBIO.2012.6491052"
+      },
+      {
+        "key": "ref5",
+        "article-title": "Robust rough-terrain locomotion with a quadrupedal robot",
+        "author": "fankhauser",
+        "year": "2018",
+        "journal-title": "Proc IEEE Int Conf Robot Automat"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICRA.2017.7989131"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1142/9789814291279_0072"
+      },
+      {
+        "key": "ref2",
+        "article-title": "Robotic mapping: A Survey",
+        "author": "thrun",
+        "year": "2002",
+        "journal-title": "Exploring Artificial Intelligence in the New Millennium"
+      },
+      {
+        "key": "ref1",
+        "first-page": "467",
+        "article-title": "A\n stochastic map for uncertain spatial relationships",
+        "author": "smith",
+        "year": "1987",
+        "journal-title": "Proc Int Symp Robot Res"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10514-015-9479-3"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1142/9789814415958_0062"
+      }
+    ],
+    "container-title": [
+      "IEEE Robotics and Automation Letters"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx7/7083369/8386768/08392399.pdf?arnumber=8392399",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          12
+        ]
+      ],
+      "date-time": "2022-01-12T11:22:40Z",
+      "timestamp": 1641986560000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/8392399/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          10
+        ]
+      ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+      "issue": "4"
+    },
+    "URL": "https://doi.org/10.1109/lra.2018.2849506",
+    "relation": {},
+    "ISSN": [
+      "2377-3766",
+      "2377-3774"
+    ],
+    "issn-type": [
+      {
+        "value": "2377-3766",
+        "type": "electronic"
+      },
+      {
+        "value": "2377-3774",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          10
+        ]
+      ]
+    }
+  }
+}

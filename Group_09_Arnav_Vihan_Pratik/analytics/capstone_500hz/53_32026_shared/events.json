@@ -1,0 +1,417 @@
+[
+  {
+    "time_s": 0.0,
+    "kind": "decision",
+    "reason": "wakeup"
+  },
+  {
+    "time_s": 0.002,
+    "kind": "phase",
+    "phase": "WAKEUP",
+    "xyz_m": [
+      2.538961215737398e-08,
+      0.004004266409682864,
+      0.3940905507615577
+    ]
+  },
+  {
+    "time_s": 2.419999999999955,
+    "kind": "decision",
+    "reason": "obstacle_slow"
+  },
+  {
+    "time_s": 2.421999999999955,
+    "kind": "phase",
+    "phase": "DETOUR_NAV",
+    "xyz_m": [
+      -0.0005997852451451309,
+      0.003981340968898609,
+      0.5253296641534202
+    ]
+  },
+  {
+    "time_s": 3.899999999999792,
+    "kind": "decision",
+    "reason": "local_route"
+  },
+  {
+    "time_s": 7.679999999999376,
+    "kind": "decision",
+    "reason": "obstacle_slow"
+  },
+  {
+    "time_s": 10.180000000000069,
+    "kind": "decision",
+    "reason": "local_route"
+  },
+  {
+    "time_s": 11.220000000000416,
+    "kind": "decision",
+    "reason": "obstacle_slow"
+  },
+  {
+    "time_s": 13.020000000001017,
+    "kind": "decision",
+    "reason": "local_route"
+  },
+  {
+    "time_s": 17.220000000001335,
+    "kind": "decision",
+    "reason": "obstacle_slow"
+  },
+  {
+    "time_s": 21.73999999999883,
+    "kind": "decision",
+    "reason": "local_route"
+  },
+  {
+    "time_s": 27.579999999995593,
+    "kind": "decision",
+    "reason": "obstacle_slow"
+  },
+  {
+    "time_s": 29.919999999994296,
+    "kind": "decision",
+    "reason": "local_route"
+  },
+  {
+    "time_s": 31.439999999993454,
+    "kind": "decision",
+    "reason": "obstacle_slow"
+  },
+  {
+    "time_s": 33.25999999999468,
+    "kind": "decision",
+    "reason": "local_route"
+  },
+  {
+    "time_s": 36.49999999999864,
+    "kind": "decision",
+    "reason": "obstacle_slow"
+  },
+  {
+    "time_s": 41.34000000000456,
+    "kind": "decision",
+    "reason": "local_route"
+  },
+  {
+    "time_s": 46.44000000001079,
+    "kind": "decision",
+    "reason": "obstacle_slow"
+  },
+  {
+    "time_s": 48.78000000001365,
+    "kind": "decision",
+    "reason": "local_route"
+  },
+  {
+    "time_s": 50.6200000000159,
+    "kind": "decision",
+    "reason": "obstacle_slow"
+  },
+  {
+    "time_s": 52.96000000001876,
+    "kind": "decision",
+    "reason": "local_route"
+  },
+  {
+    "time_s": 62.80200000003079,
+    "kind": "phase",
+    "phase": "CRUISE_MAP",
+    "xyz_m": [
+      8.438586208536606,
+      0.4561178566878159,
+      0.5295282296445405
+    ]
+  },
+  {
+    "time_s": 64.20000000003178,
+    "kind": "decision",
+    "reason": "post_detour_alignment"
+  },
+  {
+    "time_s": 64.20200000003177,
+    "kind": "phase",
+    "phase": "DOCK_ALIGN",
+    "xyz_m": [
+      8.667805056954963,
+      0.13489663403426597,
+      0.5283647826370022
+    ]
+  },
+  {
+    "time_s": 70.46000000001719,
+    "kind": "decision",
+    "reason": "measured_step_climb"
+  },
+  {
+    "time_s": 70.46200000001718,
+    "kind": "phase",
+    "phase": "APPROACH",
+    "xyz_m": [
+      8.667128384669425,
+      0.12973117886811078,
+      0.5260710333625034
+    ]
+  },
+  {
+    "time_s": 70.48000000001714,
+    "kind": "decision",
+    "reason": "paired_climb"
+  },
+  {
+    "time_s": 72.84200000001164,
+    "kind": "phase",
+    "phase": "PACK_REAR_STANCE",
+    "xyz_m": [
+      8.87268416326938,
+      0.12488243676968558,
+      0.5230803515790652
+    ]
+  },
+  {
+    "time_s": 74.64200000000744,
+    "kind": "phase",
+    "phase": "SHIFT_TO_REAR",
+    "xyz_m": [
+      8.862909564127188,
+      0.12226426178707617,
+      0.5236309352581506
+    ]
+  },
+  {
+    "time_s": 76.64200000000278,
+    "kind": "phase",
+    "phase": "FRONT_PAIR_STEP",
+    "xyz_m": [
+      8.624217257800494,
+      0.11919915104972792,
+      0.3207979202716221
+    ]
+  },
+  {
+    "time_s": 77.64200000000045,
+    "kind": "phase",
+    "phase": "TORSO_RISE",
+    "xyz_m": [
+      8.63375538694373,
+      0.11769349542029164,
+      0.33349562834361357
+    ]
+  },
+  {
+    "time_s": 79.64199999999579,
+    "kind": "phase",
+    "phase": "BODY_ADVANCE",
+    "xyz_m": [
+      9.036012799884917,
+      0.1239740317141376,
+      0.5602256824006705
+    ]
+  },
+  {
+    "time_s": 83.8019999999861,
+    "kind": "phase",
+    "phase": "SHIFT_TO_FRONT",
+    "xyz_m": [
+      9.49953357697625,
+      0.11504510671531765,
+      0.5625602979662564
+    ]
+  },
+  {
+    "time_s": 85.80199999998143,
+    "kind": "phase",
+    "phase": "REAR_PAIR_STEP",
+    "xyz_m": [
+      9.879712753993358,
+      0.1177475418580389,
+      0.4327454721708576
+    ]
+  },
+  {
+    "time_s": 86.82199999997906,
+    "kind": "phase",
+    "phase": "SETTLE",
+    "xyz_m": [
+      9.71510810571125,
+      0.11435024177318337,
+      0.4424371818344168
+    ]
+  },
+  {
+    "time_s": 89.81999999997207,
+    "kind": "decision",
+    "reason": "post_climb_clearance"
+  },
+  {
+    "time_s": 89.82199999997206,
+    "kind": "phase",
+    "phase": "CLEAR_REAR_EDGE",
+    "xyz_m": [
+      9.658679073960371,
+      0.11079163602400408,
+      0.6019847791668977
+    ]
+  },
+  {
+    "time_s": 91.59999999996792,
+    "kind": "decision",
+    "reason": "local_route"
+  },
+  {
+    "time_s": 91.60199999996792,
+    "kind": "phase",
+    "phase": "CRUISE_MAP",
+    "xyz_m": [
+      9.901047568054882,
+      0.1080383819726286,
+      0.6017539066347083
+    ]
+  },
+  {
+    "time_s": 96.61999999995622,
+    "kind": "decision",
+    "reason": "post_detour_alignment"
+  },
+  {
+    "time_s": 96.62199999995622,
+    "kind": "phase",
+    "phase": "DOCK_ALIGN",
+    "xyz_m": [
+      11.409764931782352,
+      0.06575106899045433,
+      0.613988076886283
+    ]
+  },
+  {
+    "time_s": 101.11999999994573,
+    "kind": "decision",
+    "reason": "measured_step_climb"
+  },
+  {
+    "time_s": 101.12199999994573,
+    "kind": "phase",
+    "phase": "APPROACH",
+    "xyz_m": [
+      11.4090655326152,
+      0.060114974115687024,
+      0.6070353590195835
+    ]
+  },
+  {
+    "time_s": 101.13999999994569,
+    "kind": "decision",
+    "reason": "paired_climb"
+  },
+  {
+    "time_s": 103.78199999993953,
+    "kind": "phase",
+    "phase": "PACK_REAR_STANCE",
+    "xyz_m": [
+      11.671585431256986,
+      0.053715597846864756,
+      0.6045802397938954
+    ]
+  },
+  {
+    "time_s": 105.58199999993533,
+    "kind": "phase",
+    "phase": "SHIFT_TO_REAR",
+    "xyz_m": [
+      11.665216278211586,
+      0.05113408775958457,
+      0.6051088844321955
+    ]
+  },
+  {
+    "time_s": 107.58199999993067,
+    "kind": "phase",
+    "phase": "FRONT_PAIR_STEP",
+    "xyz_m": [
+      11.424821289834064,
+      0.047986948262245116,
+      0.40264527584641324
+    ]
+  },
+  {
+    "time_s": 108.6019999999283,
+    "kind": "phase",
+    "phase": "TORSO_RISE",
+    "xyz_m": [
+      11.436932831201062,
+      0.04631973231675591,
+      0.4145315592368034
+    ]
+  },
+  {
+    "time_s": 110.60199999992363,
+    "kind": "phase",
+    "phase": "BODY_ADVANCE",
+    "xyz_m": [
+      11.837241342416803,
+      0.0525444663993701,
+      0.6404148740263009
+    ]
+  },
+  {
+    "time_s": 114.76199999991394,
+    "kind": "phase",
+    "phase": "SHIFT_TO_FRONT",
+    "xyz_m": [
+      12.301108687386469,
+      0.04306780715407573,
+      0.6432658045069821
+    ]
+  },
+  {
+    "time_s": 116.76199999990928,
+    "kind": "phase",
+    "phase": "REAR_PAIR_STEP",
+    "xyz_m": [
+      12.680332951782603,
+      0.04597418910777075,
+      0.5126646054702505
+    ]
+  },
+  {
+    "time_s": 117.76199999990695,
+    "kind": "phase",
+    "phase": "SETTLE",
+    "xyz_m": [
+      12.51200056529559,
+      0.042809629271206164,
+      0.5217580575848139
+    ]
+  },
+  {
+    "time_s": 120.75999999989996,
+    "kind": "decision",
+    "reason": "post_climb_clearance"
+  },
+  {
+    "time_s": 120.76199999989996,
+    "kind": "phase",
+    "phase": "CLEAR_REAR_EDGE",
+    "xyz_m": [
+      12.45839630464118,
+      0.03808128041271204,
+      0.6819350149449359
+    ]
+  },
+  {
+    "time_s": 122.51999999989586,
+    "kind": "decision",
+    "reason": "local_route"
+  },
+  {
+    "time_s": 122.52199999989585,
+    "kind": "phase",
+    "phase": "PLATEAU_RECON",
+    "xyz_m": [
+      12.702106856822526,
+      0.03548816249577875,
+      0.6811612047647383
+    ]
+  }
+]
