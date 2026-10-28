@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "pages": 18,
+  "controls_preserved": 212,
+  "technical_fields_filled": 146,
+  "protected_fields_unchanged": 66,
+  "signature_cells_unchanged": 3,
+  "original_unrelated_parts_identical": true,
+  "dropdown_values_valid": true,
+  "docx_sha256": "ffc38796803af1d51607c4e0eaa1a110ce8b9a5e4fbdd50fb739cb4f5075c047",
+  "pdf_sha256": "97833e37925ba78d0cc982e32392a382a91b610b7c187ca18244dd92a3ff563a",
+  "scope": "HISTORICAL receipt; final artifacts superseded. See capstone_document_qa.json."
+}

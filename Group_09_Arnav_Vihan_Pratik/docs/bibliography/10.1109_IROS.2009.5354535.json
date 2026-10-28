@@ -1,0 +1,238 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ],
+      "date-time": "2026-10-01T12:19:20Z",
+      "timestamp": 1790857160781,
+      "version": "4.1.0"
+    },
+    "reference-count": 13,
+    "publisher": "IEEE",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1109/iros.2009.5354535",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          12,
+          18
+        ]
+      ],
+      "date-time": "2009-12-18T18:17:52Z",
+      "timestamp": 1261160272000
+    },
+    "page": "4571-4576",
+    "source": "Crossref",
+    "is-referenced-by-count": 102,
+    "title": [
+      "Stereo camera based navigation of mobile robots on rough terrain"
+    ],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "given": "Annett",
+        "family": "Chilian",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Heiko",
+        "family": "Hirschmuller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "13",
+        "first-page": "3310",
+        "article-title": "Optimal and efficient path planning for partially-known environments",
+        "author": "stentz",
+        "year": "1994",
+        "journal-title": "Proceedings of the IEEE International Conference on Robotics and Automation"
+      },
+      {
+        "key": "11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/AERO.1998.687920"
+      },
+      {
+        "key": "12",
+        "article-title": "Obstacle avoidance and safeguarding for a lunar rover",
+        "author": "simmons",
+        "year": "1998",
+        "journal-title": "Proc AIAA Forum on Advanced Developments in Space Robotics"
+      },
+      {
+        "key": "3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/AERO.2002.1035370"
+      },
+      {
+        "key": "2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ROBOT.1988.12144"
+      },
+      {
+        "key": "1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/AERO.2007.352683"
+      },
+      {
+        "key": "10",
+        "first-page": "823",
+        "article-title": "Reactive navigation through rough terrain: Experimental results",
+        "author": "miller",
+        "year": "1992",
+        "journal-title": "1992 National Conference on Artificial Intelligency"
+      },
+      {
+        "key": "7",
+        "author": "kelly",
+        "year": "1995",
+        "journal-title": "An Intelligent Predictive Control Approach to the High-Speed Cross-Country Autonomous Navigation Problem"
+      },
+      {
+        "key": "6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICARCV.2002.1238577"
+      },
+      {
+        "key": "5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1014554110407"
+      },
+      {
+        "key": "4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IROS.2008.4650655"
+      },
+      {
+        "key": "9",
+        "doi-asserted-by": "crossref",
+        "first-page": "292",
+        "DOI": "10.1109/ROBOT.1998.676401",
+        "article-title": "An autonomous path planner implemented on the Rocky7 prototype microrover",
+        "author": "laubach",
+        "year": "1998",
+        "journal-title": "IEEE Conference on Robotics and Automation"
+      },
+      {
+        "key": "8",
+        "first-page": "968",
+        "article-title": "Improved fast replanning for robot navigation in unknown terrain",
+        "author": "koenig",
+        "year": "2002",
+        "journal-title": "Proceedings of the International Conference on Robotics and Automation"
+      }
+    ],
+    "event": {
+      "name": "2009 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2009)",
+      "location": "St. Louis, MO",
+      "start": {
+        "date-parts": [
+          [
+            2009,
+            10,
+            10
+          ]
+        ]
+      },
+      "end": {
+        "date-parts": [
+          [
+            2009,
+            10,
+            15
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "2009 IEEE/RSJ International Conference on Intelligent Robots and Systems"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx5/5342790/5353884/05354535.pdf?arnumber=5354535",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2017-06-19T02:57:27Z",
+      "timestamp": 1497841047000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://ieeexplore.ieee.org/document/5354535/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          10
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.1109/iros.2009.5354535",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          10
+        ]
+      ]
+    }
+  }
+}

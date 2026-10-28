@@ -1,0 +1,415 @@
+[
+  {
+    "path": ".gitignore",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 421,
+    "crc32": "56227be4",
+    "sha256": "baabe8f5b231905e77c7afb1994f2ac3bee75e5ec573a924d863255a268fe41d"
+  },
+  {
+    "path": "ACADEMIC_AND_INDUSTRY_STANDARDS_MANUAL.md",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 5103,
+    "crc32": "d56ec3ad",
+    "sha256": "c44759fe76ef156a8a0e7362f3388c7b3cf2ba22794f55fda4240836c81fa95b"
+  },
+  {
+    "path": "BRANCHING_GUIDE.md",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 1020,
+    "crc32": "7f2ef864",
+    "sha256": "6f09fa09afdacf145d1b614fdd860f0ac8c5646a2b352b0317c91d399bbe0162"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 1080,
+    "crc32": "1bcabf59",
+    "sha256": "a330f62be2e8b4264489d43e60c3ec403dc18644eb5d90312899beaf61644c2c"
+  },
+  {
+    "path": "GRADING_RUBRIC_AND_EVALUATION_POLICY.md",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 4085,
+    "crc32": "aaae587d",
+    "sha256": "4b43647be83fcc2e11fef65fa957992dfa0fbc1489a6ddb7b55ba0581ba819b1"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/analytics/.gitkeep",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 0,
+    "crc32": "00000000",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/analytics/generate_paper_figures.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 10741,
+    "crc32": "583fdc00",
+    "sha256": "95aaeead4049b185faf7827501862dd11c059a5eadd93f12a07c4ba78d1b0678"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/analytics/hazardous_recon_economics.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 3113,
+    "crc32": "463cfb2e",
+    "sha256": "2e86387560783f07c0988bf20bd6de9590ff1e8c60773072afad6b016c5267bc"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/analytics/ugv_traversability_benchmark.csv",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 2829,
+    "crc32": "ab601069",
+    "sha256": "7a53e4f12044aee2f936251015db244984e61f2fa6fcc7f504bfdae0ed8db59e"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/docs/DEMO_AND_VIVA_CRIB_SHEET.md",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 10378,
+    "crc32": "03cd91f2",
+    "sha256": "31427987622f7bfca161e4d86a5d1b4909cce21f012dab1c7c32555ac79d25aa"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure1_system_architecture.png",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 204519,
+    "crc32": "22d67695",
+    "sha256": "89b9d929aa83a3ab48d1f185004866a615976ee849feea89252795b3e5a88b6b"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure2_kinematic_telemetry.png",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 539581,
+    "crc32": "d5b3f466",
+    "sha256": "e9ea0341b142ce5d0273e8a708d26c4ce214b010c3731813c15507326d69bf83"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure3_comparative_performance.png",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 290737,
+    "crc32": "913dfa6a",
+    "sha256": "128b348b0855d2ae2035b92884dbe6756a19bb4b1b096c140037bb489f21a434"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/figure4_m20_stabilization_telemetry.png",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 643427,
+    "crc32": "2b31e799",
+    "sha256": "11d9ffd6f5cdf2aeb0eab8181772486195102e7b71c528ab1964909b7fe5848f"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/docs/figures/video_poster.png",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 101732,
+    "crc32": "2cf30e2b",
+    "sha256": "5579cf543b5cca3ab9fd07ee4a51fba2f4456cc56f9d25771e413cc378b79f78"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/docs/LITERATURE_REVIEW_AND_FOUNDATIONAL_PAPERS.md",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 15899,
+    "crc32": "3a83f071",
+    "sha256": "6d5b771171c4df51227913f6fe3d00b3d34cc99f2ab3ff85f74e39371948e408"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/docs/RESEARCH_PAPER_MANUSCRIPT_BLUEPRINT.md",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 7893,
+    "crc32": "bd59ee71",
+    "sha256": "ac99fafe4aa519bc0d213e2282152fd6bc04cde762b93cbd11672f169a14ca53"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/docs/TEAM_ROSTER.json",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 4374,
+    "crc32": "cee47c77",
+    "sha256": "620d4466ed5c4553d55575dc8232f1707e9125f279fd35b0af12c784a17fb8f2"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/models/.gitkeep",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 0,
+    "crc32": "00000000",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/models/hazardous_terrain_ugv.xml",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 3767,
+    "crc32": "4f0c9b84",
+    "sha256": "1c7dc66adcdfdb7b6702d2a6c3076f50ab972f47a848d778497cde743e2a688d"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/README.md",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 10783,
+    "crc32": "693b3541",
+    "sha256": "eb7442445fe12280c4a59f214ba898233ff452b21cab6d28147c71d4551f12a3"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/RESEARCH_AND_IMPLEMENTATION_GUIDE.md",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 6506,
+    "crc32": "ffe97169",
+    "sha256": "267eeaa2d2cd4d932951a642f825dfd4336fcd3dca1d09a20676d0da738c7463"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/src/rough_terrain_recon_controller.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 13688,
+    "crc32": "57f6ef7c",
+    "sha256": "f913832818e2c2c88d6b815a81cdeffb8caaa94828ebccf83b507dce01bcfb66"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/src/run_sim_demo.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 11800,
+    "crc32": "aad49d2c",
+    "sha256": "bd21352e37b22076e0938f3e40d0291097d11d6f7fbce84fcc5ddd740d45ce87"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/src/test_env.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 1767,
+    "crc32": "4b3d5110",
+    "sha256": "8bb04774449e8bb40c8ce0b9ebca26b371ae65fc80d87b9c9dd46f7b49af0f3b"
+  },
+  {
+    "path": "Group_09_Arnav_Vihan_Pratik/src/test_ugv_climb.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 2472,
+    "crc32": "2c6c33dd",
+    "sha256": "e474c50e272ddb9de211600da01e6bc43d72e4cbe341fd372a3e844c694628c9"
+  },
+  {
+    "path": "M20/generate_m20_telemetry_plots.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 13948,
+    "crc32": "2e2fdcce",
+    "sha256": "2e74862f0c9869b514e364b45ac595beb76b1486c99394493f3acc2365635e60"
+  },
+  {
+    "path": "M20/M20.xml",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 18563,
+    "crc32": "15769164",
+    "sha256": "25a3a09677d961524b25dc9afa113e260e1d98a3f496ae26a8fc0c7c76ab5413"
+  },
+  {
+    "path": "M20/M20_hazardous_terrain.xml",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 20074,
+    "crc32": "1779896b",
+    "sha256": "d0047903b5d03d1dd05482a146162685c3ec91a17e7f3f12afb3c5b3cd9fcd62"
+  },
+  {
+    "path": "M20/m20_path_planner.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 7667,
+    "crc32": "85ef9feb",
+    "sha256": "ecc5b74092c10df6dbe74116d42f2e37f7f584559b9ec31b5222b994dbd22be9"
+  },
+  {
+    "path": "M20/m20_rosbot_mapping.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 17487,
+    "crc32": "d9d103ff",
+    "sha256": "ea212606104ee17ae0bf0b99c3170eb7713ca291f1226be73d795e840845e5a7"
+  },
+  {
+    "path": "M20/meshes/base_link.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 1340484,
+    "crc32": "0ba1f3a7",
+    "sha256": "a7984137d06782f513858fd699111109978301a9dff53ff37abf5413b922247f"
+  },
+  {
+    "path": "M20/meshes/fl_hipx.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 455384,
+    "crc32": "d4cb172b",
+    "sha256": "179c634929072ae0ccf1dcdab1b005ac49b54e3225e78377afcff65951841aeb"
+  },
+  {
+    "path": "M20/meshes/fl_hipy.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 905234,
+    "crc32": "5c0a4779",
+    "sha256": "c895052a02ccbb21111815a20676a8dbef82aca62edf4cb0289afc68d54034ef"
+  },
+  {
+    "path": "M20/meshes/fl_knee.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 697884,
+    "crc32": "9bfddd92",
+    "sha256": "c2ac2f2c9664d847646efed234f35f47c30b28f35083abb470193eb0535c3154"
+  },
+  {
+    "path": "M20/meshes/fl_wheel.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 624534,
+    "crc32": "d7af0d26",
+    "sha256": "bcfca68aeeb8e5f118d4623a384cb040f611c32c1115b8574aed4c546e64685d"
+  },
+  {
+    "path": "M20/meshes/fr_hipx.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 421084,
+    "crc32": "42e8be24",
+    "sha256": "350a5bca1df65250de995636583a5415d24625add5a5da447e9a09fb4661540b"
+  },
+  {
+    "path": "M20/meshes/fr_hipy.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 884834,
+    "crc32": "159434ac",
+    "sha256": "6a776a1637c7676a3220aa51df6f2a59ebb7b8a94da10305940653902116e9ee"
+  },
+  {
+    "path": "M20/meshes/fr_knee.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 694634,
+    "crc32": "f7894bf7",
+    "sha256": "e158a0ca5a5ef08862714d546576d23706b096576a3e20e3d7a88184d72e4743"
+  },
+  {
+    "path": "M20/meshes/fr_wheel.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 624534,
+    "crc32": "707ed30e",
+    "sha256": "2773ffcac685b1e288b09d13b80991987d722f386a645cd99b88de01eb02706b"
+  },
+  {
+    "path": "M20/meshes/hl_hipx.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 421034,
+    "crc32": "233080f0",
+    "sha256": "3c20e792611b5142b4237f381a300079bb3d5d71e59c0d0a38335ff67988cf3a"
+  },
+  {
+    "path": "M20/meshes/hl_hipy.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 884884,
+    "crc32": "1859172c",
+    "sha256": "d2c9efec9bfc31fef034617879fab4b731ac22d67a8f1d5f89ba4ca6d3a375ac"
+  },
+  {
+    "path": "M20/meshes/hl_knee.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 694634,
+    "crc32": "8b07341a",
+    "sha256": "f6897fb23e4f1fe0943952f36f756d93ef6de88f48ac1ede294a7ca852ab82a1"
+  },
+  {
+    "path": "M20/meshes/hl_wheel.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 624534,
+    "crc32": "c6670ced",
+    "sha256": "d61d98f986e989484d37ac15700f43c409b1205ff649b4ba14f6ac3ee0f7e7c2"
+  },
+  {
+    "path": "M20/meshes/hr_hipx.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 421534,
+    "crc32": "863087aa",
+    "sha256": "b49f8992cc84058e6009b804e4d68137059636175c5ba32816d36611d5b5b98a"
+  },
+  {
+    "path": "M20/meshes/hr_hipy.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 918834,
+    "crc32": "ef2b311b",
+    "sha256": "70332110c7bc92d4498834cb37260c32de3e2d4b44e821bcf14a71ddf73d3e72"
+  },
+  {
+    "path": "M20/meshes/hr_knee.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 694784,
+    "crc32": "f31417f9",
+    "sha256": "2fcf688c30596b3640e528defa92b58fe7804586586a681677115ea6d93f60e3"
+  },
+  {
+    "path": "M20/meshes/hr_wheel.STL",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 624484,
+    "crc32": "e264bde4",
+    "sha256": "88b2fca83119f36b156520ae4c7a4334baa6a2ad71da90e1a529e10114a16641"
+  },
+  {
+    "path": "M20/run_m20_autonomous_nav.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 26048,
+    "crc32": "3adce662",
+    "sha256": "1a3acaf3c180eb82cbbe83dd697ec43488ec2cdd007b4368088f09e206bb7504"
+  },
+  {
+    "path": "M20/run_m20_movement_demo.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 19275,
+    "crc32": "9b5ddbcb",
+    "sha256": "719c10473b682f566776fe0e9f1efac0d105ce74a04c445620a25fdfd43cc23f"
+  },
+  {
+    "path": "M20/run_m20_obstacle_climb.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 21703,
+    "crc32": "9aa95ea1",
+    "sha256": "dcad4f883c05f707fd163c8f363e0fe3abe4c9ee1c09e4ec176681e5cdea7513"
+  },
+  {
+    "path": "M20/test.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 12278,
+    "crc32": "774c2968",
+    "sha256": "e1c7922a1d11d81d47f404baceeccf122c804c46d0161bb40a4a615394288521"
+  },
+  {
+    "path": "M20/test_m20_autonomous_nav.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 814,
+    "crc32": "a50019d2",
+    "sha256": "acd60c6c725626ba2e2668634478a95cc1328ef98d3dd3f6958cffff6558d178"
+  },
+  {
+    "path": "M20/test_m20_obstacle_climb.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 842,
+    "crc32": "fe6981d1",
+    "sha256": "54359e9f3e5502a0842b8d097c295621e039cb85e6cc0cd6d634121c4d6c20b4"
+  },
+  {
+    "path": "M20/test_mapping_speed.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 838,
+    "crc32": "d213ee84",
+    "sha256": "2a452ec3b03f369fe684b919f172dcc31ace032779a2a81fde69a8b47432eec1"
+  },
+  {
+    "path": "M20/test_obstacle_climb.py",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 5791,
+    "crc32": "f1b8ec1a",
+    "sha256": "bbf4dfbf969af5940c3cfbf1a7276da58a3a385211e82f7787632ddd1974e825"
+  },
+  {
+    "path": "MDRIIA_Group_09_Technical_Dossier.docx",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 54831,
+    "crc32": "c9c186f8",
+    "sha256": "a920ee6d76a9981ca40a2d326e88923ba34cceefd2b25a201753d9ed96a2de53"
+  },
+  {
+    "path": "README.md",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 42099,
+    "crc32": "5a795db8",
+    "sha256": "b901f9c7b1f50fe0bc9cda04f85553410a3d341c37af593b590f6a4f7a5773d9"
+  },
+  {
+    "path": "requirements.txt",
+    "status": "RECOVERED_CRC_AND_SIZE_VERIFIED",
+    "bytes": 79,
+    "crc32": "8962cf5d",
+    "sha256": "fdfa7a1350050f2106f248a197d7201de9e1b0c6e396f299145d120d1ff708bc"
+  }
+]

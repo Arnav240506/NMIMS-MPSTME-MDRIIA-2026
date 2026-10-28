@@ -1,0 +1,440 @@
+{
+  "status": "PASS",
+  "actual_trials_checked": 60,
+  "sample_rate_hz": 500,
+  "total_actual_samples": 4495972,
+  "CSV_parts": 254,
+  "source_sha256": "52e6297c4a62995dfe65bcc65186b0ee7b7dcc0c1eb07e0c13672799031332d8",
+  "checks": [
+    "CSV SHA256",
+    "continuous 2 ms sampling",
+    "all 16 torque channels",
+    "effort recomputed",
+    "RMSE recomputed",
+    "contact counts",
+    "terminal goal error",
+    "both pair-lift ascent gates"
+  ],
+  "trials": [
+    {
+      "trial_id": "00_31000_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1246141.7242074402,
+      "recomputed_RMSE": 0.5833005136302158
+    },
+    {
+      "trial_id": "01_32000_shared",
+      "samples": 59425,
+      "CSV_parts": 3,
+      "recomputed_effort": 542708.0763335502,
+      "recomputed_RMSE": 0.19230186260408844
+    },
+    {
+      "trial_id": "02_31001_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1210342.42617675,
+      "recomputed_RMSE": 0.6865289140555284
+    },
+    {
+      "trial_id": "03_32001_shared",
+      "samples": 57756,
+      "CSV_parts": 3,
+      "recomputed_effort": 570110.1108037133,
+      "recomputed_RMSE": 0.19215101680280072
+    },
+    {
+      "trial_id": "04_31002_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 851208.4489431874,
+      "recomputed_RMSE": 0.45648455986465825
+    },
+    {
+      "trial_id": "05_32002_shared",
+      "samples": 59519,
+      "CSV_parts": 3,
+      "recomputed_effort": 530976.8032928056,
+      "recomputed_RMSE": 0.19271007710876786
+    },
+    {
+      "trial_id": "06_31003_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1010478.8614175671,
+      "recomputed_RMSE": 0.43198817269643325
+    },
+    {
+      "trial_id": "07_32003_shared",
+      "samples": 60056,
+      "CSV_parts": 4,
+      "recomputed_effort": 628396.0418206402,
+      "recomputed_RMSE": 0.1971636522573955
+    },
+    {
+      "trial_id": "08_31004_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1082081.509093904,
+      "recomputed_RMSE": 0.48206147903269714
+    },
+    {
+      "trial_id": "09_32004_shared",
+      "samples": 60089,
+      "CSV_parts": 4,
+      "recomputed_effort": 544699.507471311,
+      "recomputed_RMSE": 0.19665197698905393
+    },
+    {
+      "trial_id": "10_31005_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1026185.7591780344,
+      "recomputed_RMSE": 0.4940826896798779
+    },
+    {
+      "trial_id": "11_32005_shared",
+      "samples": 60818,
+      "CSV_parts": 4,
+      "recomputed_effort": 541572.8153175873,
+      "recomputed_RMSE": 0.19336704173566346
+    },
+    {
+      "trial_id": "12_31006_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1289420.2124191541,
+      "recomputed_RMSE": 0.6472072752316645
+    },
+    {
+      "trial_id": "13_32006_shared",
+      "samples": 61040,
+      "CSV_parts": 4,
+      "recomputed_effort": 601960.0297340262,
+      "recomputed_RMSE": 0.19019862988557854
+    },
+    {
+      "trial_id": "14_31007_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1397727.4956829462,
+      "recomputed_RMSE": 0.6475632866524129
+    },
+    {
+      "trial_id": "15_32007_shared",
+      "samples": 59923,
+      "CSV_parts": 3,
+      "recomputed_effort": 541191.792348525,
+      "recomputed_RMSE": 0.18132293285959
+    },
+    {
+      "trial_id": "16_31008_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1230411.9428863493,
+      "recomputed_RMSE": 0.6709642884862509
+    },
+    {
+      "trial_id": "17_32008_shared",
+      "samples": 58328,
+      "CSV_parts": 3,
+      "recomputed_effort": 532434.5215518727,
+      "recomputed_RMSE": 0.1873613029244506
+    },
+    {
+      "trial_id": "18_31009_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1247983.477642727,
+      "recomputed_RMSE": 0.6852742573791715
+    },
+    {
+      "trial_id": "19_32009_shared",
+      "samples": 59579,
+      "CSV_parts": 3,
+      "recomputed_effort": 644205.899397348,
+      "recomputed_RMSE": 0.18074513334467593
+    },
+    {
+      "trial_id": "20_31010_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 921249.2268976411,
+      "recomputed_RMSE": 0.5055182092798035
+    },
+    {
+      "trial_id": "21_32010_shared",
+      "samples": 58911,
+      "CSV_parts": 3,
+      "recomputed_effort": 555427.546941067,
+      "recomputed_RMSE": 0.181542055002708
+    },
+    {
+      "trial_id": "22_31011_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 840530.9362981546,
+      "recomputed_RMSE": 0.4538694903088865
+    },
+    {
+      "trial_id": "23_32011_shared",
+      "samples": 60062,
+      "CSV_parts": 4,
+      "recomputed_effort": 534999.4073273245,
+      "recomputed_RMSE": 0.19198074718919392
+    },
+    {
+      "trial_id": "24_31012_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1022464.1403140805,
+      "recomputed_RMSE": 0.49343755216598423
+    },
+    {
+      "trial_id": "25_32012_shared",
+      "samples": 60083,
+      "CSV_parts": 4,
+      "recomputed_effort": 534642.9997569143,
+      "recomputed_RMSE": 0.18375104309258278
+    },
+    {
+      "trial_id": "26_31013_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 957183.0049655085,
+      "recomputed_RMSE": 0.45909793322870807
+    },
+    {
+      "trial_id": "27_32013_shared",
+      "samples": 58991,
+      "CSV_parts": 3,
+      "recomputed_effort": 520796.4296982424,
+      "recomputed_RMSE": 0.19344886274179277
+    },
+    {
+      "trial_id": "28_31014_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 952128.5365257503,
+      "recomputed_RMSE": 0.48582737970925793
+    },
+    {
+      "trial_id": "29_32014_shared",
+      "samples": 61374,
+      "CSV_parts": 4,
+      "recomputed_effort": 555869.1107383688,
+      "recomputed_RMSE": 0.19742135525487328
+    },
+    {
+      "trial_id": "30_31015_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 971944.1291615958,
+      "recomputed_RMSE": 0.4309732278718123
+    },
+    {
+      "trial_id": "31_32015_shared",
+      "samples": 59121,
+      "CSV_parts": 3,
+      "recomputed_effort": 538747.340129829,
+      "recomputed_RMSE": 0.1867349579588958
+    },
+    {
+      "trial_id": "32_31016_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1023601.3235705585,
+      "recomputed_RMSE": 0.484346791295491
+    },
+    {
+      "trial_id": "33_32016_shared",
+      "samples": 59347,
+      "CSV_parts": 3,
+      "recomputed_effort": 528014.8970448857,
+      "recomputed_RMSE": 0.20171351393662346
+    },
+    {
+      "trial_id": "34_31017_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 879664.031934571,
+      "recomputed_RMSE": 0.47120447549636957
+    },
+    {
+      "trial_id": "35_32017_shared",
+      "samples": 59843,
+      "CSV_parts": 3,
+      "recomputed_effort": 513611.4936042103,
+      "recomputed_RMSE": 0.21237654142750242
+    },
+    {
+      "trial_id": "36_31018_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1250093.5632116622,
+      "recomputed_RMSE": 0.6724827468289747
+    },
+    {
+      "trial_id": "37_32018_shared",
+      "samples": 60743,
+      "CSV_parts": 4,
+      "recomputed_effort": 582872.1971933651,
+      "recomputed_RMSE": 0.20690734435938465
+    },
+    {
+      "trial_id": "38_31019_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1282112.5898402906,
+      "recomputed_RMSE": 0.6025148524432125
+    },
+    {
+      "trial_id": "39_32019_shared",
+      "samples": 58390,
+      "CSV_parts": 3,
+      "recomputed_effort": 615569.038209252,
+      "recomputed_RMSE": 0.19414881587449678
+    },
+    {
+      "trial_id": "40_31020_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1178512.650644985,
+      "recomputed_RMSE": 0.6377662207231481
+    },
+    {
+      "trial_id": "41_32020_shared",
+      "samples": 57708,
+      "CSV_parts": 3,
+      "recomputed_effort": 512784.21025836153,
+      "recomputed_RMSE": 0.2106370443134961
+    },
+    {
+      "trial_id": "42_31021_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1277008.782689615,
+      "recomputed_RMSE": 0.6882768538405292
+    },
+    {
+      "trial_id": "43_32021_shared",
+      "samples": 60202,
+      "CSV_parts": 4,
+      "recomputed_effort": 548468.6542252923,
+      "recomputed_RMSE": 0.18689751649583786
+    },
+    {
+      "trial_id": "44_31022_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 985404.8137113362,
+      "recomputed_RMSE": 0.5184063911911548
+    },
+    {
+      "trial_id": "45_32022_shared",
+      "samples": 59315,
+      "CSV_parts": 3,
+      "recomputed_effort": 526755.2260597863,
+      "recomputed_RMSE": 0.20736012202601237
+    },
+    {
+      "trial_id": "46_31023_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1274466.2698621517,
+      "recomputed_RMSE": 0.7003862170481556
+    },
+    {
+      "trial_id": "47_32023_shared",
+      "samples": 61477,
+      "CSV_parts": 4,
+      "recomputed_effort": 535278.1491764823,
+      "recomputed_RMSE": 0.19532179646829662
+    },
+    {
+      "trial_id": "48_31024_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1231392.6358789837,
+      "recomputed_RMSE": 0.698583964205886
+    },
+    {
+      "trial_id": "49_32024_shared",
+      "samples": 60636,
+      "CSV_parts": 4,
+      "recomputed_effort": 566048.7252419131,
+      "recomputed_RMSE": 0.2016919064587705
+    },
+    {
+      "trial_id": "50_31025_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1189785.556401092,
+      "recomputed_RMSE": 0.6747323631212262
+    },
+    {
+      "trial_id": "51_32025_shared",
+      "samples": 60812,
+      "CSV_parts": 4,
+      "recomputed_effort": 555042.3014132358,
+      "recomputed_RMSE": 0.1954261708410932
+    },
+    {
+      "trial_id": "52_31026_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1281664.0888738395,
+      "recomputed_RMSE": 0.714456316308488
+    },
+    {
+      "trial_id": "53_32026_shared",
+      "samples": 62375,
+      "CSV_parts": 4,
+      "recomputed_effort": 643113.0805288707,
+      "recomputed_RMSE": 0.20723304214007854
+    },
+    {
+      "trial_id": "54_31027_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1238742.0481506132,
+      "recomputed_RMSE": 0.6709799297182076
+    },
+    {
+      "trial_id": "55_32027_shared",
+      "samples": 59892,
+      "CSV_parts": 3,
+      "recomputed_effort": 543950.4130623133,
+      "recomputed_RMSE": 0.2026593778681263
+    },
+    {
+      "trial_id": "56_31028_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1277939.511330883,
+      "recomputed_RMSE": 0.5978173570199893
+    },
+    {
+      "trial_id": "57_32028_shared",
+      "samples": 59727,
+      "CSV_parts": 3,
+      "recomputed_effort": 527066.7578150998,
+      "recomputed_RMSE": 0.18516829812512997
+    },
+    {
+      "trial_id": "58_31029_baseline",
+      "samples": 90000,
+      "CSV_parts": 5,
+      "recomputed_effort": 1224077.0883774334,
+      "recomputed_RMSE": 0.6870140872271732
+    },
+    {
+      "trial_id": "59_32029_shared",
+      "samples": 60430,
+      "CSV_parts": 4,
+      "recomputed_effort": 551446.9672199859,
+      "recomputed_RMSE": 0.1940449851917337
+    }
+  ]
+}

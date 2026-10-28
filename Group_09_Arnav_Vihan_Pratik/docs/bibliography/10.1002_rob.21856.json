@@ -1,0 +1,646 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2026-09-22T11:08:15Z",
+      "timestamp": 1790075295750,
+      "version": "4.0.1"
+    },
+    "reference-count": 50,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              12,
+              16
+            ]
+          ],
+          "date-time": "2019-12-16T00:00:00Z",
+          "timestamp": 1576454400000
+        },
+        "content-version": "am",
+        "delay-in-days": 365,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#am"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              12,
+              16
+            ]
+          ],
+          "date-time": "2018-12-16T00:00:00Z",
+          "timestamp": 1544918400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100005825",
+        "name": "National Institute of Food and Agriculture",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2015\u201067021\u201023857"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2015\u201067021\u201023857"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100005825",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "156624"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "156624"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Field Robotics"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the problem of planning a tour for an energy\u2010limited Unmanned Aerial Vehicle (UAV) to visit a set of sites in the least amount of time. We envision scenarios where the UAV can be recharged at a site or along an edge either by landing on stationary recharging stations or on Unmanned Ground Vehicles (UGVs) acting as mobile recharging stations. This leads to a new variant of the Traveling Salesperson Problem (TSP) with mobile recharging stations. We present an algorithm that finds not only the order in which to visit the sites but also when and where to land on the charging stations to recharge. Our algorithm plans tours for the UGVs as well as determines the best locations to place stationary charging stations. We study three variants for charging: Multiple stationary charging stations, single mobile charging station, and multiple mobile charging stations. As the problems we study are nondeterministic polynomial time (NP)\u2010Hard, we present a practical solution using Generalized TSP that finds the optimal solution that minimizes the total time, subject to the discretization of battery levels. If the UGVs are slower than the UAVs, then the algorithm also finds the minimum number of UGVs required to support the UAV mission such that the UAV is not required to wait for the UGV. Our simulation results show that the running time is acceptable for reasonably sized instances in practice. We evaluate the performance of our algorithm through simulations and proof\u2010of\u2010concept field experiments with a fully autonomous system of one UAV and UGV.</jats:p>",
+    "DOI": "10.1002/rob.21856",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2018-12-16T11:15:14Z",
+      "timestamp": 1544958914000
+    },
+    "page": "602-616",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 56,
+    "title": [
+      "Algorithms and experiments on routing of unmanned aerial vehicles with mobile recharging stations"
+    ],
+    "prefix": "10.1002",
+    "volume": "36",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9383-2989",
+        "authenticated-orcid": false,
+        "given": "Kevin",
+        "family": "Yu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Virginia Polytechnic Institute and State University, Department of Electrical &amp; Computer Engineering, Virginia Tech Blacksburg Virginia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ashish Kumar",
+        "family": "Budhiraja",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Virginia Polytechnic Institute and State University, Department of Electrical &amp; Computer Engineering, Virginia Tech Blacksburg Virginia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Spencer",
+        "family": "Buebel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Virginia Polytechnic Institute and State University, Department of Electrical &amp; Computer Engineering, Virginia Tech Blacksburg Virginia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pratap",
+        "family": "Tokekar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Virginia Polytechnic Institute and State University, Department of Electrical &amp; Computer Engineering, Virginia Tech Blacksburg Virginia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_10_1_2_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ahmed S. Mohamed A. Harras K. Kholief M. &Kholief S.(2016). Energy efficient path planning techniques for UAV\u2010based systems with space discretization.Wireless Communications and Networking Conference (WCNC) 2016 IEEE pp. 1\u20136. IEEE.",
+        "DOI": "10.1109/WCNC.2016.7565126"
+      },
+      {
+        "key": "e_1_2_10_1_3_1",
+        "unstructured": "Anonymous(2016).Skysense charging pad. (Web)Retrieved fromhttp://www.skysense.co/charging\u2010pad/."
+      },
+      {
+        "key": "e_1_2_10_1_4_1",
+        "unstructured": "Applegate D. Bixby R. Chvatal V. &Cook W.(2006).Concorde TSP solver. Retrieved fromhttp://www.tsp.gatech.edu/concorde."
+      },
+      {
+        "key": "e_1_2_10_1_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/290179.290180"
+      },
+      {
+        "key": "e_1_2_10_1_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/050645464"
+      },
+      {
+        "key": "e_1_2_10_1_7_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cocchioni F. Mancini A. &Longhi S.(2014). Autonomous navigation landing and recharge of a quadrotor using artificial vision.2014 International Conference on Unmanned Aircraft Systems (ICUAS) 418\u2013429. IEEE.",
+        "DOI": "10.1109/ICUAS.2014.6842282"
+      },
+      {
+        "key": "e_1_2_10_1_8_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Das J. Cross G. Qu C. Makineni A. Tokekar P. Mulgaonkar Y. &Kumar V.(2015). Devices systems and methods for automated monitoring enabling precision agriculture.Proceedings of IEEE Conference on Automation Science and Engineering 462\u2013469. IEEE.",
+        "DOI": "10.1109/CoASE.2015.7294123"
+      },
+      {
+        "key": "e_1_2_10_1_9_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Derenick J. Michael N. &Kumar V.(2011). Energy\u2010aware coverage control with docking for robot teams.2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 3667\u20133672. IEEE.",
+        "DOI": "10.1109/IROS.2011.6094977"
+      },
+      {
+        "key": "e_1_2_10_1_10_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Di Franco C. &Buttazzo G.(2015). Energy\u2010aware coverage path planning of UAVs.2015 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC) 111\u2013117. IEEE.",
+        "DOI": "10.1109/ICARSC.2015.17"
+      },
+      {
+        "key": "e_1_2_10_1_11_1",
+        "unstructured": "Dougherty J. A.(2014).Laser\u2010guided autonomous landing of a quadrotor UAV on an inclined surface(Ph.D. thesis). The George Washington University."
+      },
+      {
+        "key": "e_1_2_10_1_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MRA.2011.2181683"
+      },
+      {
+        "key": "e_1_2_10_1_13_1",
+        "volume-title": "Perching using a quadrotor with onboard sensing",
+        "author": "Goldin J. C.",
+        "year": "2011"
+      },
+      {
+        "key": "e_1_2_10_1_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TRO.2011.2163435"
+      },
+      {
+        "key": "e_1_2_10_1_15_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hosseini S. Dai R. &Mesbahi M.(2013). Optimal path planning and power allocation for a long endurance solar\u2010powered UAV.2013 American Control Conference 2588\u20132593. IEEE.",
+        "DOI": "10.1109/ACC.2013.6580224"
+      },
+      {
+        "key": "e_1_2_10_1_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10846-010-9502-z"
+      },
+      {
+        "key": "e_1_2_10_1_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10846-012-9727-0"
+      },
+      {
+        "key": "e_1_2_10_1_18_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kong W. Zhou D. Zhang D. &Zhang J.(2014). Vision\u2010based autonomous landing system for unmanned aerial vehicle: A survey.2014 International Conference on Multisensor Fusion and Information Integration for Intelligent Systems (MFI) 1\u20138. IEEE.",
+        "DOI": "10.1109/MFI.2014.6997750"
+      },
+      {
+        "key": "e_1_2_10_1_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0377-2217(92)90192-C"
+      },
+      {
+        "key": "e_1_2_10_1_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1057/jors.1996.190"
+      },
+      {
+        "key": "e_1_2_10_1_21_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lee D. Ryan T. &Kim H. J.(2012). Autonomous landing of a VTOL UAV on a moving platform using image\u2010based visual servoing.2012 IEEE International Conference on Robotics and Automation (ICRA) 971\u2013976. IEEE.",
+        "DOI": "10.1109/ICRA.2012.6224828"
+      },
+      {
+        "key": "e_1_2_10_1_22_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu L. &Michael N.(2014). Energy\u2010aware aerial vehicle deployment via bipartite graph matching.2014 International Conference on Unmanned Aircraft Systems (ICUAS) 189\u2013194. IEEE.",
+        "DOI": "10.1109/ICUAS.2014.6842255"
+      },
+      {
+        "key": "e_1_2_10_1_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.12989/sss.2014.13.6.1065"
+      },
+      {
+        "key": "e_1_2_10_1_24_1",
+        "unstructured": "Ir\u2010lock\u2014infrared tracking systems for drones and robot automation. Retrieved fromhttps://irlock.com/(Accessed on 02/26/2018)"
+      },
+      {
+        "key": "e_1_2_10_1_25_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Maini P. &Sujit P.(2015). On cooperation between a fuel constrained UAV and a refueling UGV for large scale mapping applications.2015 International Conference on Unmanned Aircraft Systems (ICUAS) 1370\u20131377. IEEE.",
+        "DOI": "10.1109/ICUAS.2015.7152432"
+      },
+      {
+        "key": "e_1_2_10_1_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TRO.2014.2380593"
+      },
+      {
+        "key": "e_1_2_10_1_27_1",
+        "unstructured": "mavros\u2014ros wiki. Retrieved fromhttp://wiki.ros.org/mavros(Accessed on 02/26/2018)"
+      },
+      {
+        "key": "e_1_2_10_1_28_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Michael N. Stump E. &Mohta K.(2011). Persistent surveillance with a team of MAVs.2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2708\u20132714. IEEE.",
+        "DOI": "10.1109/IROS.2011.6095174"
+      },
+      {
+        "key": "e_1_2_10_1_29_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mitchell D. Cappo E. A. &Michael N.(2016). Persistent robot formation flight via online substitution.2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 4810\u20134815. IEEE.",
+        "DOI": "10.1109/IROS.2016.7759706"
+      },
+      {
+        "key": "e_1_2_10_1_30_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Morbidi F. Cano R. &Lara D.(2016). Minimum\u2010energy path generation for a quadrotor UAV.IEEE International Conference on Robotics and Automation.",
+        "DOI": "10.1109/ICRA.2016.7487285"
+      },
+      {
+        "key": "e_1_2_10_1_31_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Morton S. D\u2019Sa R. Papanikolopoulos N.(2015). Solar powered UAV: Design and experiments.2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2460\u20132466. IEEE.",
+        "DOI": "10.1109/IROS.2015.7353711"
+      },
+      {
+        "key": "e_1_2_10_1_32_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mulgaonkar Y. &Kumar V.(2014). Autonomous charging to enable long\u2010endurance missions for small aerial robots.\u00a0SPIE Defense+ Security 90831S. International Society for Optics and Photonics.",
+        "DOI": "10.1117/12.2051111"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_10_1_33_1",
+        "first-page": "39",
+        "article-title": "An efficient transformation of the generalized traveling salesman problem",
+        "volume": "31",
+        "author": "Noon C. E.",
+        "year": "1993",
+        "journal-title": "INFOR"
+      },
+      {
+        "key": "e_1_2_10_1_34_1",
+        "unstructured": "Oh S.\u2010R. Pathak K. Agrawal S. K. Pota H. R. &Garrett M.(2005). Autonomous helicopter landing on a moving platform using a tether.Proceedings of the 2005 IEEE International Conference on Robotics and Automation 2005 (ICRA 2005) 3960\u20133965. IEEE."
+      },
+      {
+        "key": "e_1_2_10_1_35_1",
+        "unstructured": "Ozaslan T. Shen S. Mulgaonkar Y. Michael N. &Kumar V.(2013). Inspection of penstocks and featureless tunnel\u2010like environments using micro UAVs.International Conference on Field and Service Robotics."
+      },
+      {
+        "key": "e_1_2_10_1_36_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pasqualetti F. Franchi A. &Bullo F.(2010). On optimal cooperative patrolling.2010 49th IEEE Conference on Decision and Control (CDC) 7153\u20137158. IEEE.",
+        "DOI": "10.1109/CDC.2010.5717873"
+      },
+      {
+        "key": "e_1_2_10_1_37_1",
+        "unstructured": "Quigley M. Conley K. Gerkey B. Faust J. Foote T. Leibs J. \u2026Ng A. Y.(2009). ROS: An open\u2010source robot operating system.ICRA Workshop on Open Source Software 3 5. Kobe Japan."
+      },
+      {
+        "key": "e_1_2_10_1_38_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Semsch E. Jakob M. Pavlicek D. &Pechoucek M.(2009). Autonomous UAV surveillance in complex urban environments.Proceedings of the 2009 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology 2 82\u201385. IEEE Computer Society.",
+        "DOI": "10.1109/WI-IAT.2009.132"
+      },
+      {
+        "key": "e_1_2_10_1_39_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shakhatreh H. Khreishah A. Chakareski J. Salameh H. B. &Khalil I.(2016). On the continuous coverage problem for a swarm of UAVs.IEEE 37th Sarnoff Symposium 2016 130\u2013135. IEEE.",
+        "DOI": "10.1109/SARNOF.2016.7846742"
+      },
+      {
+        "key": "e_1_2_10_1_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.robot.2010.01.005"
+      },
+      {
+        "key": "e_1_2_10_1_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/rob.20405"
+      },
+      {
+        "key": "e_1_2_10_1_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cor.2017.05.010"
+      },
+      {
+        "key": "e_1_2_10_1_43_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sundar K. Venkatachalam S. &Rathinam S.(2016). Formulations and algorithms for the multiple depot fuel\u2010constrained multiple vehicle routing problem.American Control Conference (ACC) 2016 6489\u20136494. IEEE.",
+        "DOI": "10.1109/ACC.2016.7526691"
+      },
+      {
+        "key": "e_1_2_10_1_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10846-011-9616-y"
+      },
+      {
+        "key": "e_1_2_10_1_45_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Swieringa K. A. Hanson C. B. Richardson J. R. White J. D. Hasan Z. Qian E. &Girard A.(2010). Autonomous battery swapping system for small\u2010scale helicopters.2010 IEEE International Conference on Robotics and Automation (ICRA) 3335\u20133340. IEEE.",
+        "DOI": "10.1109/ROBOT.2010.5509165"
+      },
+      {
+        "key": "e_1_2_10_1_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amj.2014.10.011"
+      },
+      {
+        "key": "e_1_2_10_1_47_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tokekar P. Budhiraja A. K. &Kumar V.(2016). Visibility\u2010based persistent monitoring with robot teams.IEEE Transactions on Robotics in submission.",
+        "DOI": "10.1109/IROS.2015.7353849"
+      },
+      {
+        "key": "e_1_2_10_1_48_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tokekar P. Vander Hook J. Mulla D. Isler V.(2016). Sensor planning for a symbiotic UAV and UGV system for precision agriculture.IEEE Transactions on Robotics to appear 32 1498\u20131511.",
+        "DOI": "10.1109/TRO.2016.2603528"
+      },
+      {
+        "key": "e_1_2_10_1_49_1",
+        "unstructured": "Toksoz T. Redding J. Michini M. Michini B. How J. P. Vavrina M. &Vian J.(2011). Automated battery swap and recharge to enable persistent UAV missions.AIAA Infotech@ Aerospace Conference."
+      },
+      {
+        "key": "e_1_2_10_1_50_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wei M. &Isler V.(2018). Coverage path planning under the energy constraint.Proceedings of the International Conference on Robotics and Automation (ICRA).",
+        "DOI": "10.1109/ICRA.2018.8462867"
+      },
+      {
+        "key": "e_1_2_10_1_51_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yu K. Budhiraja A. K. &Tokekar P.(2018). Algorithms and experiments on routing of unmanned aerial vehicles with mobile recharging stations.IEEE International Conference on Robotics and Automation to appear.",
+        "DOI": "10.1109/ICRA.2018.8460819"
+      }
+    ],
+    "container-title": [
+      "Journal of Field Robotics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Frob.21856",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.21856",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/rob.21856",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/rob.21856",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "unspecified"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.21856",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/rob.21856",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.21856",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2023-09-10T16:14:27Z",
+      "timestamp": 1694362467000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/rob.21856"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          16
+        ]
+      ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/rob.21856"
+    ],
+    "URL": "https://doi.org/10.1002/rob.21856",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "1556-4959",
+      "1556-4967"
+    ],
+    "issn-type": [
+      {
+        "value": "1556-4959",
+        "type": "print"
+      },
+      {
+        "value": "1556-4967",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          16
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2018-03-01",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2018-11-21",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2018-12-16",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

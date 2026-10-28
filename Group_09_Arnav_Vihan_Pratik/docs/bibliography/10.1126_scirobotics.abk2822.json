@@ -1,0 +1,606 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2026-10-25T14:06:24Z",
+      "timestamp": 1792937184501,
+      "version": "4.5.0"
+    },
+    "reference-count": 69,
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "issue": "62",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sci. Robot."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          26
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Legged robots that can operate autonomously in remote and hazardous environments will greatly increase opportunities for exploration into underexplored areas. Exteroceptive perception is crucial for fast and energy-efficient locomotion: Perceiving the terrain before making contact with it enables planning and adaptation of the gait ahead of time to maintain speed and stability. However, using exteroceptive perception robustly for locomotion has remained a grand challenge in robotics. Snow, vegetation, and water visually appear as obstacles on which the robot cannot step or are missing altogether due to high reflectance. In addition, depth perception can degrade due to difficult lighting, dust, fog, reflective or transparent surfaces, sensor occlusion, and more. For this reason, the most robust and general solutions to legged locomotion to date rely solely on proprioception. This severely limits locomotion speed because the robot has to physically feel out the terrain before adapting its gait accordingly. Here, we present a robust and general solution to integrating exteroceptive and proprioceptive perception for legged locomotion. We leverage an attention-based recurrent encoder that integrates proprioceptive and exteroceptive input. The encoder is trained end to end and learns to seamlessly combine the different perception modalities without resorting to heuristics. The result is a legged locomotion controller with high robustness and speed. The controller was tested in a variety of challenging natural and urban environments over multiple seasons and completed an hour-long hike in the Alps in the time recommended for human hikers.</jats:p>",
+    "DOI": "10.1126/scirobotics.abk2822",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          19
+        ]
+      ],
+      "date-time": "2022-01-19T14:00:35Z",
+      "timestamp": 1642600835000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 851,
+    "title": [
+      "Learning robust perceptive locomotion for quadrupedal robots in the wild"
+    ],
+    "prefix": "10.1126",
+    "volume": "7",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8556-2819",
+        "authenticated-orcid": true,
+        "given": "Takahiro",
+        "family": "Miki",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Robotic Systems Lab, ETH-Z\u00fcrich, Z\u00fcrich, Switzerland."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5072-7385",
+        "authenticated-orcid": true,
+        "given": "Joonho",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Robotic Systems Lab, ETH-Z\u00fcrich, Z\u00fcrich, Switzerland."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3444-8079",
+        "authenticated-orcid": true,
+        "given": "Jemin",
+        "family": "Hwangbo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Robotics &amp; Artificial Intelligence Lab, KAIST, Daejeon, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5148-754X",
+        "authenticated-orcid": true,
+        "given": "Lorenz",
+        "family": "Wellhausen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Robotic Systems Lab, ETH-Z\u00fcrich, Z\u00fcrich, Switzerland."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0858-0970",
+        "authenticated-orcid": true,
+        "given": "Vladlen",
+        "family": "Koltun",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Intelligent Systems Lab, Intel, Jackson, WY, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4285-4990",
+        "authenticated-orcid": true,
+        "given": "Marco",
+        "family": "Hutter",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Robotic Systems Lab, ETH-Z\u00fcrich, Z\u00fcrich, Switzerland."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "221",
+    "reference": [
+      {
+        "key": "e_1_3_2_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3182/20080706-5-KR-1001.01833"
+      },
+      {
+        "key": "e_1_3_2_3_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "B. Katz J. Di Carlo S. Kim Mini cheetah: A platform for pushing the limits of dynamic quadruped control in 2019 International Conference on Robotics and Automation (ICRA) (IEEE 2019) pp. 6295\u20136301.",
+        "DOI": "10.1109/ICRA.2019.8793865"
+      },
+      {
+        "key": "e_1_3_2_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/scirobotics.aau5872"
+      },
+      {
+        "key": "e_1_3_2_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/scirobotics.abc5986"
+      },
+      {
+        "key": "e_1_3_2_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.robot.2020.103703"
+      },
+      {
+        "key": "e_1_3_2_7_2",
+        "unstructured": "Boston Dynamics Spot (2021); www.bostondynamics.com/spot [online; accessed March 2021]."
+      },
+      {
+        "key": "e_1_3_2_8_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. Gehring P. Fankhauser L. Isler R. Diethelm S. Bachmann M. Potz L. Gerstenberg M. Hutter ANYmal in the field: Solving industrial inspection of an offshore HVDC platform with a quadrupedal robot in Field and Service Robotics (Springer 2021) pp. 247\u2013260.",
+        "DOI": "10.1007/978-981-15-9460-1_18"
+      },
+      {
+        "key": "e_1_3_2_9_2",
+        "unstructured": "Agility Robotics Robots (2021); www.agilityrobotics.com/robots [online; accessed June 2021]."
+      },
+      {
+        "key": "e_1_3_2_10_2",
+        "unstructured": "Unitree Robotics A1 (2021); www.unitree.com/products/a1/ [online; accessed March 2021]."
+      },
+      {
+        "key": "e_1_3_2_11_2",
+        "unstructured": "Ghost Robotics Vision 60 (2021); www.ghostrobotics.io/ [online; accessed June 2021]."
+      },
+      {
+        "key": "e_1_3_2_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cub.2018.03.008"
+      },
+      {
+        "key": "e_1_3_2_13_2",
+        "unstructured": "ANYbotics ANYmal (2021); www.anybotics.com/anymal-autonomous-legged-robot/ [online; accessed June 2021]."
+      },
+      {
+        "key": "e_1_3_2_14_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "P. Fankhauser M. Bloesch D. Rodriguez R. Kaestner M. Hutter R. Siegwart Kinect v2 for mobile robot navigation: Evaluation and modeling in 2015 International Conference on Advanced Robotics (ICAR) (IEEE 2015) pp. 388\u2013394.",
+        "DOI": "10.1109/ICAR.2015.7251485"
+      },
+      {
+        "key": "e_1_3_2_15_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. Ye J. Borenstein A new terrain mapping method for mobile robots obstacle negotiation in Unmanned ground vehicle technology V (International Society for Optics and Photonics 2003) pp. 52\u201362.",
+        "DOI": "10.1117/12.486764"
+      },
+      {
+        "key": "e_1_3_2_16_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "D. Belter P. Skrzypczy\u0144ski Rough terrain mapping and classification for foothold selection in a walking robot in 2010 IEEE Safety Security and Rescue Robotics Bremen Germany 26 to 30 July 2010 (IEEE 2010) pp. 1\u20136.",
+        "DOI": "10.1109/SSRR.2010.5981552"
+      },
+      {
+        "key": "e_1_3_2_17_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "P. Fankhauser M. Bloesch C. Gehring M. Hutter R. Siegwart Robot-centric elevation mapping with uncertainty estimates in Mobile Service Robotics (World Scientific 2014) pp. 433\u2013440.",
+        "DOI": "10.1142/9789814623353_0051"
+      },
+      {
+        "key": "e_1_3_2_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/LRA.2018.2849506"
+      },
+      {
+        "key": "e_1_3_2_19_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. Zucker J. A. Bagnell C. G. Atkeson J. Kuffner An optimization approach to rough terrain locomotion in 2010 IEEE International Conference on Robotics and Automation (IEEE 2010) pp. 3589\u20133595.",
+        "DOI": "10.1109/ROBOT.2010.5509176"
+      },
+      {
+        "key": "e_1_3_2_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0278364910390538"
+      },
+      {
+        "key": "e_1_3_2_21_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. Z. Kolter Y. Kim A. Y. Ng Stereo vision and terrain modeling for quadruped robots in 2009 IEEE International Conference on Robotics and Automation (IEEE 2009) pp. 1557\u20131564.",
+        "DOI": "10.1109/ROBOT.2009.5152795"
+      },
+      {
+        "key": "e_1_3_2_22_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "I. Havoutis J. Ortiz S. Bazeille V. Barasuol C. Semini D. G. Caldwell Onboard perception-based trotting and crawling with the hydraulic quadruped robot (HyQ) in 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (IEEE 2013) pp. 6052\u20136057.",
+        "DOI": "10.1109/IROS.2013.6697235"
+      },
+      {
+        "key": "e_1_3_2_23_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. Mastalli M. Focchi I. Havoutis A. Radulescu S. Calinon J. Buchli D. G. Caldwell C. Semini Trajectory and foothold optimization using low-dimensional models for rough terrain locomotion in 2017 IEEE International Conference on Robotics and Automation (ICRA) (IEEE 2017) pp. 1096\u20131103.",
+        "DOI": "10.1109/ICRA.2017.7989131"
+      },
+      {
+        "key": "e_1_3_2_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/rob.21610"
+      },
+      {
+        "key": "e_1_3_2_25_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "P. Fankhauser M. Bjelonic C. D. Bellicoso T. Miki M. Hutter Robust rough-terrain locomotion with a quadrupedal robot in 2018 IEEE International Conference on Robotics and Automation (ICRA) (IEEE 2018) pp. 5761\u20135768.",
+        "DOI": "10.1109/ICRA.2018.8460731"
+      },
+      {
+        "key": "e_1_3_2_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/LRA.2020.3007427"
+      },
+      {
+        "key": "e_1_3_2_27_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "D. Kim D. Carballo J. Di Carlo B. Katz G. Bledt B. Lim S. Kim Vision aided dynamic exploration of unstructured terrain with a small-scale quadruped robot in 2020 IEEE International Conference on Robotics and Automation (ICRA) (IEEE 2020) pp. 2464\u20132470.",
+        "DOI": "10.1109/ICRA40945.2020.9196777"
+      },
+      {
+        "key": "e_1_3_2_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/LRA.2019.2899434"
+      },
+      {
+        "key": "e_1_3_2_29_2",
+        "unstructured": "Boston Dynamics Atlas | partners in parkour (2021); https://youtu.be/tF4DML7FIWk [online; accessed September 2021]."
+      },
+      {
+        "key": "e_1_3_2_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2897824.2925941"
+      },
+      {
+        "key": "e_1_3_2_31_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3072959.3073602",
+        "article-title": "Deeploco: Dynamic locomotion skills using hierarchical deep reinforcement learning",
+        "volume": "36",
+        "author": "Peng X. B.",
+        "year": "2017",
+        "unstructured": "X. B. Peng, G. Berseth, K. Yin, M. Van De Panne, Deeploco: Dynamic locomotion skills using hierarchical deep reinforcement learning. ACM Trans. Graph. 36, 1\u201313 (2017).",
+        "journal-title": "ACM Trans. Graph."
+      },
+      {
+        "key": "e_1_3_2_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3197517.3201311"
+      },
+      {
+        "key": "e_1_3_2_33_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Z. Xie H. Y. Ling N. H. Kim M. van de Panne Allsteps: Curriculum-driven learning of stepping stone skills in Computer Graphics Forum (Wiley Online Library 2020) pp. 213\u2013224.",
+        "DOI": "10.1111/cgf.14115"
+      },
+      {
+        "key": "e_1_3_2_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/LRA.2020.2979660"
+      },
+      {
+        "key": "e_1_3_2_35_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. Tan T. Zhang E. Coumans A. Iscen Y. Bai D. Hafner S. Bohez V. Vanhoucke Sim-to-real: Learning agile locomotion for quadruped robots in Robotics: Science and Systems Pittsburgh PA USA 26 to 30 June 2018 (2018).",
+        "DOI": "10.15607/RSS.2018.XIV.010"
+      },
+      {
+        "key": "e_1_3_2_36_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "X. B. Peng E. Coumans T. Zhang T.-W. E. Lee J. Tan S. Levine Learning agile robotic locomotion skills by imitating animals in Robotics: Science and Systems (2020).",
+        "DOI": "10.15607/RSS.2020.XVI.064"
+      },
+      {
+        "key": "e_1_3_2_37_2",
+        "unstructured": "Y. Yang K. Caluwaerts A. Iscen T. Zhang J. Tan V. Sindhwani Data efficient reinforcement learning for legged robots in Conference on Robot Learning (PMLR 2020) pp. 1\u201310."
+      },
+      {
+        "key": "e_1_3_2_38_2",
+        "unstructured": "Z. Xie P. Clary J. Dao P. Morais J. Hurst M. van de Panne Learning locomotion skills for cassie: Iterative design and sim-to-real in Proceedings of the Conference on Robot Learning L. P. Kaelbling D. Kragic K. Sugiura Eds. (PMLR 2020) pp. 317\u2013329."
+      },
+      {
+        "key": "e_1_3_2_39_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. Siekmann K. Green J. Warila A. Fern J. Hurst Blind bipedal stair traversal via sim-to-real reinforcement learning in Robotics: Science and Systems (2021).",
+        "DOI": "10.15607/RSS.2021.XVII.061"
+      },
+      {
+        "key": "e_1_3_2_40_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "A. Kumar Z. Fu D. Pathak J. Malik Rma: Rapid motor adaptation for legged robots in Robotics: Science and Systems (2021).",
+        "DOI": "10.15607/RSS.2021.XVII.011"
+      },
+      {
+        "key": "e_1_3_2_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/scirobotics.abb2174"
+      },
+      {
+        "key": "e_1_3_2_42_2",
+        "unstructured": "J. Lee J. Hwangbo M. Hutter Robust recovery controller for a quadrupedal robot using deep reinforcement learning. arXiv:1901.07517 (2019)."
+      },
+      {
+        "key": "e_1_3_2_43_2",
+        "unstructured": "S. Gangapurwala M. Geisert R. Orsolino M. Fallon I. Havoutis RLOC: Terrain-aware legged locomotion using reinforcement learning and optimal control. arXiv:2012.03094 (2020)."
+      },
+      {
+        "key": "e_1_3_2_44_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. Focchi R. Orsolino M. Camurri V. Barasuol C. Mastalli D. G. Caldwell C. Semini Heuristic planning for rough terrain locomotion in presence of external disturbances and variable perception quality in Advances in Robotics Research: From Lab to Market (Springer 2020) pp. 165\u2013209.",
+        "DOI": "10.1007/978-3-030-22327-4_9"
+      },
+      {
+        "key": "e_1_3_2_45_2",
+        "unstructured": "Boston Dynamics Spot user guide release 2.0 version A (2021); www.generationrobots.com/media/spot-boston-dynamics/spot-user-guide-r2.0-va.pdf [online; accessed June 2021]."
+      },
+      {
+        "key": "e_1_3_2_46_2",
+        "unstructured": "D. Chen B. Zhou V. Koltun P. Kr\u00e4henb\u00fchl Learning by cheating in Conference on Robot Learning (PMLR 2020) pp. 66\u201375."
+      },
+      {
+        "key": "e_1_3_2_47_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.7551/mitpress/9816.003.0008",
+        "article-title": "State estimation for legged robots-consistent fusion of leg kinematics and IMU",
+        "volume": "17",
+        "author": "Bloesch M.",
+        "year": "2013",
+        "unstructured": "M. Bloesch, M. Hutter, M. A. Hoepflinger, S. Leutenegger, C. Gehring, C. D. Remy, R. Siegwart, State estimation for legged robots-consistent fusion of leg kinematics and IMU. Robotics 17, 17\u201324 (2013).",
+        "journal-title": "Robotics"
+      },
+      {
+        "key": "e_1_3_2_48_2",
+        "unstructured": "Komoot Etzel kulm loop hike (2021); https://bit.ly/35bjfyE [online; accessed June 2021]."
+      },
+      {
+        "key": "e_1_3_2_49_2",
+        "unstructured": "Komoot Komoot help guides (2021); https://d21buns5ku92am.cloudfront.net/67683/documents/40488-Komoot [online; accessed December 2021]."
+      },
+      {
+        "key": "e_1_3_2_50_2",
+        "unstructured": "R. C. Coulter Implementation of the pure pursuit path tracking algorithm Tech. rep. Carnegie-Mellon UNIV Pittsburgh PA Robotics INST (1992)."
+      },
+      {
+        "key": "e_1_3_2_51_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. Tranzatto F. Mascarich L. Bernreiter C. Godinho M. Camurri S. M. K. Khattak T. Dang V. Reijgwart J. Loeje D. Wisth S. Zimmermann H. Nguyen M. Fehr L. Solanka R. Buchanan M. Bjelonic N. Khedekar M. Valceschini F. Jenelten M. Dharmadhikari T. Homberger P. De Petris L. Wellhausen M. Kulkarni T. Miki S. Hirsch M. Montenegro C. Papachristos F. Tresoldi J. Carius G. Valsecchi J. Lee K. Meyer X. Wu J. Nieto A. Smith M. Hutter R. Y. Siegwart M. Mueller M. Fallon K. Alexis CERBERUS: Autonomous legged and aerial robotic exploration in the tunnel and urban circuits of the darpa subterranean challenge Journal of Field Robotics (2021).",
+        "DOI": "10.55417/fr.2022011"
+      },
+      {
+        "key": "e_1_3_2_52_2",
+        "unstructured": "Cerberus Team cerberus (2021); www.subt-cerberus.org/ [online; accessed June 2021]."
+      },
+      {
+        "key": "e_1_3_2_53_2",
+        "unstructured": "DARPA Darpa subterranean challenge competition results finals (2021); www.subtchallenge.com/results.html [online; accessed November 2021]."
+      },
+      {
+        "key": "e_1_3_2_54_2",
+        "unstructured": "DARPA Darpa subterranean challenge competition rules final event (2021); www.subtchallenge.com [online; accessed June 2021]."
+      },
+      {
+        "key": "e_1_3_2_55_2",
+        "unstructured": "V. Mnih K. Kavukcuoglu D. Silver A. Graves I. Antonoglou D. Wierstra M. Riedmiller Playing atari with deep reinforcement learning Advances in Neural Information Processing Systems Deep Learning Workshop (2013)."
+      },
+      {
+        "key": "e_1_3_2_56_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "P. Zhu X. Li P. Poupart G. Miao On improving deep reinforcement learning for pomdps. arXiv:1704.07978 (2017).",
+        "DOI": "10.1007/978-1-4899-7687-1_929"
+      },
+      {
+        "key": "e_1_3_2_57_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-019-1724-z"
+      },
+      {
+        "key": "e_1_3_2_58_2",
+        "unstructured": "S. Bai J. Z. Kolter V. Koltun An empirical evaluation of generic convolutional and recurrent networks for sequence modeling. arXiv:1803.01271 (2018)."
+      },
+      {
+        "key": "e_1_3_2_59_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/LRA.2018.2792536"
+      },
+      {
+        "key": "e_1_3_2_60_2",
+        "unstructured": "J. Schulman F. Wolski P. Dhariwal A. Radford O. Klimov Proximal policy optimization algorithms. arXiv:1707.06347 (2017)."
+      },
+      {
+        "key": "e_1_3_2_61_2",
+        "unstructured": "S. Ross G. Gordon J. D. Bagnell A reduction of imitation learning and structured prediction to no-regret online learning in Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics (JMLR Workshop and Conference Proceedings 2011) pp. 627\u2013635."
+      },
+      {
+        "key": "e_1_3_2_62_2",
+        "unstructured": "W. M. Czarnecki R. Pascanu S. Osindero S. Jayakumar G. Swirszcz M. Jaderberg Distilling policy distillation in Proceedings of Machine Learning Research K. Chaudhuri M. Sugiyama Eds. (PMLR 2019) pp. 1331\u20131340."
+      },
+      {
+        "key": "e_1_3_2_63_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "K. Cho B. Van Merri\u00ebnboer C. Gulcehre D. Bahdanau F. Bougares H. Schwenk Y. Bengio Learning phrase representations using rnn encoder-decoder for statistical machine translation in Conference on Empirical Methods in Natural Language Processing (EMNLP) (2014) pp. 1724\u20131734.",
+        "DOI": "10.3115/v1/D14-1179"
+      },
+      {
+        "key": "e_1_3_2_64_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/neco.1997.9.8.1735"
+      },
+      {
+        "key": "e_1_3_2_65_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "T. Anzai K. Takahashi Deep gated multi-modal learning: In-hand object pose changes estimation using tactile and image data in 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE 2020) pp. 9361\u20139368.",
+        "DOI": "10.1109/IROS45743.2020.9341799"
+      },
+      {
+        "key": "e_1_3_2_66_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. Kim J. Koh Y. Kim J. Choi Y. Hwang J. W. Choi Robust deep multi-modal learning based on gated information fusion network in Asian Conference on Computer Vision (Springer 2019) pp. 90\u2013106.",
+        "DOI": "10.1007/978-3-030-20870-7_6"
+      },
+      {
+        "key": "e_1_3_2_67_2",
+        "unstructured": "J. Arevalo T. Solorio M. Montes-y G\u00f3mez F. A. Gonz\u00e1lez Gated multimodal units for information fusion ICLR workshop (2017)."
+      },
+      {
+        "key": "e_1_3_2_68_2",
+        "unstructured": "Rs-bpearl (April 2021); www.robosense.ai/en/rslidar/RS-Bpearl."
+      },
+      {
+        "key": "e_1_3_2_69_2",
+        "unstructured": "Intel RealSense (April 2021); www.intelrealsense.com/."
+      },
+      {
+        "key": "e_1_3_2_70_2",
+        "unstructured": "A. Paszke S. Gross F. Massa A. Lerer J. Bradbury G. Chanan T. Killeen Z. Lin N. Gimelshein L. Antiga A. Desmaison A. Kopf E. Yang Z. DeVito M. Raison A. Tejani S. Chilamkurthy B. Steiner L. Fang J. Bai S. Chintala PyTorch: An imperative style high-performance deep learning library in Advances in Neural Information Processing Systems 32 H. Wallach H. Larochelle A. Beygelzimer F. d. Alch\u00e9-Buc E. Fox R. Garnett Eds. (Curran Associates Inc. 2019) pp. 8024\u20138035."
+      }
+    ],
+    "container-title": [
+      "Science Robotics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.science.org/doi/pdf/10.1126/scirobotics.abk2822",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2024-01-16T08:10:15Z",
+      "timestamp": 1705392615000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.science.org/doi/10.1126/scirobotics.abk2822"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          26
+        ]
+      ]
+    },
+    "references-count": 69,
+    "journal-issue": {
+      "issue": "62",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            26
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1126/scirobotics.abk2822"
+    ],
+    "URL": "https://doi.org/10.1126/scirobotics.abk2822",
+    "relation": {},
+    "ISSN": [
+      "2470-9476"
+    ],
+    "issn-type": [
+      {
+        "value": "2470-9476",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          26
+        ]
+      ]
+    },
+    "article-number": "eabk2822"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "actual_program_output": {
+    "mode": "walk",
+    "actual_simulated_s": 12.000000000000677,
+    "phase": "DIAGONAL_PAIR_WALK",
+    "climb_completed": false,
+    "position_m": [
+      0.8124794940430909,
+      -0.013735561497695808,
+      0.5261340731208689
+    ],
+    "note": "Live visualization; authoritative acceptance is in simulation.py logged runs."
+  },
+  "screenshot": "../figures/fresh_native_walk.jpg",
+  "scope": "Independent installed environment, real native MuJoCo walking execution; visualization is separate from logged task acceptance"
+}

@@ -1,0 +1,12 @@
+{
+  "qpos": true,
+  "qvel": true,
+  "ctrl": true,
+  "targets": true,
+  "time": true,
+  "accepted": true,
+  "climbs": 2,
+  "telemetry_samples": 60697,
+  "telemetry_rate_hz": 500.0,
+  "source_sha256": "52e6297c4a62995dfe65bcc65186b0ee7b7dcc0c1eb07e0c13672799031332d8"
+}

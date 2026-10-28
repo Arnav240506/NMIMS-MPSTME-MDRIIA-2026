@@ -1,0 +1,242 @@
+{
+  "trial_id": "51_32025_shared",
+  "config": {
+    "seed": 32025,
+    "mode": "course_climb",
+    "policy": "shared",
+    "latency_s": 0.35,
+    "duration_s": 180.0,
+    "speed_m_s": 0.3,
+    "timestep": 0.002,
+    "roughness_m": 0.003,
+    "initial_y_jitter_m": 0.02,
+    "initial_yaw_jitter_rad": 0.02
+  },
+  "model_version": "m20-capstone-v4-500hz",
+  "source_sha256": "52e6297c4a62995dfe65bcc65186b0ee7b7dcc0c1eb07e0c13672799031332d8",
+  "started_utc": "2026-10-26T17:28:07.257992+00:00",
+  "finished_utc": "2026-10-26T17:29:17.703809+00:00",
+  "wall_s": 70.4380525000006,
+  "simulated_s": 121.62399999989795,
+  "python": "3.12.14",
+  "mujoco": "3.11.0",
+  "numpy": "2.5.4",
+  "mass_kg": 34.525856000000005,
+  "nq": 23,
+  "nv": 22,
+  "nu": 16,
+  "terrain": {
+    "config": {
+      "seed": 32025,
+      "mode": "course_climb",
+      "policy": "shared",
+      "latency_s": 0.35,
+      "duration_s": 180.0,
+      "speed_m_s": 0.3,
+      "timestep": 0.002,
+      "roughness_m": 0.003,
+      "initial_y_jitter_m": 0.02,
+      "initial_yaw_jitter_rad": 0.02
+    },
+    "version": "m20-capstone-v4-500hz",
+    "friction": 0.9227295050614073,
+    "map_resolution_m": 0.05,
+    "map_bounds": [
+      -1.2,
+      15.4,
+      -3.4,
+      3.4
+    ],
+    "scene_description": "Industrial disaster-response training yard: staggered barricades, drums, crates, tanks and pipe racks",
+    "collision_obstacles": 20,
+    "roughness_upper_bound_m": 0.003,
+    "initial_y_m": -0.0003263580440726402,
+    "initial_yaw_rad": 0.019809829535772972,
+    "goal": [
+      13.5,
+      0.0
+    ],
+    "step_lip_m": 9.3,
+    "step_height_m": 0.16,
+    "hazards": [
+      "course_barricade_0",
+      "course_barricade_1",
+      "course_barricade_2",
+      "course_drum_0",
+      "course_drum_1",
+      "course_drum_2",
+      "course_crate_0",
+      "course_crate_1",
+      "course_crate_2",
+      "course_crate_3",
+      "course_tank_0",
+      "course_tank_1",
+      "course_pipe_rack_0",
+      "course_pipe_rack_1",
+      "course_boundary_0",
+      "course_boundary_1",
+      "extension_tank_0",
+      "extension_tank_1",
+      "extension_crate_0",
+      "extension_crate_1"
+    ],
+    "supports": [
+      "floor",
+      "climb_terrace_0",
+      "climb_terrace_1",
+      "course_low_rubble_0",
+      "course_low_rubble_1",
+      "course_low_rubble_2",
+      "course_low_rubble_3",
+      "course_low_rubble_4",
+      "course_low_rubble_5",
+      "course_low_rubble_6",
+      "course_low_rubble_7",
+      "course_low_rubble_8",
+      "course_low_rubble_9",
+      "course_low_rubble_10",
+      "course_low_rubble_11",
+      "course_low_rubble_12",
+      "course_low_rubble_13",
+      "course_low_rubble_14",
+      "course_low_rubble_15",
+      "course_low_rubble_16",
+      "course_low_rubble_17",
+      "course_low_rubble_18",
+      "course_low_rubble_19",
+      "course_low_rubble_20",
+      "course_low_rubble_21",
+      "course_low_rubble_22",
+      "course_low_rubble_23",
+      "course_low_rubble_24",
+      "course_low_rubble_25",
+      "course_low_rubble_26",
+      "course_low_rubble_27",
+      "course_low_rubble_28",
+      "course_low_rubble_29",
+      "course_low_rubble_30",
+      "course_low_rubble_31",
+      "course_low_rubble_32",
+      "course_low_rubble_33",
+      "course_low_rubble_34",
+      "course_low_rubble_35"
+    ],
+    "step_targets": [
+      {
+        "lip_m": 9.3,
+        "height_m": 0.08
+      },
+      {
+        "lip_m": 12.1,
+        "height_m": 0.16
+      }
+    ]
+  },
+  "accepted": true,
+  "status": "goal",
+  "goal_reached": true,
+  "goal_error_m": 0.10945355218840554,
+  "walking_verified": false,
+  "climb_records": [
+    {
+      "lip_m": 9.3,
+      "height_m": 0.08000000000000007,
+      "ground_m": 0.0,
+      "verified_time_s": 86.52199999997976,
+      "front_pair_air": true,
+      "rear_pair_air": true,
+      "front_resupport": true,
+      "rear_resupport": true
+    },
+    {
+      "lip_m": 12.1,
+      "height_m": 0.16000000000000003,
+      "ground_m": 0.08000000000000007,
+      "verified_time_s": 117.63999999990723,
+      "front_pair_air": true,
+      "rear_pair_air": true,
+      "front_resupport": true,
+      "rear_resupport": true
+    }
+  ],
+  "climb_attempts": [
+    {
+      "lip_m": 9.3,
+      "height_m": 0.08000000000000007,
+      "ground_m": 0.0,
+      "started_time_s": 67.14000000002493,
+      "rear_body_clearance_m": 0.35,
+      "rear_landing_offset_m": 0.24
+    },
+    {
+      "lip_m": 12.1,
+      "height_m": 0.16000000000000003,
+      "ground_m": 0.08000000000000007,
+      "started_time_s": 97.999999999953,
+      "rear_body_clearance_m": 0.35,
+      "rear_landing_offset_m": 0.24
+    }
+  ],
+  "climb_started": true,
+  "climb_verified": true,
+  "front_pair_air": true,
+  "rear_pair_air": true,
+  "front_resupport": true,
+  "rear_resupport": true,
+  "standing_reference_z_m": 0.525742479532099,
+  "final_base_z_m": 0.6840992350601405,
+  "path_length_m": 21.56680403207692,
+  "harmful_contact_steps": 0,
+  "harmful_contacts": {},
+  "expected_support_contacts": 344297,
+  "self_contact_instances": 0,
+  "rollover": false,
+  "tilt_stop": false,
+  "max_abs_roll_deg": 1.3966020465353781,
+  "max_abs_pitch_deg": 12.29497764790552,
+  "closest_forward_clearance_m": 0.001849250906422624,
+  "interventions": 4,
+  "mean_slip_proxy": 0.42303566387486574,
+  "max_slip_proxy": 0.9991301867799947,
+  "map_coverage": 0.8217797661233168,
+  "ray_hits": 8477569,
+  "planner_calls": 350,
+  "absolute_mechanical_work_J": 6123.928293453661,
+  "final_foot_centers_m": [
+    [
+      13.720406224181971,
+      0.29011885003718285,
+      0.25205047957960225
+    ],
+    [
+      13.697492793142626,
+      -0.24337373519956404,
+      0.25179793602485256
+    ],
+    [
+      13.092841980636837,
+      0.3061551529700648,
+      0.25197269900348657
+    ],
+    [
+      13.070003471159442,
+      -0.2356153470638514,
+      0.25220987936719796
+    ]
+  ],
+  "final_supports": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "sensing": "ideal ray intersections with true MuJoCo pose; interleaved 50 Hz; cost 10 Hz; plan 5 Hz",
+  "telemetry_rate_hz": 500.0,
+  "telemetry_samples": 60812,
+  "tracking_rmse_m": 0.1954261708414769,
+  "tracking_samples": 59612,
+  "control_effort_Nm2_s": 555042.3014125719,
+  "reference_definition": "Fixed offline A* collision-map polyline with docking point; evaluation only, never controller input",
+  "render_snapshot_rate_hz": 50,
+  "slip_definition": "kinematic hub-speed discrepancy, not a calibrated contact slip estimator"
+}

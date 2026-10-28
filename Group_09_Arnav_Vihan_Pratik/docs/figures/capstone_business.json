@@ -1,0 +1,39 @@
+{
+  "base_case": {
+    "kappa": 0.22,
+    "NCRI": 0.78,
+    "capex_parity": 0.3,
+    "net_annual_savings_parity": 0.78,
+    "lifetime_years": 5.0,
+    "payback_months": 4.615384615384615,
+    "P_payback": 0.07692307692307691,
+    "pays_back_within_life": true,
+    "H_reclaimed_hours_per_year": 312.0,
+    "annual_work_hours": 2080.0,
+    "delta_FTE": 0.15,
+    "assumption_status": "Illustrative uncalibrated assumptions; not observed savings"
+  },
+  "queue": {
+    "model": "M/M/1",
+    "arrival_per_week": 8.0,
+    "service_per_server_week": 12.0,
+    "servers": 1,
+    "rho": 0.6666666666666666,
+    "stable": true,
+    "working_hours_per_week": 40.0,
+    "assumption_status": "Assumed request rates and exponential service; no measured arrival/service dataset",
+    "probability_wait": 0.6666666666666666,
+    "Wq_weeks": 0.16666666666666666,
+    "W_weeks": 0.25,
+    "Wq_work_hours": 6.666666666666666,
+    "Lq": 1.3333333333333333,
+    "L": 2.0
+  },
+  "source": "hazardous_recon_economics.py; every business input is an explicit scenario assumption",
+  "relations": [
+    "P = capital parity / (lifetime years * net annual savings parity)",
+    "NCRI = 1 - kappa",
+    "M/M/1 Wq = lambda / (mu * (mu-lambda))",
+    "FTE = reclaimed annual hours / 2080"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "interpretation": "Sensitivity scenario only: each job attempt includes measured simulated route time plus assumed inspection/reset overhead. Acceptance fraction is empirical simulation frequency, not field reliability. Constant independent repeated-attempt assumption; M/M/1 arrival/service distribution is an approximation.",
+  "assumptions": {
+    "overhead_hours_per_attempt": [
+      1.5,
+      3.0,
+      4.5
+    ],
+    "work_hours_per_week": 40.0,
+    "arrival_requests_per_week": 8.0
+  },
+  "policies": {
+    "baseline": {
+      "actual_trials": 30,
+      "measured_mean_attempt_seconds": 180.00000000013128,
+      "measured_acceptance_fraction": 0.0,
+      "scenarios": [
+        {
+          "overhead_hours": 1.5,
+          "effective_success_capacity_per_week": 0.0,
+          "queue": {
+            "stable": false,
+            "Wq_work_hours": null,
+            "reason": "No accepted service in this sample"
+          }
+        },
+        {
+          "overhead_hours": 3.0,
+          "effective_success_capacity_per_week": 0.0,
+          "queue": {
+            "stable": false,
+            "Wq_work_hours": null,
+            "reason": "No accepted service in this sample"
+          }
+        },
+        {
+          "overhead_hours": 4.5,
+          "effective_success_capacity_per_week": 0.0,
+          "queue": {
+            "stable": false,
+            "Wq_work_hours": null,
+            "reason": "No accepted service in this sample"
+          }
+        }
+      ]
+    },
+    "shared": {
+      "actual_trials": 30,
+      "measured_mean_attempt_seconds": 119.73146666656903,
+      "measured_acceptance_fraction": 1.0,
+      "scenarios": [
+        {
+          "overhead_hours": 1.5,
+          "effective_success_capacity_per_week": 26.08822564460066,
+          "queue": {
+            "model": "M/M/1",
+            "arrival_per_week": 8.0,
+            "service_per_server_week": 26.08822564460066,
+            "servers": 1,
+            "rho": 0.3066517481481427,
+            "stable": true,
+            "working_hours_per_week": 40.0,
+            "assumption_status": "Assumed request rates and exponential service; no measured arrival/service dataset",
+            "probability_wait": 0.3066517481481427,
+            "Wq_weeks": 0.016953113819634286,
+            "W_weeks": 0.05528458233815213,
+            "Wq_work_hours": 0.6781245527853714,
+            "Lq": 0.1356249105570743,
+            "L": 0.44227665870521704
+          }
+        },
+        {
+          "overhead_hours": 3.0,
+          "effective_success_capacity_per_week": 13.187137471243917,
+          "queue": {
+            "model": "M/M/1",
+            "arrival_per_week": 8.0,
+            "service_per_server_week": 13.187137471243917,
+            "servers": 1,
+            "rho": 0.6066517481481427,
+            "stable": true,
+            "working_hours_per_week": 40.0,
+            "assumption_status": "Assumed request rates and exponential service; no measured arrival/service dataset",
+            "probability_wait": 0.6066517481481427,
+            "Wq_weeks": 0.11695308857944396,
+            "W_weeks": 0.1927845570979618,
+            "Wq_work_hours": 4.678123543177758,
+            "Lq": 0.9356247086355517,
+            "L": 1.5422764567836944
+          }
+        },
+        {
+          "overhead_hours": 4.5,
+          "effective_success_capacity_per_week": 8.823674598698107,
+          "queue": {
+            "model": "M/M/1",
+            "arrival_per_week": 8.0,
+            "service_per_server_week": 8.823674598698107,
+            "servers": 1,
+            "rho": 0.9066517481481428,
+            "stable": true,
+            "working_hours_per_week": 40.0,
+            "assumption_status": "Assumed request rates and exponential service; no measured arrival/service dataset",
+            "probability_wait": 0.9066517481481428,
+            "Wq_weeks": 1.100740206850119,
+            "W_weeks": 1.214071675368637,
+            "Wq_work_hours": 44.029608274004765,
+            "Lq": 8.805921654800953,
+            "L": 9.712573402949095
+          }
+        }
+      ]
+    }
+  }
+}

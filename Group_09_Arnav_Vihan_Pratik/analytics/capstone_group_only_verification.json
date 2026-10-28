@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "group_only": true,
+  "sibling_M20_present": false,
+  "independent_environment": "submission/course_check/.venv; existing separately installed locked environment",
+  "tests": 54,
+  "source_sha256": "52e6297c4a62995dfe65bcc65186b0ee7b7dcc0c1eb07e0c13672799031332d8",
+  "seed": 42,
+  "accepted": true,
+  "climbs": 2,
+  "harmful_contact_steps": 0,
+  "simulated_s": 121.39399999989848,
+  "goal_error_m": 0.10774389483025401,
+  "bitwise_snapshot_comparison": {
+    "qpos": true,
+    "qvel": true,
+    "ctrl": true,
+    "targets": true,
+    "time": true
+  }
+}

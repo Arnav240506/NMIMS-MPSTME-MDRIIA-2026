@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.mp4
+*.avi
+*.npz
+*.aux
+*.log
+*.out
+analytics/local_runs/
+analytics/capstone_rerun/
+analytics/development_runs/

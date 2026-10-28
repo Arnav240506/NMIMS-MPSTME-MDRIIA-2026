@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "pages": 4,
+  "visual_review": "All four rendered pages inspected; extension paragraph remains on page4; no clipped figures or references",
+  "compiler": "Tectonic 0.17.0",
+  "warning_note": "Three underfull hbox warnings; Fontconfig default-config diagnostic; output visually verified",
+  "sha256": "74c97b19ab4f540f3fd7e48f170774c7df2afd40246237dbda9dff42bbae6f5a",
+  "scope": "HISTORICAL receipt; final artifacts superseded. See capstone_document_qa.json."
+}

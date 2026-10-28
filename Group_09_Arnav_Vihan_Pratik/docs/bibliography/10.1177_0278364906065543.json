@@ -1,0 +1,825 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2026-10-06T07:29:18Z",
+      "timestamp": 1791271758270,
+      "version": "4.1.0"
+    },
+    "reference-count": 87,
+    "publisher": "SAGE Publications",
+    "issue": "5-6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2006,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2006-05-01T00:00:00Z",
+          "timestamp": 1146441600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "The International Journal of Robotics Research"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:p>The DARPA PerceptOR program has implemented a rigorous evaluative test program which fosters the development of field relevant outdoor mobile robots. Autonomous ground vehicles were deployed on diverse test courses throughout the USA and quantitatively evaluated on such factors as autonomy level, waypoint acquisition, failure rate, speed, and communications bandwidth. Our efforts over the three year program have produced new approaches in planning, perception, localization, and control which have been driven by the quest for reliable operation in challenging environments. This paper focuses on some of the most unique aspects of the systems developed by the CMU PerceptOR team, the lessons learned during the effort, and the most immediate challenges that remain to be addressed.</jats:p>",
+    "DOI": "10.1177/0278364906065543",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          5,
+          9
+        ]
+      ],
+      "date-time": "2006-05-09T07:45:09Z",
+      "timestamp": 1147160709000
+    },
+    "page": "449-483",
+    "source": "Crossref",
+    "is-referenced-by-count": 167,
+    "title": [
+      "Toward Reliable Off Road Autonomous Vehicles Operating in Challenging Environments"
+    ],
+    "prefix": "10.1177",
+    "volume": "25",
+    "author": [
+      {
+        "given": "Alonzo",
+        "family": "Kelly",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University,"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anthony",
+        "family": "Stentz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Omead",
+        "family": "Amidi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mike",
+        "family": "Bode",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Bradley",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Antonio",
+        "family": "Diaz-Calderon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mike",
+        "family": "Happold",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Herman",
+        "family": "Herman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Robert",
+        "family": "Mandelbaum",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sarnoff Corporation, Princeton, NJ,"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tom",
+        "family": "Pilarski",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pete",
+        "family": "Rander",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Scott",
+        "family": "Thayer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nick",
+        "family": "Vallidis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Randy",
+        "family": "Warner",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Robotics Institute, Carnegie Mellon University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2006,
+          5,
+          1
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "atypb1",
+        "unstructured": "Albus, J. 1992. A Reference Model Architecture for Intelligent Systens Design. In: An Introduction to Intelligent and Autonomous Control, pp. 57-64, Kluwer ."
+      },
+      {
+        "key": "atypb2",
+        "unstructured": "Amidi, O., Kanade, T., and Miller, J. R. 1998. Autonomous Helicopter Research at Carnegie Mellon Robotics Institute . Proceedings of Heli Japan \u201898, April."
+      },
+      {
+        "key": "atypb3",
+        "unstructured": "Andrade, G., Amara, F., Bidaud P., and Chatila, R. 1998. Modelling of Robot-Soil Interaction for Planetary Rover Motion Control . Proceedings of IEEE/RSJ ICIRS, Victoria, Canada."
+      },
+      {
+        "key": "atypb4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Aviles, W. A., Hughes, T. W., Everett, H. R., Umeda, A. Y., Martin, S. W., Koyamatsu, A. H., Solorzano, M. R., Laird, R. T., and McArthur, S. P. 1990. Issues in Mobile Robotics: The Unmanned Ground Vehicle Program Teleoperated Vehicle (TOV) . Proceedings of Mobile Robots V; SPIE, Boston, MA.",
+        "DOI": "10.1117/12.48100"
+      },
+      {
+        "key": "atypb5",
+        "unstructured": "Balarski, S. and Lacaze, A. 2000. World Modelling and Behavior Generation for Autonomous Robot Ground Vehicle . Proceedings of IEEE ICRA, San Francisco, USA."
+      },
+      {
+        "key": "atypb6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barshan, B. and Durrant-Whyte, H. F. 1995. Inertial navigation Systems for Mobile Robots . IEEE Trans. on Robotics and Automation 11(3).",
+        "DOI": "10.1109/70.388775"
+      },
+      {
+        "key": "atypb7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Baten, S., Mandelbaum, R., Luetzeler, M., Burt, P., and Dickmanns, E. 1998. Techniques for autonomous, off-road navigation . IEEE Intelligent Systems Magazine, 57-65 .",
+        "DOI": "10.1109/5254.736003"
+      },
+      {
+        "key": "atypb8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Belluta, P., Manduchi, R., Matthies, L., Owens, K., and Rankin, A. 2000. Terrain Perception for Demo III . Proceedings of IEEE Intelligent Vehicles Symposium, pp. 326-331 .",
+        "DOI": "10.1109/IVS.2000.898363"
+      },
+      {
+        "key": "atypb9",
+        "unstructured": "Bergh, C., Kennedy, B., Matthies, L., and Johnson, A. 2000. A compact and low power two-axis scanning laser rangefinder for mobile robots . Seventh Mechatronics Forum International Conference, Atlanta, Georgia."
+      },
+      {
+        "key": "atypb10",
+        "unstructured": "Biesiadecki, J., Leger, C., and Maimone, M. 2005. Tradeoffs Between Directed and Autonomous on the Mars Exploration Rovers . In Proceedings of International Symposium of Robotics Research, San Francisco."
+      },
+      {
+        "key": "atypb11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10514-005-0724-z"
+      },
+      {
+        "key": "atypb12",
+        "unstructured": "Bradley, D., Thayer, S. M., Stentz, A., and Rander, P. 2004. Vegetation detection for mobile robot navigation. CMU Technical Report 04-12."
+      },
+      {
+        "key": "atypb13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Broggi, A., Bertozzi, M., Fascioli, A., Guarino LoBianco, C., and Piazzi, A. 2000. Visual perception of obstacles and vehicles for platooning . IEEE Trans. Intell. Transport. Sys.1(3).",
+        "DOI": "10.1109/6979.892153"
+      },
+      {
+        "key": "atypb14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chang, T. S., Qui, K., and Nitao, J. J. 1986. An Obstacle Avoidance Algorithm for an Autonomous Land Vehicle . Proceedings of the SPIE Conference on Mobile Robots, pp. 117-123 .",
+        "DOI": "10.1117/12.937790"
+      },
+      {
+        "key": "atypb15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chatila, R. and Lacroix, S. 1995. Adaptive Navigation for Autonomous Mobile Robots . 7th International Symposium on Robotics Research, Munich, Germany.",
+        "DOI": "10.1007/978-1-4471-1021-7_49"
+      },
+      {
+        "key": "atypb16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/70.760342"
+      },
+      {
+        "key": "atypb17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Clark, R. N., Swayze, G. A., Livo, K. E., Kokaly, R. F., Sutley, S. J., Dalton, J. B., McDougal, R. R., and Gent, C. A. 2003. Imaging spectroscopy: Earth and planetary remote sensing with the USGS Tetracorder and expert systems . J. Geophys. Res. 108(E12), 5131 , doi:10.1029/2002JE001847, pp. 5-1 to 5-44 , http://speclab.cr.usgs.gov/PAPERS/tetracorder.",
+        "DOI": "10.1029/2002JE001847"
+      },
+      {
+        "key": "atypb18",
+        "unstructured": "Daily, M., Harris, J., Kiersey, D., Olin, D., Payton, D., Reiser, K., Rosenblatt, J., Tseng, D., and Wong. V. 1988. Autonomous Cross Country Navigation with the ALV . Proceedings of the IEEE International Conference on Robotics and Automation, Philadelphia, Pa, pp. 718-726 ."
+      },
+      {
+        "key": "atypb19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0278364905057865"
+      },
+      {
+        "key": "atypb20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dickmanns, E. D. and Zapp. A. 1987. Automonous high speed road vehicle guidance by computer vision . In:Automatic Control\u2014World Congress, 1987: Selected Papers from the 10th Triennial World Congress of the International Federation of Automatic Control, (edR. Isermann) pp. 221-226 , Munich, Germany, Pergamon.",
+        "DOI": "10.1016/S1474-6670(17)55320-3"
+      },
+      {
+        "key": "atypb21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/70.938381"
+      },
+      {
+        "key": "atypb22",
+        "unstructured": "Duff, E. and Roberts, J. 2003. Wall-Following with Constrained Active Contours . Proceedings of the 4th International Conference on Field and Service Robotics."
+      },
+      {
+        "key": "atypb23",
+        "unstructured": "Dunlay, R. T. and Morgenthaler, D. G. 1986a. Obstacle Detection and Avoidance from Range Data . Proceedings of SPIE Conference on Mobile Robots, Cambridge, MA."
+      },
+      {
+        "key": "atypb24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dunlay, R. T. and Morgenthaler, D. G. 1986b. Obstacle Avoidance on Roadways Using Range Data . Proceedings of SPIE Conference on Mobile Robots, Cambridge, MA.",
+        "DOI": "10.1117/12.937789"
+      },
+      {
+        "key": "atypb25",
+        "unstructured": "Faugeras O.et al. 1993. Real-time correlation-based stereo: algorithm, implementation and applications. INRIA Technical Report n. 2013."
+      },
+      {
+        "key": "atypb26",
+        "unstructured": "Feng, D., Singh, S., and Krogh, B. 1990. Implementation of Dynamic Obstacle Avoidance on the CMU Navlab . Proceedings of IEEE Conference on Systems Engineering."
+      },
+      {
+        "key": "atypb27",
+        "unstructured": "Ferguson, D. and Stentz, A. 2005. Field D*: An Interpolation-based Path Planner and Replanner. Carnegie Mellon Robotics Institute Technical Report CMU-RI-TR-05-19."
+      },
+      {
+        "key": "atypb28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1117/12.968264"
+      },
+      {
+        "key": "atypb29",
+        "unstructured": "Gat, E. 1998. Three-layer architectures. In: Artificial intelligence and mobile robots: case studies of successful robot systems, pp. 195-210, MIT Press ."
+      },
+      {
+        "key": "atypb30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Giralt, G. and Boissier, L. 1992. The French Planetary Rover VAP: Concept and Current Developments . Proceedings of IEEE Int\u2019l Workshop on Intelligent Robots and Systems, IEEE, Piscataway, N.J., pp. 1391-1398 .",
+        "DOI": "10.1109/IROS.1992.594565"
+      },
+      {
+        "key": "atypb31",
+        "unstructured": "Goldberg, S., Maimone, M., and Matthies, L. 2002. Stereo vision and rover navigation software for planetary exploration . Proceedings of the IEEE Aerospace Conference, pp. 2025-2036 ."
+      },
+      {
+        "key": "atypb32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Golden, J. P. 1980. Terrain Contour Matching (TERCOM): A Cruise Missile Guidance Aid . Proceedings of International Soc. for Optical Eng. (SPIE) Image Processing for Missile Guidance 238: 10-18 .",
+        "DOI": "10.1117/12.959127"
+      },
+      {
+        "key": "atypb33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gowdy, J., Stentz, A., and Hebert, M. 1990. Hierarchical Terrain Representation for Off-Road Navigation . Proceedings of SPIE Mobile Robots.",
+        "DOI": "10.1117/12.25462"
+      },
+      {
+        "key": "atypb34",
+        "unstructured": "Guivant, J. and Nebot, E. 2003. Implementation of simultaneous navigation and mapping in large outdoor environments . Robotics Research: The Tenth International Symposium, Springer."
+      },
+      {
+        "key": "atypb35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1015626121039"
+      },
+      {
+        "key": "atypb36",
+        "unstructured": "Hebert, M., Kanade, T., and Kweon, I. 1988. 3-DVision Techniques for Autonomous Vehicles. The Robotics Institute, Carnegie Mellon University, Pittsburgh, PA , Technical Report CMU-RI-TR-88-12."
+      },
+      {
+        "key": "atypb37",
+        "unstructured": "Hotz, B., Zhang, Z., and Fua, P. 1993. Incremental Construction of Local DEM for an Autonomous Planetary Rover . Workshop on Computer Vision for Space Applications, Antibes."
+      },
+      {
+        "key": "atypb38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/5.265351"
+      },
+      {
+        "key": "atypb39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TRO.2004.829462"
+      },
+      {
+        "key": "atypb40",
+        "unstructured": "Iwata, T. and Nakatani, I. 1992. Overviews of the Japanese Activities on Planetary Rovers . Proceedings of 43rd Congress of the International Astronautical Federation."
+      },
+      {
+        "key": "atypb41",
+        "unstructured": "Kanade, T.et al. 1996. A stereo video rate dense depth mapping applications . Proceedings of CVPR96."
+      },
+      {
+        "key": "atypb42",
+        "unstructured": "Kauth, R. J. and Thomas, G. S. 1976. The Tasseled Cap\u2014A Graphic Description of the Spectral-Temporal Development of Agricultural Crops as Seen by Landsat . LARS: Proceedings of the Symposium on Machine Processing of Remotely Sensed Data, West Lafayette, IN: Purdue University, pp. 4B-41-4B-51 ."
+      },
+      {
+        "key": "atypb43",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kehternavaz, N., Griswold, N., and Lee, S. 1991. Visual control of an autonomous vehicle (BART)\u2014the vehicle following problem . Transactions on Vehicular Technology 40(3).",
+        "DOI": "10.1109/25.97520"
+      },
+      {
+        "key": "atypb44",
+        "unstructured": "Keirsey, D., Payton, D., and Rosenblatt, J. 1988. Autonomous Navigation in Cross-Country Terrain . Proceedings of Image Understanding Workshop."
+      },
+      {
+        "key": "atypb45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/02783649030227008"
+      },
+      {
+        "key": "atypb46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1008822205706"
+      },
+      {
+        "key": "atypb47",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Konolige, K. 1997. Small Vision Systems: Hardware and Implementation . Eighth International Symposium on Robotics Research, Hayama, Japan.",
+        "DOI": "10.1007/978-1-4471-1580-9_19"
+      },
+      {
+        "key": "atypb48",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Krotkov, E., Fish, S., Jackel, L., McBride, W., Perschbacher, M., and Pippine, J. 2006. The DAPRA PerceptOR Evaluation Experiments. To appear, Autonomous Robots.",
+        "DOI": "10.1007/s10514-006-9000-0"
+      },
+      {
+        "key": "atypb49",
+        "unstructured": "Lacaze, A., Murphy, K., and DelGiorno, M. 2002. Autonomous mobility for the DEMO III Experimental Unmanned Vehicle. Association for Unmanned Vehicle Systems\u2014Unmanned Vehicle."
+      },
+      {
+        "key": "atypb50",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lacaze, A., et al. 1998. Path planning for autonomous vehicles driving over rough terrain . Proceedings of the IEE ISIC/CIRA/ISAS Joint Conf., pp. 50-55 .",
+        "DOI": "10.1109/ISIC.1998.713634"
+      },
+      {
+        "key": "atypb51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/70.338532"
+      },
+      {
+        "key": "atypb52",
+        "unstructured": "Lescoe, P., Lavery, D., and Bedard, R. 1991. Navigation of Military and Space Unmanned Ground Vehicles in Unstructured Terrains . Proceedings of the Third Conference on Military Robotic Applications."
+      },
+      {
+        "key": "atypb53",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Macedo, J., Manduchi, R., and Matthies, L. 2000. Ladar-based discrimination of grass from obstacles for autonomous navigation . Proceedings of International Symposium on Experimental Robotics, pp. 111-120 .",
+        "DOI": "10.1007/3-540-45118-8_12"
+      },
+      {
+        "key": "atypb54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/B:AURO.0000047286.62481.1d"
+      },
+      {
+        "key": "atypb55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00126401"
+      },
+      {
+        "key": "atypb56",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Matthies, L. and Grandjean, P. 1994. Stochastic Performance Modeling and Evaluation of Obstacle Detectability with Imaging Range Sensors . IEEE Transactions on Robotics and Automation, Special Issue on Perception-based Real World Navigation 10(6).",
+        "DOI": "10.1109/70.338533"
+      },
+      {
+        "key": "atypb57",
+        "unstructured": "McGovern, D. E. 1990. Experiences and Results in Teleoperation of Land Vehicles. Sandia Report SAND90-0299, Sandia National Laboratories, Albuquerque, NM."
+      },
+      {
+        "key": "atypb58",
+        "unstructured": "Mettala, E. 1993. Reconnaissance, Surveillance and Target Acquisition Research for the Unmanned Ground Vehicle Program . Proceedings of Image Understanding Workshop, Morgan Kaufmann, San Francisco, pp. 275-279 ."
+      },
+      {
+        "key": "atypb59",
+        "unstructured": "Miller, J. R. and Amidi, O. 1998. 3- D Site Mapping with the CMU Autonomous Helicopter . Proceedings of the 5th International Conference on Intelligent Autonomous Systems (IAS-5)."
+      },
+      {
+        "key": "atypb60",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Miller, J. R., Amidi, O., Thorpe, C., and Kanade, T. 1999. Precision 3-D Modeling for Autonomous Helicopter Flight . Proceedings of International Symposium of Robotics Research (ISRR).",
+        "DOI": "10.1007/978-1-4471-0765-1_18"
+      },
+      {
+        "key": "atypb61",
+        "unstructured": "Moravec, H. P. 1980. Obstacle Avoidance and Navigation in the Real World by a Seeing Robot Rover. PhD Thesis, Stanford University, Stanford, CA."
+      },
+      {
+        "key": "atypb62",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nashashibi, F., Fillatreau, P., Dacre-Wright, B., and Simeon, T. 1994. 3-d autonomous navigation in a natural environment . Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 94), 1: 433-439 .",
+        "DOI": "10.1109/ROBOT.1994.351258"
+      },
+      {
+        "key": "atypb63",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nishihara, H. K. 1984. PRISM: A Practical Real-Time Imaging Stereo Matcher, Massachusetts Institute of Technology, Cambridge, MA .",
+        "DOI": "10.1117/12.7973334"
+      },
+      {
+        "key": "atypb64",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nist\u00e9r, D., Naroditsky, O., and Bergen, J. 2004. Visual odometry . Proceedings of IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2004), 1: 652-659 .",
+        "DOI": "10.1109/CVPR.2004.1315094"
+      },
+      {
+        "key": "atypb65",
+        "unstructured": "Ojeda, L., Borenstein, J., Witus, G., and Karlsen, R. Terrain Characterization and Classification with a Mobile Robot, to appear . Journal of Field Robotics."
+      },
+      {
+        "key": "atypb66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/64.85918"
+      },
+      {
+        "key": "atypb67",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pomerleau, D. and Jochem, T. 1996. Rapidly Adapting Machine Vision for Automated Vehicle Steering . IEEE Expert: Special Issue on Intelligent System and their Applications 11(2): 19-27 .",
+        "DOI": "10.1109/64.491277"
+      },
+      {
+        "key": "atypb68",
+        "unstructured": "Richardson, A. J. and Wiegand, C. L. 1977. Distinguishing vegetation from soil background information . Photogrammetric Engineering and Remote Sensing 43: 1541-1552 ."
+      },
+      {
+        "key": "atypb69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/02783649922066547"
+      },
+      {
+        "key": "atypb70",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Roumeliotis, S., Johnson, A., and Montgomery, J. 2002. Augmenting Inertial Navigation with Image-Based Motion Estimation . Proceedings of 2002 IEEE International Conference on Robotics and Automation, Washington D.C., May 11-15, pp. 4326-4333 .",
+        "DOI": "10.1109/ROBOT.2002.1014441"
+      },
+      {
+        "key": "atypb71",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Saridis, G. 1983. Intelligent Robot Control . IEEE Trans on Automatic Control AC-28(5): 547-556 .",
+        "DOI": "10.1109/TAC.1983.1103278"
+      },
+      {
+        "key": "atypb72",
+        "unstructured": "Schenker, P., Hunstberger, T., Pirjanian, P., Dubowski, S., Iagnemma, K., and Sujan, V. 2003. Rovers for Agile Intelligent Traverse of Challenging Terrain . Proceedings of the 7th International Symposium on Artificial Intelligence, Robotics and Automation in Space, i-SAIRAS, Nara, Japan."
+      },
+      {
+        "key": "atypb73",
+        "unstructured": "Shoemaker, C. M. and Bornstein, J. A. 1998. The Demo III UGV program: A test bed for autonomous navigation Research . IEEE International Symposium on Intelligent Control, Gaithersburg, MD."
+      },
+      {
+        "key": "atypb74",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Simeon, T. and Dacre-Wright, B. 1993. A practical motion planner for all-terrain mobile robots . Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 93), 2: 1357-1363 . IEEE.",
+        "DOI": "10.1109/IROS.1993.583778"
+      },
+      {
+        "key": "atypb75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/rob.4620110604"
+      },
+      {
+        "key": "atypb76",
+        "unstructured": "Stentz, A. 1994. Optimal and Efficient Path Planning For Partially-Known Environments . Proceedings of IEEE ICRA."
+      },
+      {
+        "key": "atypb77",
+        "unstructured": "Stentz, A. 1995. The Focussed D* Algorithm for Real-Time Replanning . Proceedings of IJCAI-95, August."
+      },
+      {
+        "key": "atypb78",
+        "unstructured": "Stentz, A., Kelly, A., Rander, P., Herman, H., Amidi, O., and Mandelbaum, R. 2002. Integrated Air/Ground Vehicle System for Semi-Autonomous Off-Road Navigation . Proceedings of the AUVSI Unmanned Systems Conference."
+      },
+      {
+        "key": "atypb79",
+        "unstructured": "Stentz, A., Kelly, A., Rander, P., Herman, H., Amidi, O., Mandelbaum, R., Salgian, G., and Pedersen, J. 2003. Real-Time, Multi-Perspective Perception for Unmanned Ground Vehicles . Proceedings of the AUVSI Unmanned Systems Conference."
+      },
+      {
+        "key": "atypb80",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sukkarieh, S., Gibbens, P., Grocholsky, B., Willis K., and Durrant-Whyte, H. F. 2000. A Low-Cost, Redundant Inertial Measurement Unit for Unmanned Air Vehicles . International Journal of Robotics Research 19(11).",
+        "DOI": "10.1177/02783640022067995"
+      },
+      {
+        "key": "atypb81",
+        "unstructured": "Talukder, A., Manduchi, R., Rankin, A., and Matthies, L. 2002. Fast and Reliable Obstacle Detection and Segmentation for Cross-Country Navigation . IEEE Intelligent Vehicles."
+      },
+      {
+        "key": "atypb82",
+        "unstructured": "Thompson. A. 1977. The Navigation System of the JPL Robot . Proceedings of the International Joint Conference for Artificial Intelligence, pp. 749-757 ."
+      },
+      {
+        "key": "atypb83",
+        "unstructured": "Thorpe, C. and Durrant-Whyte, H. 2001. Field Robots . Proceedings of the 10th International Symposium of Robotics Research, Lorne, Victoria, Australia, November. Springer-Verlag, London."
+      },
+      {
+        "key": "atypb84",
+        "unstructured": "Vandapel, N. and Herbert, M. 2004. Finding Organized Structures in 3-D LADAR Data . Army Science Conference."
+      },
+      {
+        "key": "atypb85",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Vandapel, N., Huber, D., Kapuria, A., and Herbert, M. 2004. Natural Terrain Classification using 3-D Ladar Data . International Conference on Robotics and Automation, April.",
+        "DOI": "10.1109/ROBOT.2004.1302529"
+      },
+      {
+        "key": "atypb86",
+        "unstructured": "Wellington, C. and Stentz, A. 2003. Learning Predictions of the Load-Bearing Surface for Autonomous Rough-Terrain Navigation in Vegetation . International Conference on Field and Service Robots, pp. 49-54 ."
+      },
+      {
+        "key": "atypb87",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Willstatter, R. and Stoll, A. 1913. Untersuchungen \u00fcber Chlorophyll. Springer, Berlin.",
+        "DOI": "10.1007/978-3-642-49665-3"
+      }
+    ],
+    "container-title": [
+      "The International Journal of Robotics Research"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0278364906065543",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0278364906065543",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2026-04-29T10:15:47Z",
+      "timestamp": 1777457747000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/0278364906065543"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          5
+        ]
+      ]
+    },
+    "references-count": 87,
+    "journal-issue": {
+      "issue": "5-6",
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/0278364906065543"
+    ],
+    "URL": "https://doi.org/10.1177/0278364906065543",
+    "relation": {},
+    "ISSN": [
+      "0278-3649",
+      "1741-3176"
+    ],
+    "issn-type": [
+      {
+        "value": "0278-3649",
+        "type": "print"
+      },
+      {
+        "value": "1741-3176",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          5
+        ]
+      ]
+    }
+  }
+}

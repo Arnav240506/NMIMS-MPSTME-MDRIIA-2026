@@ -1,0 +1,1 @@
+Genuine native UI captures from this verification session. The live viewport image shows actual stepped physics, not state replay. Business screenshots show the base scenario and the unstable-queue message after interacting with the slider. These are technical QA evidence, not student webcam/showcase completion.

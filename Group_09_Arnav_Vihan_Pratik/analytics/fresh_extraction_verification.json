@@ -1,0 +1,266 @@
+{
+  "status": "PASS",
+  "procedure": "Extracted clean ZIP into a new directory, created a separate CPython 3.12 environment, installed dependencies, ran actual PowerShell entry points and automated tests",
+  "independent_dependencies_match_full_lock": true,
+  "installed_package_count": 31,
+  "tests_passed": 34,
+  "fresh_mission_summary": {
+    "trial_id": "mission_20261025_231954",
+    "config": {
+      "seed": 42,
+      "mode": "mission",
+      "policy": "shared",
+      "latency_s": 0.35,
+      "duration_s": 75.0,
+      "speed_m_s": 0.3,
+      "timestep": 0.002
+    },
+    "model_version": "m20-rectified-v1",
+    "source_sha256": "24a1c256abcc9a5bc3d0b38ecae3354d8a9f313ff8daf0e2b9c18daa8f7b2f96",
+    "started_utc": "2026-10-25T17:49:55.714324+00:00",
+    "finished_utc": "2026-10-25T17:50:29.403796+00:00",
+    "wall_s": 33.69628819999343,
+    "simulated_s": 59.36800000002659,
+    "python": "3.12.14",
+    "mujoco": "3.11.0",
+    "numpy": "2.5.4",
+    "mass_kg": 34.525856000000005,
+    "nq": 23,
+    "nv": 22,
+    "nu": 16,
+    "terrain": {
+      "config": {
+        "seed": 42,
+        "mode": "mission",
+        "policy": "shared",
+        "latency_s": 0.35,
+        "duration_s": 75.0,
+        "speed_m_s": 0.3,
+        "timestep": 0.002
+      },
+      "version": "m20-rectified-v1",
+      "friction": 1.0595824194223853,
+      "goal": [
+        4.2,
+        0.0
+      ],
+      "step_lip_m": 2.8,
+      "step_height_m": 0.08,
+      "hazards": [
+        "hazard_barrier",
+        "storage_tank"
+      ],
+      "supports": [
+        "floor",
+        "rubble_step",
+        "low_rubble_0",
+        "low_rubble_3",
+        "low_rubble_5",
+        "low_rubble_7",
+        "low_rubble_9"
+      ]
+    },
+    "accepted": true,
+    "status": "goal",
+    "goal_reached": true,
+    "goal_error_m": 0.10775020889516052,
+    "walking_verified": false,
+    "climb_started": true,
+    "climb_verified": true,
+    "front_pair_air": true,
+    "rear_pair_air": true,
+    "front_resupport": true,
+    "rear_resupport": true,
+    "standing_reference_z_m": 0.5257267652097596,
+    "final_base_z_m": 0.6078140775755949,
+    "path_length_m": 8.566122255694188,
+    "harmful_contact_steps": 0,
+    "harmful_contacts": {},
+    "expected_support_contacts": 138682,
+    "self_contact_instances": 0,
+    "rollover": false,
+    "tilt_stop": false,
+    "max_abs_roll_deg": 1.3768745399058326,
+    "max_abs_pitch_deg": 11.647651868423432,
+    "closest_forward_clearance_m": 0.007440507447634579,
+    "interventions": 2,
+    "mean_slip_proxy": 0.5356740321701418,
+    "max_slip_proxy": 0.9999860500959792,
+    "map_coverage": 0.96825,
+    "ray_hits": 8481844,
+    "planner_calls": 147,
+    "absolute_mechanical_work_J": 3561.430911480907,
+    "final_foot_centers_m": [
+      [
+        4.3378415604133265,
+        0.2948606347985471,
+        0.1715164548408935
+      ],
+      [
+        4.448559592075937,
+        -0.21751319043696876,
+        0.17190470855331796
+      ],
+      [
+        3.736677841004872,
+        0.187787217538622,
+        0.17189875437243232
+      ],
+      [
+        3.847377739405305,
+        -0.32449765034745204,
+        0.17151738667757907
+      ]
+    ],
+    "final_supports": [
+      true,
+      false,
+      false,
+      true
+    ],
+    "sensing": "ideal ray intersections with true MuJoCo pose; interleaved 50 Hz; cost 10 Hz; plan 5 Hz",
+    "slip_definition": "kinematic hub-speed discrepancy, not a calibrated contact slip estimator"
+  },
+  "fresh_walking_summary": {
+    "trial_id": "walk_20261025_231939",
+    "config": {
+      "seed": 42,
+      "mode": "walk",
+      "policy": "shared",
+      "latency_s": 0.35,
+      "duration_s": 12.0,
+      "speed_m_s": 0.3,
+      "timestep": 0.002
+    },
+    "model_version": "m20-rectified-v1",
+    "source_sha256": "24a1c256abcc9a5bc3d0b38ecae3354d8a9f313ff8daf0e2b9c18daa8f7b2f96",
+    "started_utc": "2026-10-25T17:49:44.992868+00:00",
+    "finished_utc": "2026-10-25T17:49:49.496260+00:00",
+    "wall_s": 4.502656800003024,
+    "simulated_s": 12.000000000000677,
+    "python": "3.12.14",
+    "mujoco": "3.11.0",
+    "numpy": "2.5.4",
+    "mass_kg": 34.525856000000005,
+    "nq": 23,
+    "nv": 22,
+    "nu": 16,
+    "terrain": {
+      "config": {
+        "seed": 42,
+        "mode": "walk",
+        "policy": "shared",
+        "latency_s": 0.35,
+        "duration_s": 12.0,
+        "speed_m_s": 0.3,
+        "timestep": 0.002
+      },
+      "version": "m20-rectified-v1",
+      "friction": 1.0595824194223853,
+      "goal": [
+        3.0,
+        0.0
+      ],
+      "step_lip_m": null,
+      "step_height_m": 0.0,
+      "hazards": [
+        "storage_tank"
+      ],
+      "supports": [
+        "floor"
+      ]
+    },
+    "accepted": true,
+    "status": "walking_verified",
+    "goal_reached": false,
+    "goal_error_m": 2.1875636287046896,
+    "walking_verified": true,
+    "climb_started": false,
+    "climb_verified": false,
+    "front_pair_air": false,
+    "rear_pair_air": false,
+    "front_resupport": false,
+    "rear_resupport": false,
+    "standing_reference_z_m": 0.5249104458535685,
+    "final_base_z_m": 0.5261340731208689,
+    "path_length_m": 0.981383773866958,
+    "harmful_contact_steps": 0,
+    "harmful_contacts": {},
+    "expected_support_contacts": 17396,
+    "self_contact_instances": 0,
+    "rollover": false,
+    "tilt_stop": false,
+    "max_abs_roll_deg": 3.668966564822443,
+    "max_abs_pitch_deg": 2.7066170610125426,
+    "closest_forward_clearance_m": 3.073346320787211,
+    "interventions": 0,
+    "mean_slip_proxy": 0.4633857060650889,
+    "max_slip_proxy": 0.9085259098543071,
+    "map_coverage": 0.941375,
+    "ray_hits": 1624987,
+    "planner_calls": 0,
+    "absolute_mechanical_work_J": 391.05682531809026,
+    "final_foot_centers_m": [
+      [
+        1.0762263086787358,
+        0.2581824745278163,
+        0.09157141536501207
+      ],
+      [
+        1.123083428635788,
+        -0.27838598473494763,
+        0.12957508282522387
+      ],
+      [
+        0.4970506919732268,
+        0.27171176248373885,
+        0.1566993934273331
+      ],
+      [
+        0.4635237177916414,
+        -0.26831272120327415,
+        0.0908540236108463
+      ]
+    ],
+    "final_supports": [
+      true,
+      false,
+      false,
+      true
+    ],
+    "sensing": "ideal ray intersections with true MuJoCo pose; interleaved 50 Hz; cost 10 Hz; plan 5 Hz",
+    "slip_definition": "kinematic hub-speed discrepancy, not a calibrated contact slip estimator"
+  },
+  "all_mission_state_arrays_bitwise_identical_to_showcase": true,
+  "array_comparison": {
+    "qpos": {
+      "bitwise_equal": true,
+      "max_abs_difference": 0.0
+    },
+    "qvel": {
+      "bitwise_equal": true,
+      "max_abs_difference": 0.0
+    },
+    "ctrl": {
+      "bitwise_equal": true,
+      "max_abs_difference": 0.0
+    },
+    "targets": {
+      "bitwise_equal": true,
+      "max_abs_difference": 0.0
+    },
+    "time": {
+      "bitwise_equal": true,
+      "max_abs_difference": 0.0
+    }
+  },
+  "base_source_sha256": "24a1c256abcc9a5bc3d0b38ecae3354d8a9f313ff8daf0e2b9c18daa8f7b2f96",
+  "scope": "100-trial batch was not rerun in full; its logs/source hashes were audited separately. Fresh mission and walking were actual new simulations.",
+  "fresh_smoke": {
+    "executed_simulations": 6,
+    "matched_pairs": 3,
+    "baseline_accepted": 1,
+    "shared_accepted": 2,
+    "scope": "Additional smoke cases, excluded from primary 50-pair statistics; failed missions remain failures. New batch-worker JSON aggregation path completed successfully."
+  }
+}
