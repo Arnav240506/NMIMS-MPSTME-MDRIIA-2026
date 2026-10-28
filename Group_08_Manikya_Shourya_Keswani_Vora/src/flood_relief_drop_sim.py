@@ -507,7 +507,7 @@ def main():
     ap.add_argument("--wind", type=float, default=10.0, help="mean crosswind for --view (m/s)")
     ap.add_argument("--payload", type=float, default=2.0, help="canister mass for --view (kg)")
     ap.add_argument("--seed", type=int, default=7)
-    ap.add_argument("--battery-soc", type=float, default=1.0, help="initial state of charge (try 0.3 to see the reserve abort)")
+    ap.add_argument("--battery-soc", type=float, default=1.0, help="initial state of charge (try 0.27 to see the reserve abort)")
     ap.add_argument("--speed", type=float, default=1.0, help="viewer playback speed")
     ap.add_argument("--trials", type=int, default=0, help="Monte Carlo runs per wind level per controller")
     ap.add_argument("--winds", type=float, nargs="+", default=[0, 5, 10, 15])

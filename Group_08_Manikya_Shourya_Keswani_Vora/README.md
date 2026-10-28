@@ -7,6 +7,15 @@
 
 The technical dossier is in [`docs/MDRIIA_Group_08_Technical_Dossier.pdf`](docs/).
 
+## Videos
+
+| Video | Link |
+|---|---|
+| LinkedIn showcase (all four members, 3:45) | https://lnkd.in/p/dwu8AHcT |
+| Background simulation only, Full HD 1080p, no voice-over (3:45) | https://drive.google.com/file/d/1WLYJijy1D3bz0LdORWOzSMSYkpFt4-Bg/view?usp=sharing |
+
+The background video was rendered from this repository: the valley clips from `simulate.py`'s scene with the stage-3 RL pilot replay (`results/stage3/replay.json`), the drop clips from `src/flood_relief_drop_sim.py` (proposed at 10 m/s, baseline at 15 m/s, `--battery-soc 0.27` abort), and the graphs from `analytics/`. The spoken script and cues are in [`docs/LINKEDIN_VIDEO_SCRIPT.md`](docs/LINKEDIN_VIDEO_SCRIPT.md).
+
 ## What is in this folder
 
 | Path | What it is | Dossier |
@@ -34,7 +43,7 @@ python -c "import mujoco; mujoco.MjModel.from_xml_path('models/skyhydro_flood_ua
 # 2. watch one drop (FSM state shown in the viewer: text overlay + status-light colour)
 python src/flood_relief_drop_sim.py --view                                # proposed controller, 10 m/s crosswind
 python src/flood_relief_drop_sim.py --view --controller baseline --wind 15   # baseline misses
-python src/flood_relief_drop_sim.py --view --battery-soc 0.3              # handled failure: battery-reserve ABORT
+python src/flood_relief_drop_sim.py --view --battery-soc 0.27              # handled failure: battery-reserve ABORT
 
 # 3. Monte Carlo trials -> statistics -> business model (re-creates every number in the dossier)
 python src/flood_relief_drop_sim.py --trials 30                           # 240 runs, ~15-60 min depending on CPU
