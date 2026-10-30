@@ -1,6 +1,6 @@
 # MDRIIA Group 04: Multi-Arm Robotic Gripper for Non-Cooperative Space Debris Capture in LEO
 **Course:** Modern Day Robotics and Its Industrial Applications (MDRIIA - Course Code: 702CO0E012)  
-**Academic Term:** Academic Year 2026–2027 | Semester VI (B.Tech CSBS)  
+**Academic Term:** Academic Year 2026–2027 | Semester V (B.Tech CSBS)  
 **Institution:** SVKM's NMIMS MPSTME, Mumbai  
 
 ---
@@ -12,8 +12,8 @@
 ### Core Engineering Focus
 * **Physics & Kinematics:** Google DeepMind MuJoCo multi-body dynamic physics simulation (`models/space_debris_gripper.xml`).
 * **Autonomous Control:** Closed-loop Python control architecture with student implementation boundaries (`src/debris_capture_controller.py`).
-* **Technoeconomic Evaluation:** Dimensionless CSBS operational economics and return on investment model (`analytics/constellation_economics.py`).
-* **Empirical Validation:** Reproducible benchmark trials and statistical hypothesis testing (`analytics/space_debris_capture_real_trials.csv`).
+* **Technoeconomic Evaluation:** Dimensionless CSBS operational economics, cost per operation, and return on investment model (`analytics/constellation_economics.py`).
+* **Empirical Validation:** Reproducible benchmark trials across 60 paired Monte Carlo runs and statistical hypothesis testing (`analytics/real_trials_summary.csv`, `analytics/impedance_real_trials.csv`, and `analytics/rigid_pd_real_trials.csv`).
 
 ---
 
@@ -27,9 +27,9 @@
 
 | Roll No | SAP ID | Student Name | Technical Role | Assigned Git Branch | Core Viva Defense Area |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `E034` | `70362400049` | **Rishi Vinod Koli** | Lead Orbital Dynamics & MuJoCo Multi-Body Physics Architect | `feat/e034-lead-orbital-dynamic` | Zero-gravity multi-body spacecraft dynamics, Generalized Jacobian Matrix (GJM), and momentum transfer during contact. |
-| `E035` | `70362400032` | **Nicholas Lewis** | Impedance Contact Control & Robotic Kinematics Engineer | `feat/e035-impedance-contact-co` | Cartesian impedance force control, tumbling satellite spin matching, and post-contact detumbling damping. |
-| `E036` | `70362400083` | **Jai Maini** | CSBS Commercial Space Economics & Satellite De-Orbiting Business Analyst | `feat/e036-csbs-commercial-spac` | LEO orbital slot preservation economics, Kessler syndrome collision risk reduction, and multi-mission ADR amortization models. |
+| `E034` | `70362400032` | **Rishi Vinod Koli** | Lead Orbital Dynamics & MuJoCo Multi-Body Physics Architect | `feat/e034-lead-orbital-dynamic` | Zero-gravity multi-body spacecraft dynamics, Generalized Jacobian Matrix (GJM), and momentum transfer during contact. |
+| `E035` | `70362400029` | **Nicholas Lewis** | Impedance Contact Control & Robotic Kinematics Engineer | `feat/e035-impedance-contact-co` | Cartesian impedance force control, tumbling satellite spin matching, and post-contact detumbling damping. |
+| `E036` | `70362400014` | **Jai Maini** | CSBS Commercial Space Economics & Satellite De-Orbiting Business Analyst | `feat/e036-csbs-commercial-spac` | LEO orbital slot preservation economics, Kessler syndrome collision risk reduction, and multi-mission ADR amortization models. |
 
 
 ### Student Engineering Commendation & Acknowledgments
@@ -95,9 +95,13 @@ For the exhaustive literature analysis, mathematical derivations, and viva defen
 |   `-- debris_capture_controller.py                                      <- Autonomous control loop (# TODO student boundaries)
 `-- analytics/
     |-- .gitkeep
-    |-- constellation_economics.py                                      <- CSBS dimensionless technoeconomic model
-    |-- generate_paper_figures.py                      <- Standalone 300 DPI publication figure generator
-    `-- SIMULATED_space_debris_capture_benchmark.csv                                    <- SIMULATED starter targets (np.random), NOT results
+    |-- constellation_economics.py                                      <- CSBS dimensionless technoeconomic model & cost per operation visualizer
+    |-- generate_paper_figures.py                                      <- Standalone 300 DPI publication figure generator
+    |-- run_trials.py                                                  <- Monte Carlo trial runner for impedance vs rigid baseline
+    |-- real_trials_summary.csv                                        <- Empirical benchmark dataset across N=60 paired runs
+    |-- impedance_real_trials.csv                                      <- Empirical trials for proposed compliant impedance controller (N=30)
+    |-- rigid_pd_real_trials.csv                                       <- Empirical trials for baseline rigid PD controller (N=30)
+    `-- runs/                                                          <- High-rate 500 Hz timeseries telemetry runs (force, torque, kinematics)
 ```
 
 ---
@@ -113,7 +117,7 @@ To ensure academic rigor and authentic student learning, this repository enforce
   * Dimensionless technoeconomic framework (`analytics/constellation_economics.py`).
 * **Student Technical Deliverables (Required for Evaluation):**
   * Implement and tune the control algorithm in `src/debris_capture_controller.py` (filling all marked `# TODO [Student Roll / Name]` blocks).
-  * Run physics simulation trials to collect and expand empirical data in `analytics/space_debris_capture_real_trials.csv`.
+  * Run physics simulation trials to collect and expand empirical data in `analytics/real_trials_summary.csv` (`impedance_real_trials.csv` and `rigid_pd_real_trials.csv`).
   * Re-run `analytics/generate_paper_figures.py` to regenerate publication figures with live experimental telemetry.
   * Author the final 4-page IEEE conference paper in `docs/RESEARCH_PAPER_MANUSCRIPT_BLUEPRINT.md` and defend individual Git commits during the oral viva.
 
